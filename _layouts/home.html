@@ -20,40 +20,58 @@ layout: homewrapper
 
 </head>
 
-<body style="background-color:rgba(246,245,245,1);padding-top: 0px">
+<body style="background-color:#fff;padding-top: 0px">
 
   <!-- Navigation -->
   <h1 class="site-heading text-center">
 
      <div id="titleheader">
-        <div class="myprojectheader mb-3" style="color:#00FF85; text-shadow: -.5px .5px #51d294;ro">Project</div>
         <div id="headerMPT" class="site-heading-upper headerMPT"></div>
-        <div id="mypageheader" class="mypageheader my-site-heading-upper subheaderMPT" style="text-transform: none;">Robotics Playground</div>
+        <div id="headmypageheader" class="mypageheader my-site-heading-upper subheaderMPT" style="text-transform: none;">Robotics Playground</div>
      </div>
   </h1>
+  <h2  class="headplaygroundsubheader">
+        Robotics Playground is an experimental library of placemat instructions for robotics activities.
+        <br>
+       Developed by researchers at the Tufts University CEEO, this library is designed to maximize solution diversity and foster student-driven learning. </h2>
 
-
-<div class="container">
-        <h2  class="playgroundsubheader">
-              Robotics Playground is an experimental library of placemat instructions for robotics activities.
-              <br>
-             Developed by researchers at the Tufts University CEEO, this library is designed to maximize solution diversity and foster student-driven learning. </h2>
-
-
-
+<div class="charcontainer">
+<div class="robosec">
      <h1 id="myconpageheader" >Placemat Playlists</h1>
-        <div class="playlist_container">
+        <div class="home_playlist_container">
+             <div class="row no-gutters" >
+                {% assign my_variable = 100 %}
+                {% assign projects = site.playlists %}
+                {% for playlist in projects %}
+                {% if project.url != "/projects/SAMPLE-FILE.html" %}
+                <div class="projectsegment col-sm-6 col-md-3 col-lg-2" >
+                   <a class = "work-thumb" href="{{ playlist.url | prepend: site.baseurl | replace: '//', '/' | replace: "'", '%27' | replace: ' ', '%20' }}" >
+                   <div class="work-text">
+                      <h2>{{playlist.title}}</h2>
+                      <p >ROBOTICS PLAYGROUNDS</p>
+                      <p class="work-text2">{{project.description}}</p>
+                   </div>
+                   <div id="block" style="background-image: url({{playlist.displayimg | replace: ' ', '%20' }})" >  </div>
+                    </a>
+                </div>
+                {%endif%}
+                {%endfor%}
+             </div>
               {% for playlist in site.playlists %}
                   <a class="product" href="{{ playlist.url }}">{{playlist.title}}</a>
              {% endfor %}
         </div>
-          <h1 id="myconpageheader">Placemat Library</h1>
+</div>
 
-        <div class="playlist_container">
+
+<div class="robosec">
+       <h1 id="myconpageheader">Placemat Library</h1>
+        <div class="home_playlist_container">
              <div class="iframecontainer">
 	                 <iframe height="1000px" width="100%" style="border:none;" src="https://view-awesome-table.com/-ME0YM1NkC8JwlHj2VS9/view"></iframe>
                  </div>
            </div>
+</div>
  </div>
 
 
