@@ -42,7 +42,8 @@
      background-color: #fff;
      padding: 3%;
      text-align: center;
-     border-radius: 10px;
+     border-radius: 0px;
+     margin-bottom: 5rem;
 }
 .playlist_container h1{
      font-size: 2rem;
@@ -69,7 +70,7 @@
 #myconpageheader {
     font-size: 4vw;
     font-weight: 500;
-    color: #EF476F;
+    color: #000000;
     letter-spacing: -0.05em;
     z-index: 10;
     text-align: left;
@@ -209,6 +210,15 @@
      margin-top:0rem;
 }
 }
+body {
+  counter-reset: section;
+}
+
+.myconpageheader::after {
+  counter-increment: section;
+  content:  counter(section);
+  float:right;
+}
 @media (max-width: 490px){
 .media_content{
      margin-top:1rem;
@@ -219,7 +229,7 @@
 }
 .myButton, .button {
     font-size: 10px;
-}
+     }
 }
 @media (max-width: 360px){
      .myButton, .button {
@@ -241,9 +251,13 @@
      }
 
 
-
-
 }
+.container {
+    max-width: 100%;
+    border-radius: 0px;
+}
+
 .active, .accordion:hover {
-  background-color: #ccc;
+     background-color: #ccc;
+     }
 }

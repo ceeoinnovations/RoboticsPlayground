@@ -99,6 +99,79 @@ placematlinks
 placematpic
 : ../web/img/SimpleCar.jpg
 
+===
+===
+title
+: Percussion Playtime
 
+description
+: Clash clang boom bang! Create a percussion instrument for a band. Drums, cymbals, xylophone, bells—any type of percussion instrument is welcome.
+
+placematlinks
+: https://docs.google.com/presentation/d/16U_gD_QAO_LWQSHycvm1YcRTFNlhLoIZzLz8NBRy8_w/edit?usp=sharing
+: https://docs.google.com/presentation/d/1eqtfP21hUyg6K4sMo93HVZr7ZUFCjPCxfBty2-bbfyQ/edit?usp=sharing
+
+placematpic
+: ../web/img/PercussionPlaytime.png
+
+===
+===
+title
+: Space Exploration
+
+description
+: Blast off on a space adventure! Create a rocket ship, a tool for a space traveler, or even an alien being—there are no limits to this cosmic journey.
+
+placematlinks
+: https://docs.google.com/presentation/d/1KfGJHzB4_PKvtcXJg7ePpHY5NpraUses2zXAbWG50wE/edit?usp=sharing
+: https://docs.google.com/presentation/d/1CnOVp7aVnxWVfEzvolB0rfT6JzIp98QXwm2X3TytvYE/edit?usp=sharing
+
+placematpic
+: ../web/img/SpaceExploration.png
+
+===
+===
+title
+: Proverbial SPIKE Prime
+
+description
+: The early bird catches the worm. Don't put all your eggs in one basket. Make a proverb come to life using SPIKE Prime. Choose a familiar favorite or a proverb from another part of the world.
+
+placematlinks
+: https://docs.google.com/presentation/d/1XByHhVm7YM8CuoFkACpD8PZtsqPgksb_DnkpB9owdO4/edit?usp=sharing
+: https://docs.google.com/presentation/d/1o2ExOMA6k9_ayW0DVOeU1GsAK3I-aA69Zan_E2rEV08/edit?usp=sharing
+
+placematpic
+: ../web/img/Proverbial.png
+
+===
+===
+title
+: Clean Sweep
+
+description
+: Create a sweeper to clear the floor of LEGO bricks or other small LEGO pieces. Any type of device is fine — broom, plow, vacuum — as long as it gets the floor clean.
+
+placematlinks
+: https://docs.google.com/presentation/d/1mPskxfQV375tBrGLwjZndvFqLGarTwiGkj095pRNiDQ/edit?usp=sharing
+: https://docs.google.com/presentation/d/1xEuLz5z291yJ3qtf9nU86mB3ZhCFfNXjeX0ZfQ60b2w/edit?usp=sharing
+
+placematpic
+: ../web/img/CleanSweep.png
+
+===
+===
+title
+: Ball Thrower
+
+description
+: Design a machine to throw a small plastic ball as far as possible..
+
+placematlinks
+: https://docs.google.com/presentation/d/1c39sfqBFalSJbNiBKIbQTILNvjn-KMu_xKnJbDU99-s/edit?usp=sharing
+: https://docs.google.com/presentation/d/1SIxxfHObESBCUiIP83akeQuwnKPjSLbCUZ0NfRI0glY/edit?usp=sharing
+
+placematpic
+: ../web/img/BallThrower.png
 
 ===

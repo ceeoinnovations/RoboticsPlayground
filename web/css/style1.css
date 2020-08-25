@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5,
 
 .site-footer {
   padding: 4em 0;
-  background: #000; }
+  background: #51D294; }
   @media (min-width: 768px) {
     .site-footer {
       padding: 8em 0; } }
@@ -1731,15 +1731,3 @@ h1, h2, h3, h4, h5,
     left: -50px;
     width: 100%;
     height: 100%; }
-
-.site-top {
-  background-image: url(../img/Background.png); }
-  @media (min-width: 768px) {
-  .site-top .border-top {
-    border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
-  .site-top ul li {
-    margin-bottom: 10px; }
-  .site-top .footer-heading {
-    font-size: 16px;
-    color: #dc3545;
-    text-transform: uppercase; }
