@@ -273,7 +273,11 @@ h1, h2, h3, h4, h5,
 
 .site-footer {
   padding: 4em 0;
-  background: #51D294; }
+  background-color: #51D294; 
+}
+
+
+
   @media (min-width: 768px) {
     .site-footer {
       padding: 8em 0; } }
