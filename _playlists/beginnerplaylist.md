@@ -2,7 +2,7 @@
 layout: post
 title: Beginner Playlist
 displayimg: web/img/begin1.jpg
-description: An intro playlist for beginner Lego Users
+description: An intro playlist for beginner LEGO Users
 ---
 
 ===
