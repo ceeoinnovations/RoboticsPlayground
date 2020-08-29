@@ -1,5 +1,18 @@
 .playgroundsubheader {
     color: #fff;
+    font-size: 2rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 400;
+    background-color: #51d294;
+    padding: 3%;
+    text-align: center;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+}
+@media(max-width:2000px){
+.playgroundsubheader {
+    color: #fff;
     font-size: 1.2rem;
     margin-left: 20%;
     margin-right: 20%;
@@ -9,6 +22,22 @@
     text-align: center;
     margin-bottom: 5rem;
     border-radius: 10px;
+}
+}
+
+@media(max-width:600px){
+.playgroundsubheader {
+    color: #fff;
+    font-size: 1rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-weight: 400;
+    background-color: #51d294;
+    padding: 3%;
+    text-align: center;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+}
 }
 .robosec{
      margin-left: 5%;
@@ -171,15 +200,68 @@
      margin-left:10px;
      margin-right:10px;
 }
-.media_element iframe{
-     width: 100%;
-     min-height: 9rem;
-     height: 100%;
+@media(max-width:550px){
+     .media_element img, .media_element iframe, .media_element video{
+          width:100%;
+          margin: 0 auto;
+     }
+}
+@media(max-width: 3200px){
+     .media_element iframe{
+          min-height: 35rem;
+     }
+}
+@media(max-width: 3000px){
+     .media_element iframe{
+          min-height:30rem;
+     }
+}
+@media(max-width: 2700px){
+     .media_element iframe{
+          min-height: 27rem;
+     }
+}
+@media(max-width: 2500px){
+     .media_element iframe{
+          min-height: 20rem;
+     }
+}
+@media(max-width: 2300px){
+     .media_element iframe{
+          min-height: 17rem;
+     }
+}
+@media(max-width: 2100px){
+     .media_element iframe{
+          min-height: 14rem;
+     }
+}
+@media(max-width: 1900px){
+     .media_element iframe{
+          min-height: 13rem;
+     }
+}
+@media(max-width: 1700px){
+     .media_element iframe{
+          min-height: 12rem;
+     }
+}
+@media(max-width: 1500px){
+     .media_element iframe{
+          min-height: 11rem;
+     }
+}
+@media(max-width: 1250px){
+     .media_element iframe{
+          width: 100%;
+          min-height: 10rem;
+          height: 100%;
+     }
 }
 @media(max-width: 1000px){
      .media_element iframe{
           width: 100%;
-          min-height: 7rem;
+          min-height: 8rem;
           height: 100%;
      }
 }

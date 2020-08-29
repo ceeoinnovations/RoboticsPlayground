@@ -267,8 +267,10 @@ blockquote p {
 
      .intro-img{
           width:85%;
+
           margin-left: 7.5%;
           margin-right: 7.5%;
+          max-height: 35rem;
           float:right;
           box-shadow: .5px .5px 10px rgba(0,0,0, 0.1) ;
           padding: 0rem;
@@ -325,7 +327,8 @@ blockquote p {
           margin-right: 0%;
           float:none;
           box-shadow: none;
-          padding: 0rem;
+          max-height: 30rem;
+          padding: 20rem;
      }
 
      .intro .intro-text {

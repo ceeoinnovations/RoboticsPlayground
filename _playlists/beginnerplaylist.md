@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Beginner Playlist
+title: Getting started with SPIKE Prime
 displayimg: web/img/begin1.jpg
-description: An intro playlist for beginner LEGO Users
+description: This playlist highlights a series of activities to get you started doing open ended problem solving challenges with LEGO Education SPIKE Prime.
 ---
 
 ===
