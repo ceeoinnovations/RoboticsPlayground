@@ -209,11 +209,13 @@
 @media(max-width: 3200px){
      .media_element iframe{
           min-height: 35rem;
+          height: 100%;
      }
 }
 @media(max-width: 3000px){
      .media_element iframe{
           min-height:30rem;
+          height: 100%;
      }
 }
 @media(max-width: 2700px){
@@ -224,31 +226,38 @@
 @media(max-width: 2500px){
      .media_element iframe{
           min-height: 20rem;
+          height: 100%;
      }
 }
 @media(max-width: 2300px){
      .media_element iframe{
           min-height: 17rem;
+          height: 100%;
      }
 }
 @media(max-width: 2100px){
      .media_element iframe{
           min-height: 14rem;
+          height: 100%;
      }
 }
 @media(max-width: 1900px){
      .media_element iframe{
           min-height: 13rem;
+          height: 100%;
      }
 }
 @media(max-width: 1700px){
      .media_element iframe{
           min-height: 12rem;
+          height: 100%;
      }
 }
 @media(max-width: 1500px){
      .media_element iframe{
           min-height: 11rem;
+          height: 100%;
+
      }
 }
 @media(max-width: 1250px){
