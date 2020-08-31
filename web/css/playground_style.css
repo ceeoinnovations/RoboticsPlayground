@@ -195,6 +195,9 @@
 .def_bloc_img_head{
      width: 100%;
 }
+.media_element{
+     height: auto;
+}
 .media_element img, .media_element iframe, .media_element video{
      width:100%;
      margin-left:10px;
@@ -210,11 +213,12 @@
      .media_element iframe{
           min-height: 31rem;
           height: 100%;
+          max-height: 100%;
      }
 }
 @media(max-width: 3000px){
      .media_element iframe{
-          min-height:30rem;
+          min-height:33rem;
           height: 100%;
      }
 }
@@ -225,17 +229,17 @@
 }
 @media(max-width: 2500px){
      .media_element iframe{
-          min-height: 20rem;
+          min-height: 24rem;
           height: 100%;
      }
 }
 @media(max-width: 2300px){
      .media_element iframe{
-          min-height: 17rem;
+          min-height: 21rem;
           height: 100%;
      }
 }
-@media(max-width: 2100px){
+@media(max-width: 2000px){
      .media_element iframe{
           min-height: 18rem;
           height: 100%;
@@ -243,7 +247,7 @@
 }
 @media(max-width: 1900px){
      .media_element iframe{
-          min-height: 13rem;
+          min-height: 17rem;
           height: 100%;
      }
 }
@@ -297,7 +301,7 @@
 }
 @media(min-width: 3500px){
      .media_element iframe{
-          min-height: 33rem;
+          min-height: 38rem;
           height:100%;
      }
 }
@@ -377,17 +381,17 @@
 }
 @media(min-width: 2300px){
      .playlist_descrip{
-          font-size: 1.5rem;
+          font-size: 2.5rem;
      }
 }
 @media(min-width: 3000px){
      .playlist_descrip{
-          font-size: 2.2rem;
+          font-size: 2.75rem;
      }
 }
 @media(min-width: 4000px){
      .playlist_descrip{
-          font-size: 2.4rem;
+          font-size: 3rem;
      }
 }
 @media (min-width: 6000px){
