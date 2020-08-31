@@ -208,7 +208,7 @@
 }
 @media(max-width: 3200px){
      .media_element iframe{
-          min-height: 35rem;
+          min-height: 31rem;
           height: 100%;
      }
 }
@@ -237,7 +237,7 @@
 }
 @media(max-width: 2100px){
      .media_element iframe{
-          min-height: 14rem;
+          min-height: 18rem;
           height: 100%;
      }
 }
@@ -255,7 +255,7 @@
 }
 @media(max-width: 1500px){
      .media_element iframe{
-          min-height: 11rem;
+          min-height: 13rem;
           height: 100%;
 
      }
@@ -263,7 +263,7 @@
 @media(max-width: 1250px){
      .media_element iframe{
           width: 100%;
-          min-height: 10rem;
+          min-height: 12rem;
           height: 100%;
      }
 }
@@ -287,6 +287,42 @@
           width: 100%;
           min-height: 5rem;
           height: 100%;
+     }
+}
+@media(min-width: 3000px){
+     .media_element iframe{
+          min-height: 30rem;
+          height:100%;
+     }
+}
+@media(min-width: 3500px){
+     .media_element iframe{
+          min-height: 33rem;
+          height:100%;
+     }
+}
+@media(min-width: 4000px){
+     .media_element iframe{
+          min-height: 35rem;
+          height:100%;
+     }
+}
+@media(min-width: 5000px){
+     .media_element iframe{
+          min-height: 43rem;
+          height:100%;
+     }
+}
+@media(min-width: 6000px){
+     .media_element iframe{
+          min-height: 50rem;
+          height:100%;
+     }
+}
+@media(min-width: 7000px){
+     .media_element iframe{
+          min-height: 55rem;
+          height:100%;
      }
 }
 .media_content{
@@ -337,6 +373,31 @@
 @media(max-width: 765px){
      .playlist_descrip{
           font-size: .7rem;
+     }
+}
+@media(min-width: 2300px){
+     .playlist_descrip{
+          font-size: 1.5rem;
+     }
+}
+@media(min-width: 3000px){
+     .playlist_descrip{
+          font-size: 2.2rem;
+     }
+}
+@media(min-width: 4000px){
+     .playlist_descrip{
+          font-size: 2.4rem;
+     }
+}
+@media (min-width: 6000px){
+.playlist_descrip {
+    font-size: 4rem;
+     }
+}
+@media (min-width: 8000px){
+.playlist_descrip {
+    font-size: 7rem;
      }
 }
 @media (min-width: 550px){

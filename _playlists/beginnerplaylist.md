@@ -10,7 +10,7 @@ title
 : Silly Walks
 
 description
-: Build a robot that moves forward– without using wheels!
+: Bummild a robot that moves forward– without using wheels!
 
 placematlinks
 : https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing
