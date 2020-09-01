@@ -16,7 +16,7 @@ placematlinks
 : https://docs.google.com/presentation/d/1Pq6Yv5aEE5DedXUb3j4AR8RV92AUxka_3NfobQfcPcA/edit?usp=sharing
 
 placematpic
-: ../web/img/sppushpm.png
+: ../web/img/wdpushpm.png
 
 gallery
 : ../web/img/wdpusher3.jpg
