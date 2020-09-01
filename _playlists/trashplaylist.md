@@ -54,7 +54,7 @@ placematlinks
 : https://docs.google.com/presentation/d/1HkD_ieYit0VLhtArk6jZMvUk81fAjO0vaH9qFNW2vAY/edit?usp=sharing
 
 placematpic
-: ../web/img/wdidpm.jpg
+: ../web/img/wdidpm.png
 
 gallery
 : ../web/img/wdid1.jpeg
@@ -73,7 +73,7 @@ placematlinks
 : https://docs.google.com/presentation/d/1UC3BMlgcI7fiFZ9r4F70l2ffuR_N_yJNyjhxszq5kBE/edit?usp=sharing
 
 placematpic
-: ../web/img/wdteampm.jpg
+: ../web/img/wdteampm.png
 
 gallery
 : ../web/img/wdteam1.png
