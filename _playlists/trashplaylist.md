@@ -59,7 +59,7 @@ placematpic
 gallery
 : ../web/img/wdid1.jpeg
 : ../web/img/wdid2.jpeg
-: ../web/img/wdid3.jpeg
+: ../web/img/wdid3.jpg
 
 ===
 ===
