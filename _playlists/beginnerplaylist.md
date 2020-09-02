@@ -15,6 +15,8 @@ description
 placematlinks
 : [Word Blocks Placemat](https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1Vq5_KbyfdsMA6-07FTcKP6SjKQmkom8uiUBv4fc2-Kg/edit?usp=sharing)
+: [Example Third Link](https://docs.google.com/presentation/d/1xEuLz5z291yJ3qtf9nU86mB3ZhCFfNXjeX0ZfQ60b2w/edit?usp=sharing)
+
 
 
 placematpic
@@ -39,7 +41,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1i3jsGQQ0LfIjyeYwMOUaNCr56Njvxjz2ua-VoWUHAdk/edit?usp=sharing)
 
 placematpic
-: ../web/img/Placemat.png
+: ../web/img/Placemat2.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/15bRZ4t997cccTHrl-T0zjAG7aZraZcR2/preview" width="640" height="480"></iframe>
