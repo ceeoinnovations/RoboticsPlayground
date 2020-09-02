@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Clean up our Earth
+title: Clean up our Oceans
 displayimg: web/img/begin1.jpg
-description: This playlist highlights a series of activities to clean up trash around our planet using LEGO WeDo.
+description: This playlist highlights a series of activities to clean up trash in our oceans.
 ---
 
 ===
@@ -10,7 +10,7 @@ title
 : Trash Pusher
 
 description
-: Build a robot that can push trash to a safe disposal zone
+: Build a robot that can push trash to a safe disposal zone.
 
 placematlinks
 : https://docs.google.com/presentation/d/1oiwv0DJmBu3YI9Zk3UKzFaBmvzBziKPVEj6Qp1bVzOY/edit?usp=sharing
