@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean up our Earth
-displayimg: web/img/begin1.jpg
+displayimg: web/img/begin1.jpg2
 description: This playlist highlights a series of activities to clean up trash around our planet using LEGO SPIKE Prime.
 ---
 
@@ -38,7 +38,7 @@ placematpic
 : ../web/img/wdpickpm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/132lQMnbw0-qC6k_o312pZ7vCGr-dEVnv/view?usp=sharing" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/132lQMnbw0-qC6k_o312pZ7vCGr-dEVnv/preview" width="640" height="480"></iframe>
 : <iframe src="https://drive.google.com/file/d/1861F8MSTkViwp1SV7tMm8T8S2828opBq/view?usp=sharing" width="640" height="480"></iframe>
 : <iframe src="https://drive.google.com/file/d/1SUDVvXiLls1RzApECaanHr-btinjSXhF/view?usp=sharing" width="640" height="480"></iframe>
 

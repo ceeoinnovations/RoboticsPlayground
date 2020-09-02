@@ -14,6 +14,7 @@ function CreatePlaylistMain(){
 */
 function CollectAllDivs(){
      var mycontent = document.getElementById("mycontent");
+     console.log(mycontent.innerHTML);
      var mydls = mycontent.getElementsByTagName("dl");
      for (var i = 0; i < mydls.length; i++){
           CreatePlaylistSection(mydls[i]);
@@ -30,12 +31,9 @@ function CollectAllDivs(){
       simplediv.className = "playlist_section";
       var playlist_sec_format = document.getElementById("sample_playlist_section");
       simplediv.innerHTML = playlist_sec_format.innerHTML;
-      console.log("mydl-----");
-      console.log(mydl);
       var mydts = mydl.getElementsByTagName("dt");
      let gall_run = false;
       for(var i = 0; i < mydts.length;i++){
-          console.log(mydts[i].innerHTML);
           if (mydts[i].innerHTML == "title"){
                 let my_value = mydts[i];
                 while(my_value.nextElementSibling != null  && my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT"){
@@ -44,22 +42,28 @@ function CollectAllDivs(){
                }
           } else if(mydts[i].innerHTML == "placematpic"){
                let my_value = mydts[i];
-               while(my_value.nextElementSibling != null  && my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT"){
+               while(my_value.nextElementSibling != null  && my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT" && my_value.nextElementSibling.tagName != "dt"){
                     simplediv.getElementsByClassName("def_bloc_img_head")[0].src = mydts[i].nextElementSibling.innerHTML;
                     my_value= my_value.nextElementSibling;
               }
          } else if(mydts[i].innerHTML == "placematlinks"){
               let my_value = mydts[i];
               let myswitch = 0;
-              while(my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT"){
-                   if(myswitch == 0){
-                        simplediv.getElementsByClassName("playlist_descrip_link")[0].href = my_value.nextElementSibling.innerHTML;
-                        myswitch = 1;
-                  } else{
-                       simplediv.getElementsByClassName("playlist_descrip_link")[1].href = my_value.nextElementSibling.innerHTML;
-                       myswitch = 0;
-                  }
-                   my_value= my_value.nextElementSibling;
+              while(my_value.nextElementSibling != null && my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT"){
+                   console.log("time out");
+                  let foundlink = my_value.nextElementSibling.getElementsByTagName('a')[0];
+                  if(foundlink){
+                       console.log(foundlink);
+                  let mynewlink = document.createElement("a");
+                  mynewlink.className = "playlist_descrip_link marginbutt myButton";
+                  mynewlink.href = foundlink.href;
+                  mynewlink.innerHTML = foundlink.innerHTML;
+                  let mini_append_here = simplediv.getElementsByClassName("special_app")[0];
+                  mini_append_here.append(mynewlink);
+             }
+             my_value = my_value.nextElementSibling;
+
+
             }
          } else if (mydts[i].innerHTML == "gallery"){
              let my_value = mydts[i];
@@ -89,8 +93,6 @@ function CollectAllDivs(){
          }
       }
 
-      console.log("appending");
-      console.log(simplediv);
       var my_app = document.getElementById("append_here");
       my_app.append(simplediv);
 }
