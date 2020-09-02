@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Clean up our Earth
+title: Clean up our Oceans
 displayimg: web/img/begin1.jpg
-description: This playlist highlights a series of activities to clean up trash around our planet.
+description: This playlist highlights a series of activities to clean up trash in our oceans.
 ---
 
 ===
