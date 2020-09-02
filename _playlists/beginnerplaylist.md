@@ -13,9 +13,8 @@ description
 : Build a robot that moves forward– without using wheels!
 
 placematlinks
-: [Word Blocks Placemat](https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing)
+: [WordBlocks Placemat](https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1Vq5_KbyfdsMA6-07FTcKP6SjKQmkom8uiUBv4fc2-Kg/edit?usp=sharing)
-: [Example Third Link](https://docs.google.com/presentation/d/1xEuLz5z291yJ3qtf9nU86mB3ZhCFfNXjeX0ZfQ60b2w/edit?usp=sharing)
 
 
 
