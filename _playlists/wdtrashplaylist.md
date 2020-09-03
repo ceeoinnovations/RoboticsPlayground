@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clean up our Oceans
-displayimg: web/img/cleancover.jpg
+displayimg: web/img/cleancover.JPG
 description: This playlist highlights a series of activities to clean up trash in our oceans.
 ---
 
@@ -70,7 +70,7 @@ placematpic
 
 gallery
 : ../web/img/wdid.jpg
-: ../web/img/spid.jpg
+: ../web/img/spid.JPG
 : <iframe src="https://drive.google.com/file/d/1Iz2xg-jOFMK1Gmhe13flqffRJ13NcZxk/preview" width="640" height="480"></iframe>
 
 ===
