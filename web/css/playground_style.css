@@ -215,59 +215,59 @@
 }
 @media(max-width: 3200px){
      .media_element iframe{
-          min-height: 31rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 3000px){
      .media_element iframe{
-          min-height:33rem;
+          min-height:17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 2700px){
      .media_element iframe{
-          min-height: 27rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
 
      }
 }
 @media(max-width: 2500px){
      .media_element iframe{
-          min-height: 24rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 2300px){
      .media_element iframe{
-          min-height: 21rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 2000px){
      .media_element iframe{
-          min-height: 18rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 1900px){
      .media_element iframe{
-          min-height: 17rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 1700px){
      .media_element iframe{
-          min-height: 12rem;
+          min-height: 17.4vw;
           height: 100%;
-          max-height: 100%;
+          max-height: 17.5vw;
      }
 }
 @media(max-width: 1500px){
@@ -366,13 +366,12 @@
 }
 
 @media (max-width: 490px){
-.media_element iframe{
-     width: 100%;
-     min-height: 11rem;
-     height: 100%;
-     max-height: 100%;
-     padding-bottom: 1rem;
-     }
+.media_element iframe {
+    width: 100%;
+    min-height: 50.4vw;
+    height: 100%;
+    max-height: 50.5vw;
+    padding-bottom: 1rem;
 }
 .col-md-4, .col-lg-4,.col-sm-4{
     position: relative;
@@ -467,7 +466,7 @@
 @media (max-width: 490px){
 .media_content{
      margin-top:0rem;
-}
+     }
 }
 body {
   counter-reset: section;
