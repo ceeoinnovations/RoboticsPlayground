@@ -272,13 +272,8 @@ h1, h2, h3, h4, h5,
     padding: 4em 0; }
 
 .site-footer {
-  padding: 3.8em 0;
-
-  background-color: #51D294;
-}
-
-
-
+  padding: 4em 0;
+  background: #51D294; }
   @media (min-width: 768px) {
     .site-footer {
       padding: 8em 0; } }
@@ -295,7 +290,6 @@ h1, h2, h3, h4, h5,
   .site-footer ul li {
     margin-bottom: 10px; }
   .site-footer .footer-heading {
-    font-size: 16px;
     color: rgba(255, 255, 255, 1);
     text-transform: uppercase; }
 

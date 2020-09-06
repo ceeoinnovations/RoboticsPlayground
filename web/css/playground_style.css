@@ -1,6 +1,6 @@
 .playgroundsubheader {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.2vw;
     margin-left: 20%;
     margin-right: 20%;
     font-weight: 400;
@@ -17,7 +17,6 @@
 @media(max-width:2000px){
 .playgroundsubheader {
     color: #fff;
-    font-size: 1.2rem;
     margin-left: 20%;
     margin-right: 20%;
     font-weight: 400;
