@@ -380,6 +380,7 @@
     padding-left: 10%;
 }
 
+
 .accordion {
 
   background-color: #eee;
@@ -401,6 +402,7 @@
   background-color: #707070;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+}
 }
 .playlist_descrip{
      font-size: 1rem;
@@ -494,9 +496,7 @@ body {
          font-size: 8px;
      }
 }
-#sample_bloc, #mycontent{
-     display: none;
-}
+
 @media (min-width: 490px){
 
 .col-sm-4, .col-lg-4, .col-md-4 {
@@ -518,7 +518,9 @@ body {
     padding-right:0px;
 }
 
+#sample_bloc, #mycontent{
+     display: none;
+}
 .active, .accordion:hover {
      background-color: #ccc;
      }
-}
