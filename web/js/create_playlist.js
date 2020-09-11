@@ -19,8 +19,24 @@ function CollectAllDivs(){
      for (var i = 0; i < mydls.length; i++){
           CreatePlaylistSection(mydls[i]);
      }
+     var mylgs = mycontent.getElementsByClassName("learninggoals");
+     for (var i = 0; i < mylgs.length; i++){
+          CreateLearnGoal(mylgs[i]);
+     }
      return mydls;
 }
+/*CreateLearnGoal
+ *Collect an Array of all the LearningGoals
+*/
+function CreateLearnGoal(mylg){
+     let simpleh2 = document.createElement("h2");
+     simpleh2.className = "learninggoals";
+     simpleh2.innerHTML = mylg.innerHTML;
+     var my_app = document.getElementById("appendlg");
+     my_app.append(simpleh2);
+
+}
+
  /* Create Sections by Div
  * loops though the divs and creates sections in order to be appended
  * to the main document based on div name
@@ -50,10 +66,8 @@ function CollectAllDivs(){
               let my_value = mydts[i];
               let myswitch = 0;
               while(my_value.nextElementSibling != null && my_value.nextElementSibling.tagName == "DD" && my_value.nextElementSibling.tagName != "DT"){
-                   console.log("time out");
                   let foundlink = my_value.nextElementSibling.getElementsByTagName('a')[0];
                   if(foundlink){
-                       console.log(foundlink);
                   let mynewlink = document.createElement("a");
                   mynewlink.className = "playlist_descrip_link marginbutt myButton";
                   mynewlink.href = foundlink.href;

@@ -10,7 +10,48 @@
     margin-bottom: 5rem;
     border-radius: 10px;
 }
-
+.learninggoals {
+    color: #000;
+    font-size: 1.2vw;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-weight: 400;
+    background-color: #fff;
+    padding: 3%;
+    text-align: left;
+    margin-bottom: 5rem;
+    border-radius: 10px;
+}
+.learninggoals h1 {
+      font-size: 2vw;
+}
+.learninggoals p,  .learninggoals ul li, .learninggoals ol li {
+      font-size: 1.1vw;
+ }
+ @media(min-width: 2800px){
+     margin-top: 15rem;
+}
+@media(max-width: 600px){
+     .learninggoals {
+         margin-left: 10%;
+         margin-right: 10%;
+     }
+.learninggoals h1 {
+           font-size: 1rem;
+}
+.learninggoals p {
+      font-size: .6rem;
+      margin-bottom: .3rem;
+ }
+ .learninggoals ul li {
+       font-size: .6rem;
+       margin-bottom: 0vw;
+  }
+  .learninggoals ol li {
+        font-size: .6rem;
+        margin-bottom: 0vw;
+   }
+}
 .marginbutt{
          margin: .3rem;
 }
