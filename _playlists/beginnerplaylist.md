@@ -3,6 +3,7 @@ layout: post
 title: Getting started with SPIKE Prime
 displayimg: web/img/begin1.jpg
 description: This playlist highlights a series of activities to get you started doing open ended problem solving challenges with LEGO Education SPIKE Prime.
+<div class="learninggoals" markdown="1"> hi </div>
 ---
 
 ===
