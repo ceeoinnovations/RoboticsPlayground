@@ -4,6 +4,18 @@ title: Clean up our Oceans
 displayimg: web/img/cleancover.JPG
 description: This playlist highlights a series of activities to clean up trash in our oceans.
 ---
+<div class="learninggoals" markdown="1">
+# Learning Goals
+The goal of this playlist is to break down the complex engineering problem of a trash collecting boat into simpler subcomponents. The playlist starts out with the simple task of pushing trash around and builds up to creating an autonomous boat.
+
+This playlist…
+- Was developed for the STEM.T4L STEMaSESH broadcast on August 19th, 2020
+- Supports learners of all ages (with WeDo2, EV3, and SPIKE Prime versions)
+- Starts with pushing “trash”, then picking it up, then sorting, and eventually - -- - - developing water-based solutions for cleaning up trash in the ocean
+- Coding can be introductory to complex
+- Could be combined with (1) science of oceans, (2) history of boat building, (3) data logging and sensing
+- All open-ended design questions, with possible extensions featured on each placemat instruction
+</div>
 
 ===
 title
