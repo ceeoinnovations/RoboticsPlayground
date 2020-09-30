@@ -110,7 +110,7 @@ description
 : Clash clang boom bang! Create a percussion instrument for a band. Drums, cymbals, xylophone, bells—any type of percussion instrument is welcome.
 
 placematlinks
-: [Word Blocks Placemat](https://docs.google.com/presentation/d/16U_gD_QAO_LW]QSHycvm1YcRTFNlhLoIZzLz8NBRy8_w/edit?usp=sharing)
+: [Word Blocks Placemat](https://docs.google.com/presentation/d/16U_gD_QAO_LWQSHycvm1YcRTFNlhLoIZzLz8NBRy8_w/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1eqtfP21hUyg6K4sMo93HVZr7ZUFCjPCxfBty2-bbfyQ/edit?usp=sharing)
 
 placematpic
