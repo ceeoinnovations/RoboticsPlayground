@@ -2,13 +2,14 @@
 layout: post
 title: Dr. E's SPIKE Prime Class
 displayimg: web/img/drecover.JPG
-description: Prof. Ethan Danahy (Dr. E) teaches a section of "Introduction to Engineering," a course for first-year university engineering students at Tufts University. This playlist of Placemat Instructions for SPIKE Prime showcase the sequence of activities he did during the Fall 2020 semester, as well as highlights some of his students solutions for each project.
+description: Prof. Ethan Danahy (Dr. E) teaches a section of "Introduction to Engineering," a course for first-year university engineering students at Tufts University. 
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
 The emphasis of this Introduction to Engineering course is around Engineering Design, highlighting creativity in engineering and celebrating solution diversity amongst students for solving engineering challenges.
 
 This playlist…
+of Placemat Instructions for SPIKE Prime showcase the sequence of activities he did during the Fall 2020 semester, as well as highlights some of his students solutions for each project.
 - 
 </div>
 
