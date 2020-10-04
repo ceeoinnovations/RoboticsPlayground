@@ -148,6 +148,8 @@
      text-align: center;
 }
 .titleheader{
+     background-color: #434C55;
+     color: #fff;
      margin-top: 5rem;
 }
 #mypageheader {
@@ -564,4 +566,5 @@ body {
 }
 .active, .accordion:hover {
      background-color: #ccc;
-     }
+}
+
