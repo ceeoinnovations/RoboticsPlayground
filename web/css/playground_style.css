@@ -223,7 +223,7 @@
     text-align: left;
     position: relative;
     line-height: 0.7em;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     pointer-events: none;
 }
 @media(max-width: 500px){
