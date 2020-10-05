@@ -197,7 +197,7 @@
 }
 
 .black_backdrop{
-     /* background-color: #424C55; */
+     /*background-color: #424C55; */
      color: #000;
      padding: 2%;
      margin-left: 10%;
@@ -570,4 +570,3 @@ body {
 .active, .accordion:hover {
      background-color: #ccc;
 }
-
