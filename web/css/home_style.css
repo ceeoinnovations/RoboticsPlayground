@@ -177,9 +177,9 @@ body{
 }
 
 .myButton, .button {
-     background-color:#2efa98;
+     background-color:#389367;
      border-radius:9px;
-     display:inline-block;
+     display:block;
      cursor:pointer;
      color:#000000;
      text-align: center;
@@ -188,7 +188,8 @@ body{
      text-decoration:none;
 }
 .myButton:hover, .button:hover {
-     background-color:#51d294;
+     background-color:#389367;
+     color: #fff;
 }
 .myButton:active, .button:active {
      position:relative;
