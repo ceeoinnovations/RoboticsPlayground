@@ -114,7 +114,7 @@
 #headmypageheader {
     font-size: 6vw;
     font-weight: 800;
-    letter-spacing: -0.05em;
+    letter-spacing: 0em;
     z-index: 10;
     text-align: center;
     position: relative;
