@@ -31,7 +31,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1z2ELd-wtrAK50AIG7s4LGxdBV9QOFg77rANsUhHB_wc/edit?usp=sharing)
 
 placematpic
-: ..web/img/Build a Biome Placemat.jpg
+: ../web/img/Build a Biome Placemat.jpg
 
 ===
 ===
@@ -73,7 +73,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1UC3BMlgcI7fiFZ9r4F70l2ffuR_N_yJNyjhxszq5kBE/edit?usp=sharing)
 
 placematpic
-: ..web/img/WeDo Ocean Movement.jpg
+: ../web/img/WeDo Ocean Movement.jpg
 
 ===
 ===
@@ -87,7 +87,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Ocean Tools Placemat.jpg
+: ../web/img/Ocean Tools Placemat.jpg
 
 ===
 ===
@@ -101,7 +101,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Jungle Transportation Placemat.jpg
+: ../web/img/Jungle Transportation Placemat.jpg
 
 
 ===
@@ -116,7 +116,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Monkey Crossing Placemat.jpg
+: ../web/img/Monkey Crossing Placemat.jpg
 
 ===
 ===
@@ -130,7 +130,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Fruit Harvest.jpg
+: ../web/img/Fruit Harvest.jpg
 
 ===
 ===
@@ -144,7 +144,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Jungle Creatures.jpg
+: ../web/img/Jungle Creatures.jpg
 
 ===
 ===
@@ -158,7 +158,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/SnowBall Fight.jpg
+: ../web/img/SnowBall Fight.jpg
 
 ===
 ===
@@ -172,7 +172,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Ice Fishing Placemat.jpg
+: ../web/img/Ice Fishing Placemat.jpg
 
 ===
 ===
@@ -186,7 +186,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Arctic Creatures Placemat.jpg
+: ../web/img/Arctic Creatures Placemat.jpg
 
 ===
 ===
@@ -200,7 +200,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Arctic Transportation.jpg
+: ../web/img/Arctic Transportation.jpg
 
 ===
 ===
@@ -214,6 +214,6 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
 
 placematpic
-: ..web/img/Biome Creatures.jpg
+: ../web/img/Biome Creatures.jpg
 
 ===
