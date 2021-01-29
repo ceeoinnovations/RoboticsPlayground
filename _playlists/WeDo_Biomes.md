@@ -42,7 +42,7 @@ description
 : Think about your favorite creature that lives in the ocean and how they survive. Build this creature and show one way they defend themselves.
 
 placematlinks
-: [Placemat Instructon](https://docs.google.com/presentation/d/1SJ-ARK7B7kXplKTCGcfO98y8zp6Y6JcC32FHsIFm4-Q/edit?usp=sharing)
+: [Placemat Instructon](https://docs.google.com/presentation/d/11Xuns3m2w2oj-1m7BHEqynyNvh4CxPu5cvOfTdGFh04/edit?usp=sharing)
 
 placematpic
 : ../web/img/Ocean Creatures Placemat.jpg
@@ -56,7 +56,7 @@ description
 : Build something that you would see while spending a day at the beach- don’t forget to make it move!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1HkD_ieYit0VLhtArk6jZMvUk81fAjO0vaH9qFNW2vAY/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1FsArSpC2ibvSlG2nyKamf4409Gik6lApywBKGzffOVs/edit?usp=sharing)
 
 placematpic
 : ../web/img/A Day at the Beach Placemat.jpg
@@ -70,7 +70,7 @@ description
 : Build a model of something that can move in the ocean —a boat, a jetski, a canoe, or any ocean vehicle. Think about how you might use the water to move. 
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1UC3BMlgcI7fiFZ9r4F70l2ffuR_N_yJNyjhxszq5kBE/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/15DNXL6EfGfYPnXdzltLVtTaPbIshUyNw3znupRO0W1c/edit?usp=sharing)
 
 placematpic
 : ../web/img/WeDo Ocean Movement.jpg
@@ -84,7 +84,7 @@ description
 : Create a tool used in the ocean — something for exploring, fishing, cleaning trash, or any other task!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1oLJoyZ2NEAKbAUSDaXqfXfX_U74Yq5r9oXb9PuleRlg/edit?usp=sharing)
 
 placematpic
 : ../web/img/Ocean Tools Placemat.jpg
@@ -98,7 +98,7 @@ description
 : Model a way to get around in the jungle!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/14f4S1He9C1Ie1LmfMv4lj2-8VpEXssUy03PxtBZIqeQ/edit?usp=sharing)
 
 placematpic
 : ../web/img/Jungle Transportation Placemat.jpg
@@ -113,7 +113,7 @@ description
 : Model a machine that can help a monkey travel from one jungle treetop to another!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1Rcoie7MlRPHySi6JIR-d3VfTfi-TjTI2GjB_JTfUSAk/edit?usp=sharing)
 
 placematpic
 : ../web/img/Monkey Crossing Placemat.jpg
@@ -127,7 +127,7 @@ description
 : Build something that can pick fruit from up high in the jungle trees!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1VMnUMfV8gZ5ZYusERbWkN63jB7bzbgueFEufE1OA69M/edit?usp=sharing)
 
 placematpic
 : ../web/img/Fruit Harvest.jpg
@@ -141,7 +141,7 @@ description
 : Build a creature that lives in the jungle and give them at least one way to collect food.
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/12_8eeNVzAbQ9MARnnbLyr7u5XGSN0K_sSgXOA2AaEhM/edit?usp=sharing)
 
 placematpic
 : ../web/img/Jungle Creatures.jpg
@@ -155,7 +155,7 @@ description
 : Quick, build something that will help you in a snowball fight! Create a robot to make snowballs, to throw them, or anything else.
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1Vjiv4aXGWCyeC-8JCbt_80JB_RFyLdoJClfipeqNLLw/edit?usp=sharing)
 
 placematpic
 : ../web/img/SnowBall Fight.jpg
@@ -169,7 +169,7 @@ description
 : Model a robot that people in the arctic could use to go ice fishing!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1Fc069hRMR434Ek_sw98R5GLAAs10P931otST0spppFY/edit?usp=sharing)
 
 placematpic
 : ../web/img/Ice Fishing Placemat.jpg
@@ -183,7 +183,7 @@ description
 : Build a robotic version of an animal that lives in the arctic!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/196Z_woTcuk6CCWJFLuvTiQ7acnX_GJT1LM4Wwk4ETos/edit?usp=sharing)
 
 placematpic
 : ../web/img/Arctic Creatures Placemat.jpg
@@ -197,7 +197,7 @@ description
 : Think of a way to move in a snowy and icy environment. Build your idea with the WeDo kit!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/11LKjnis-Vzy82jYbo8eDDue6exhGvK0Z3Z4fZu46NNw/edit?usp=sharing)
 
 placematpic
 : ../web/img/Arctic Transportation.jpg
@@ -211,7 +211,7 @@ description
 : Build an imaginary animal that has further adapted to live in the arctic, the jungle, or the ocean!
 
 placematlinks
-: [Placemat Instruction](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
+: [Placemat Instruction](https://docs.google.com/presentation/d/1DcNPq2Tkqwj4MRvVcCgGPwpOk02rV1ZZo6Z351gdMX4/edit?usp=sharing)
 
 placematpic
 : ../web/img/Biome Creatures.jpg
