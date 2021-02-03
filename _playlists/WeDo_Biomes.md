@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exploring Biomes with LEGO WeDo 2.0
-displayimg: web/img/cleancover.JPG
+displayimg: web/img/jellyfishbuild.jpg
 description: This playlist highlights a series of activities to explore different types of biomes and the animals that live in them. The playlist starts with a general exploration into the differences between biomes and delves into specific design challenges using the constraints of 3 biomes- the jungle, the arctic, and the ocean.
 
 ---
