@@ -2,7 +2,7 @@
 layout: post
 title: Project Lead the Way
 displayimg: web/img/jellyfishbuild.jpg
-description:  This playlist is based on the Project Lead the Way curriculum and will guide you along to learn about three of the most useful simple machines. A simple machine is a device that makes work easier by helping to move an object over a distance. Simple machines include levers, inclined planes, pulleys, wheels and axles, wedges, and screws. We’ll also learn about work, force, and energy.
+description:  This playlist is based on the Project Lead the Way curriculum and will teach you about simple machines. A simple machine is a device that makes work easier by helping to move an object over a distance. Simple machines include levers, inclined planes, pulleys, wheels and axles, wedges, and screws. We’ll also learn about work, force, and energy.
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
