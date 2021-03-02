@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Lead the Way
-displayimg: web/img/jellyfishbuild.jpg
+displayimg: web/img/coverpulley.png
 description:  This playlist is based on the Project Lead the Way curriculum and will teach you about simple machines. A simple machine is a device that makes work easier by helping to move an object over a distance. Simple machines include levers, inclined planes, pulleys, wheels and axles, wedges, and screws. We’ll also learn about work, force, and energy.
 ---
 <div class="learninggoals" markdown="1">
@@ -31,7 +31,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1XdS9qq71YbAI6WJrtEV2wbspbQDlo5qHtBwXPsDAkmM/edit?usp=sharing)
 
 placematpic
-: ../web/img/Build a Biome Placemat.jpg
+: ../web/img/lever.PNG
 
 ===
 ===
@@ -51,7 +51,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1crWFW--VFjFiSbq-dCrPEfppYmowQ40XIEw44P2zdKw/edit?usp=sharing)
 
 placematpic
-: ../web/img/Build a Biome Placemat.jpg
+: ../web/img/pulley.PNG
 
 ===
 ===
@@ -70,7 +70,7 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1c9_GczzwYxmritLLtvSjRxFHvt9C0ulgizFvOXPfprA/edit?usp=sharing)
 
 placematpic
-: ../web/img/Build a Biome Placemat.jpg
+: ../web/img/pendulum.PNG
 
 ===
 ===
@@ -89,6 +89,6 @@ placematlinks
 : [Placemat Instruction](https://docs.google.com/presentation/d/1JSclexc57qLUZUyvGTEJ0lE07vYipoUiioAh8G0NvVY/edit?usp=sharing)
 
 placematpic
-: ../web/img/Build a Biome Placemat.jpg
+: ../web/img/ramp.PNG
 
 ===
