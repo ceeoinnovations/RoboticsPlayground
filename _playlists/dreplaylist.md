@@ -8,7 +8,6 @@ description: Prof. Ethan Danahy (Dr. E) teaches a section of "Introduction to En
 # Learning Goals
 The emphasis of this Introduction to Engineering course is around Engineering Design, highlighting creativity in engineering and celebrating solution diversity amongst students for solving engineering challenges.
 
-- 
 </div>
 
 ===
