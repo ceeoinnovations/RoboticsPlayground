@@ -152,9 +152,9 @@ placematpic
 : ../web/img/ME35_SmartTeleprompter.png
 
 gallery
-: 
-: 
-: 
+: <iframe src="https://drive.google.com/file/d/1No50dllCD5GLMzEXm8BwipvJHAPxgtgq/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1HoMWiJPHPy_1-2t_jvOW3ye1FN51UJoF/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1MX0sgbN3wCvPOjObmu2VnHufVMudT144/preview" width="640" height="480"></iframe>
 
 ===
 ===
@@ -171,8 +171,8 @@ placematpic
 : ../web/img/ME35_WaltzingRobots.png
 
 gallery
-: 
-: 
-: 
+: <iframe src="https://drive.google.com/file/d/1SClEyH6jtrQr2mr5rEcz7RuZn8eGk_MI/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Fyu86trPVvUtj7eGXKD4aJ5hbRi-Or0Y/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/14tdyhWa8xaklogZNsqa-vAjc1OhHq0_b/preview" width="640" height="480"></iframe>
 
 ===
