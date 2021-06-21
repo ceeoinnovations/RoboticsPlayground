@@ -8,6 +8,9 @@ description: Professor Chris Rogers teaches an Intro to Robotics course at Tufts
 # Learning Goals
 The goal of Prof. Rogers’ Intro to Robotics course is to provide students with an introductory level of understanding in the field of robotics. Particular emphasis was placed on creatively inventing, coding, and making things to solve robotics challenges.
 
+</div>
+
+<div class="learninggoals" markdown="1">
 # Intro
 Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of WIO Terminals and Raspberry Pis. Most of the projects were originally intended to be week-long assignments completed with a partner. Besides the final project, Waltzing Robots, none of the projects require more than one set of materials, so they could be completed as individual assignments.
 
