@@ -12,7 +12,7 @@ The goal of Prof. Rogers’ Intro to Robotics course is to provide students with
 
 <div class="learninggoals" markdown="1">
 
-Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of WIO Terminals and Raspberry Pis. Most of the projects were originally intended to be week-long assignments completed with a partner. Besides the final project, Waltzing Robots, none of the projects require more than one set of materials, so they could be completed as individual assignments.
+Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of [WIO Terminals](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) and Raspberry Pis. Most of the projects were originally intended to be week-long assignments completed with a partner. Besides the final project, Waltzing Robots, none of the projects require more than one set of materials, so they could be completed as individual assignments.
 
 The following placemats are intended to be progressed through in the sequence they are presented. Therefore, later projects may draw on knowledge acquired through earlier projects. If one placemat is selected individually, it may be useful to review the code and concepts explained on previous placemats.
 
