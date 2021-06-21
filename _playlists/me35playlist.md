@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chris Rogers' Intro to Robotics Class (Work in Progress)
-displayimg: web/img/drecover.JPG
+displayimg: web/img/ME35_Cover.png
 description: Professor Chris Rogers teaches an Intro to Robotics course at Tufts University. The following playlist of placemat instructions shows the sequence of projects assigned to students in his class during the Spring of 2021.
 ---
 <div class="learninggoals" markdown="1">
@@ -21,7 +21,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1klKgjmmFQ9XRxydzKKq03iQzlKF8CKh66Z02KLzF3wU/edit#slide=id.ge0b0398f49_0_91)
 
 placematpic
-: ../web/img/getpm.png
+: ../web/img/ME35_WioDemo.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1tubmsRSDz9BZJ952ZSPQstoi--sM0NPB/preview" width="640" height="480"></iframe>
@@ -40,7 +40,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1sWOUYoX8BLVSbtIHXGPOfGCLnXcb41qWj2_SVAmZISY/edit#slide=id.gb6d688048c_0_182)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_VideoGame.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1rhPswq7giM1wkbnsunVKvxVcT_QP9Agp/preview" width="640" height="480"></iframe>
@@ -59,7 +59,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1Q_-iWmDVHY8AtdWjm_n5wdh9oiYp51ldK-_vwDJvtck/edit#slide=id.gddcf87255d_0_0)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_LineFollower.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/18riiRNT3zY6PP4O4VXf67VDuwuYOHrW_/preview" width="640" height="480"></iframe>
@@ -78,7 +78,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1M_Cao4SkI-EoEXMYnomyIfOcAA136bNm4hWKPj4GWlI/edit#slide=id.ge0ad01646c_0_94)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_LetterC.png
 
 gallery
 : 
@@ -97,7 +97,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1m5mKtmrH9TWzcovVgkEENnax3bks-SAv-duqcAq5xD4/edit#slide=id.ge011c70a27_0_92)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_SmartDashboard.png
 
 gallery
 : 
@@ -116,7 +116,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/12BONTrKXgVscAVyyVPsr0UD4-BUUhiWDRaQw6z7Ca3E/edit#slide=id.ge0bae4632b_0_93)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_FlaskWebServer.png
 
 gallery
 : 
@@ -135,7 +135,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1MNkQFQeTgCVBk-7WjNvcd8vUIwVyHk9dBJdCo2Ror0s/edit#slide=id.ge0b77338f2_0_97)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_WebcamCar.png
 
 gallery
 : 
@@ -154,7 +154,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/15xmrf6IdOsURzbH6VlcbxlpCljxgyHwmoxw75-mR8HY/edit#slide=id.ge0b22fc0fc_0_94)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_SmartTeleprompter.png
 
 gallery
 : 
@@ -173,7 +173,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/15MX9t43jjeyXpdvLeAC9h76TWyK2oN4xoLX1YtZrHKQ/edit#slide=id.ge0bba42356_0_96)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/ME35_WaltzingRobots.png
 
 gallery
 : 
