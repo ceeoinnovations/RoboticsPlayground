@@ -81,9 +81,9 @@ placematpic
 : ../web/img/ME35_LetterC.png
 
 gallery
-: 
-: 
-: 
+: <iframe src="https://drive.google.com/file/d/1tmNoXLFzQqqNU5_uBDg6-Sohzwws9_bl/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1aqXuIluIoeI5i0oGOQc1obrxQeEhZsuj/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1tWtEOn-8uoEk2WhSQ6-9ehwm4GKPecRc/preview" width="640" height="480"></iframe>
 
 ===
 ===
@@ -100,9 +100,9 @@ placematpic
 : ../web/img/ME35_SmartDashboard.png
 
 gallery
-: 
-: 
-: 
+: <iframe src="https://drive.google.com/file/d/1EYX5V5DVYHm6Aearf2Zdi7S9HXoXpREj/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1g3izcxDsAUmEy78-Q36lxdYF4IanE8eG/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1xefXXhMtjvzugTuVaZaQ-VWxdW8846Fn/preview" width="640" height="480"></iframe>
 
 ===
 ===
@@ -117,11 +117,6 @@ placematlinks
 
 placematpic
 : ../web/img/ME35_FlaskWebServer.png
-
-gallery
-: 
-: 
-: 
 
 ===
 ===
@@ -138,9 +133,9 @@ placematpic
 : ../web/img/ME35_WebcamCar.png
 
 gallery
-: 
-: 
-: 
+: <iframe src="https://drive.google.com/file/d/104ZR5V6nHsDiHAcgeLpK0cu39w0G9wnq/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1hC63fJmSfRP5ISSpF_E6hd-3TuO32-yG/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/15rvqeqzG2L_fydP_WBhsJIrOpcYk3D4f/preview" width="640" height="480"></iframe>
 
 ===
 ===
