@@ -2,7 +2,7 @@
 layout: post
 title: Chris Rogers' Intro to Robotics Class (Work in Progress)
 displayimg: web/img/ME35_Cover.png
-description: Professor Chris Rogers teaches an Intro to Robotics course at Tufts University. The following playlist of placemat instructions shows the sequence of projects assigned to students in his class during the Spring of 2021. 
+description: Professor Chris Rogers teaches an Intro to Robotics course at Tufts University. The following playlist of placemat instructions shows the sequence of projects assigned to students in his class during Spring 2021. 
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
