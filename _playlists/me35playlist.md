@@ -23,7 +23,7 @@ title
 : WIO Demo
 
 description
-: Display some kind of information with a WIO Terminal
+: Before getting started with the Lego SPIKE Prime kits, the first assignment was intended to familiarize students with using the WIO Terminal. Completed individually, this project was assigned before the start of classes, giving students plenty of time to test out different aspects of the WIO.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1klKgjmmFQ9XRxydzKKq03iQzlKF8CKh66Z02KLzF3wU/edit#slide=id.ge0b0398f49_0_91)
