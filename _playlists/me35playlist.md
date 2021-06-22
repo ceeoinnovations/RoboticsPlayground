@@ -11,7 +11,7 @@ The goal of Prof. Rogers’ Intro to Robotics course is to provide students with
 </div>
 
 <div class="learninggoals" markdown="1">
-
+# Note
 The following placemats are intended to be progressed through in the sequence they are presented. Therefore, later projects may draw on knowledge acquired through earlier projects. If one placemat is selected individually, it may be useful to review the code and concepts explained on previous placemats. Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of [WIO Terminals](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) and [Raspberry Pis](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/).
 
 </div>
