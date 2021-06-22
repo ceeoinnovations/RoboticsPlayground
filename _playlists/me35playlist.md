@@ -40,7 +40,7 @@ title
 : Video Game
 
 description
-: Combine WIO Terminal with SPIKE Prime to develop a video game. Use sensors to control what occurs on the screen.
+: Drawing on the WIO skills developed in the previous project, this assignment combined the WIO and SPIKE Prime into one design. Focus was placed on using sensors from the kit and sending their data over serial to the WIO. Students were paired up to complete this project in one week. 
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1sWOUYoX8BLVSbtIHXGPOfGCLnXcb41qWj2_SVAmZISY/edit#slide=id.gb6d688048c_0_182)
@@ -59,7 +59,7 @@ title
 : Line Follower
 
 description
-: Build a robot that follows a line on the floor and stops if it encounters an obstacle.
+: This project focused on the use of just the SPIKE Prime, and did not require the use of a WIO Terminal, but one could be included if desired. Students completed this assignment in pairs over one week. It resulted in an in-class competition to see which robots could make it across the room following lines of tape without running into other robots.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1Q_-iWmDVHY8AtdWjm_n5wdh9oiYp51ldK-_vwDJvtck/edit#slide=id.gddcf87255d_0_0)
@@ -78,7 +78,7 @@ title
 : The Letter C
 
 description
-: Create a robotic arm that can draw the letter C, and show the motion on the WIO Terminal screen as it moves.
+: This project was assigned during a lesson that introduced students to both forward and inverse kinematics concepts. While there are many ways to approach the project, that knowledge proved useful in the design of many students’ systems. Links to some relevant information can be found on the placemat itself. This project was completed in pairs over one week, and included the optional use of the WIO Terminal.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1M_Cao4SkI-EoEXMYnomyIfOcAA136bNm4hWKPj4GWlI/edit#slide=id.ge0ad01646c_0_94)
@@ -97,7 +97,7 @@ title
 : Smart Lego Dashboard
 
 description
-: Build an interactive Lego sculpture that mounts on your wall and tells the weather and one other thing.
+: In contrast to most of the other projects, this assignment required students to get creative with non-lego components. Since the goal was to create a physical dashboard structure that displayed some information, the use of cardboard, paper, markers, or even laser-cut wood was recommended. These outside components were combined with pieces from the Lego kits to create a hanging dashboard. Students completed this project in pairs over the course of one week, and had the option to work again with the WIO Terminal or begin using the Raspberry Pi.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1m5mKtmrH9TWzcovVgkEENnax3bks-SAv-duqcAq5xD4/edit#slide=id.ge011c70a27_0_92)
@@ -130,7 +130,7 @@ title
 : Webcam Car
 
 description
-: Make a robot that includes a Raspberry Pi camera with a live video feed. You should be able to access this feed and control your robot from a smartphone.
+: Since this was the first project requiring use of a Raspberry Pi, there was a learning curve for some students when combining the SPIKE Prime and Pi into one design. The previous placemat on creating a Flask web site is intended to supplement this project, so it is suggested that it be completed or at least reviewed before advancing to this project. In class, this assignment was completed in pairs over the course of a week, and resulted in an in-class race where the drivers stayed in the classroom and had to remotely navigate their car through the hallway outside the room. 
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1MNkQFQeTgCVBk-7WjNvcd8vUIwVyHk9dBJdCo2Ror0s/edit#slide=id.ge0b77338f2_0_97)
