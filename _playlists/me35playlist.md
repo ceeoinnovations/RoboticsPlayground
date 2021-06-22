@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chris Rogers' Intro to Robotics Class (Work in Progress)
+title: Chris Rogers' Intro to Robotics Class
 displayimg: web/img/ME35_Cover.png
 description: Professor Chris Rogers teaches an Intro to Robotics course at Tufts University. The following playlist of placemat instructions shows the sequence of projects assigned to students in his class during Spring 2021. 
 ---
@@ -12,9 +12,7 @@ The goal of Prof. Rogers’ Intro to Robotics course is to provide students with
 
 <div class="learninggoals" markdown="1">
 
-Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of [WIO Terminals](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) and [Raspberry Pis](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/). Most of the projects were originally intended to be week-long assignments completed with a partner. Besides the final project, Waltzing Robots, none of the projects require more than one set of materials, so they could be completed as individual assignments.
-
-The following placemats are intended to be progressed through in the sequence they are presented. Therefore, later projects may draw on knowledge acquired through earlier projects. If one placemat is selected individually, it may be useful to review the code and concepts explained on previous placemats.
+The following placemats are intended to be progressed through in the sequence they are presented. Therefore, later projects may draw on knowledge acquired through earlier projects. If one placemat is selected individually, it may be useful to review the code and concepts explained on previous placemats. Although these placemats primarily focus on the SPIKE Prime Lego platform, they also feature the use of [WIO Terminals](https://wiki.seeedstudio.com/Wio-Terminal-Getting-Started/) and [Raspberry Pis](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/).
 
 </div>
 
@@ -118,7 +116,7 @@ title
 : Flask Web Server
 
 description
-: Set up a web server and create a simple website using Flask.
+: While this was not a project specifically assigned in Prof. Rogers’ class, this placemat was created as a supplement to the following one, the Webcam Car. Since designing a Flask web site is a major component of that project, this placemat is intended to introduce students to the basics of a Flask web server.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/12BONTrKXgVscAVyyVPsr0UD4-BUUhiWDRaQw6z7Ca3E/edit#slide=id.ge0bae4632b_0_93)
@@ -151,7 +149,7 @@ title
 : Smart Teleprompter
 
 description
-: Build an automated system that will have the WIO screen always facing you as you move your face around in front of your robot.
+: Intended to be a midterm project that would test what each student has learned in the class so far, this project was completed individually over one week. It combines many concepts featured in previous placemats in this playlist, therefore it would be useful to first complete the projects leading up to this one, or reference relevant placemats when stumped by a particular part. 
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/15xmrf6IdOsURzbH6VlcbxlpCljxgyHwmoxw75-mR8HY/edit#slide=id.ge0b22fc0fc_0_94)
@@ -170,7 +168,7 @@ title
 : Waltzing Robots
 
 description
-: Build a pair of robots that dance the Viennese Waltz. They should spin counterclockwise around each other while traveling around the room in a larger counterclockwise circle marked on the floor, and start and stop to music being played.
+: As the final project of the class, this project was completed by teams of two or three students over a three week period. Toward the beginning of the process, the students, TAs, and professor had multiple brainstorming sessions to determine what requirements were reasonable and what the classroom setup would be on the day of the final waltz. It was decided that a circle of tape would be placed around the room to guide the robots in a larger circle, but various aspects and requirements of the project may be changed to fit with any individual classroom setup.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/15MX9t43jjeyXpdvLeAC9h76TWyK2oN4xoLX1YtZrHKQ/edit#slide=id.ge0bba42356_0_96)
