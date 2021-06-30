@@ -24,9 +24,9 @@ placematpic
 : ../web/img/Name_Of_First_Placemat_Screenshot.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1tubmsRSDz9BZJ952ZSPQstoi--sM0NPB/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/1h8UoRCfM9bt4g95X9pIC-wemud2kR8g8/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/19RWpRjiTwc3x3T6HHK5Zsb69BpjhIRJ3/preview" width="640" height="480"></iframe>
+: <Put first example video embed code here>
+: <Put second example video embed code here>
+: <Put third example video embed code here>
 
 ===
 ===
