@@ -21,9 +21,7 @@ placematpic
 gallery
 : <iframe src="https://drive.google.com/file/d/1eBGX-ENreJqvXewdUSfDSViOauXbYW1g/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1FVNa7vvXC2BfGeF8SW1Rsw502VyP3Gf3/preview" width="640" height="480" allow="autoplay"></iframe>
-===
-
-===
+======
 title
 : Book Share
 
@@ -39,9 +37,7 @@ placematpic
 gallery
 : <iframe src="https://drive.google.com/file/d/1OMK9-YDZFOQ4SjunPcD_jF0_UBiDcByI/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1eKl7pJQnVSstbyd_bgLk_-AiizODm9gQ/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ===
-
 ===
 title
 : Silly Walks
@@ -58,5 +54,4 @@ placematpic
 gallery
 : <iframe src="https://drive.google.com/file/d/1BwOLCLrmR93XUDbxBJ8lLEP9zphuRWzF/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1ECgfb9lzFCPP-pySkvRgiMzL9KA9YU-Z/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ===
