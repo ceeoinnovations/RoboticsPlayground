@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Wordless Placemats!!
-displayimg: web/img/New 2.0 - Ball Thrower Front.jpg
+title: Wordless Placemats
+displayimg: web/img/Ball_Thrower_Front.jpg
 description: This is a playlist of wordless placemats that can be used in a variety of settings, especially in other countries so that translations won't be needed. 
 ---
 
@@ -16,7 +16,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1IzKZ_8vz0bAED8IvAGgdpGxbdTiDNuvaBwFEaSNwoRg/edit?usp=sharing)
 
 placematpic
-: ../web/img/Ball-Thrower--Back--No-Words.jpg
+: ../web/img/Ball_Thrower_Back.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1eBGX-ENreJqvXewdUSfDSViOauXbYW1g/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -34,7 +34,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1HeMKXrlqdR-yOXIjg0q38-PoVO9QuUFZ8YfuMliQDJM/edit?usp=sharing)
 
 placematpic
-: ../web/img/New-2.0-Book-Share-Back.jpg
+: ../web/img/Book_Share_Back.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1OMK9-YDZFOQ4SjunPcD_jF0_UBiDcByI/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -52,7 +52,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1iiAiViPR6a0qHEA8k21crNu8B7pXY04-xh0r-BChIfc/edit?usp=sharing)
 
 placematpic
-: ../web/img/New-Silly-Walks-Back.jpg
+: ../web/img/Silly_Walks_Back.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1BwOLCLrmR93XUDbxBJ8lLEP9zphuRWzF/preview" width="640" height="480" allow="autoplay"></iframe>
