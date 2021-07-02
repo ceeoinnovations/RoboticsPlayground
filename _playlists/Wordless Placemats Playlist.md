@@ -16,12 +16,13 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1IzKZ_8vz0bAED8IvAGgdpGxbdTiDNuvaBwFEaSNwoRg/edit?usp=sharing)
 
 placematpic
-: ../web/img/Ball Thrower--Back--No Words.jpg
+: ../web/img/Ball-Thrower--Back--No-Words.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1eBGX-ENreJqvXewdUSfDSViOauXbYW1g/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1FVNa7vvXC2BfGeF8SW1Rsw502VyP3Gf3/preview" width="640" height="480" allow="autoplay"></iframe>
 ===
+
 ===
 title
 : Book Share
@@ -33,13 +34,14 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1HeMKXrlqdR-yOXIjg0q38-PoVO9QuUFZ8YfuMliQDJM/edit?usp=sharing)
 
 placematpic
-: ../web/img/New 2.0 Book Share Back.jpg
+: ../web/img/New-2.0-Book-Share-Back.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1OMK9-YDZFOQ4SjunPcD_jF0_UBiDcByI/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1eKl7pJQnVSstbyd_bgLk_-AiizODm9gQ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
+
 ===
 title
 : Silly Walks
@@ -51,7 +53,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1iiAiViPR6a0qHEA8k21crNu8B7pXY04-xh0r-BChIfc/edit?usp=sharing)
 
 placematpic
-: ../web/img/New-Silly Walks Back.jpg
+: ../web/img/New-Silly-Walks-Back.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1BwOLCLrmR93XUDbxBJ8lLEP9zphuRWzF/preview" width="640" height="480" allow="autoplay"></iframe>
