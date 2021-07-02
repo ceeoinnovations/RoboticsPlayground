@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wordless Placemats
+title: Wordless Placemats!
 displayimg: web/img/New 2.0 - Ball Thrower Front.jpg
 description: This is a playlist of wordless placemats that can be used in a variety of settings, especially in other countries so that translations won't be needed. 
 ---
