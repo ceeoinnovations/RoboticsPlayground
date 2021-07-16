@@ -1,13 +1,9 @@
 ---
 layout: post
 title: AI Algorithms
+displayimg: web/img/KMeans_Placemat.png
 description: This playlist includes placemats intended to introduce students to a selection of common algorithms used in artificial intelligence.
 ---
-<div class="learninggoals" markdown="1">
-# Learning Goals
-Add any learning goals of your playlist here
-
-</div>
 
 ===
 title
