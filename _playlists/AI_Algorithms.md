@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Algorithms
-displayimg: web/img/KMeans_Placemat.png
+displayimg: web/img/AI_Cover.png
 description: This playlist includes placemats intended to introduce students to a selection of common algorithms used in artificial intelligence.
 ---
 
