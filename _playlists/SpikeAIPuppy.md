@@ -2,7 +2,7 @@
 layout: post
 title: SPIKE Prime AI Puppy
 displayimg: web/img/PuppyCover.png
-description: This playlist includes a series of lessons focused on training a SPIKE Prime puppy through the use of various artificial intelligence algorithms.
+description: This playlist includes a series of lessons focused on training a SPIKE Prime puppy through the use of various artificial intelligence algorithms including nearest centroid classification, K-nearest neighbors, linear regression, and reinforcement learning.
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
