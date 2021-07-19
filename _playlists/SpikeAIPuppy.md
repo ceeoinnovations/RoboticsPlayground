@@ -2,11 +2,21 @@
 layout: post
 title: SPIKE Prime AI Puppy
 displayimg: web/img/PuppyCover.png
-description: Add intro/description of your playlist here
+description: This playlist includes a series of lessons focused on training a SPIKE Prime puppy through the use of various artificial intelligence algorithms.
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
-Add any learning goals of your playlist here
+The goal of this lesson progression is to expose students to the capabilities of artificial intelligence.
+
+</div>
+
+<div class="learninggoals" markdown="1">
+# Notes
+For an introduction to some common artificial intelligence algorithms, see this brief supplementary [playlist](https://ceeoinnovations.github.io/RoboticsPlayground/playlists/AI_Algorithms.html).
+
+The code class files with relevant functions are included on each placemat, but the [GitHub](https://github.com/ceeoinnovations/SPIKE_AI_Puppy) repository also includes example codes as supplemental materials for students who may prefer more guidance than what is provided on the placemats. These example files show potential applications of the functions defined in the training files, as well as which areas of the code need to be changed or filled in with relevant commands based on the construction of a student’s specific puppy.
+
+Each lesson in this playlist also includes a demo video, showing the puppy being trained and demonstrating its trained behaviors. Although not all puppies will have the same reactions, the goal of these videos is to provide a visual demonstration of what each lesson’s AI method can accomplish.
 
 </div>
 
