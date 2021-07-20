@@ -52,6 +52,7 @@ placematpic
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1_w9CHn7GQcPjnx6uVbYyffCT0aCLXsxw/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1lYPSZA1qPAGgfyPSs40YarV2NBMbxqYU/preview" width="640" height="480"></iframe>
 
 ===
 ===
@@ -69,6 +70,7 @@ placematpic
 
 gallery
 : <iframe src="https://drive.google.com/file/d/18EOmMYHGeHQbn-Mql_1NuCQG3iw72e24/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1KPaDxdnX8zGpm6wnWvbuB7CguC2AiKdp/preview" width="640" height="480"></iframe>
 
 ===
 ===
