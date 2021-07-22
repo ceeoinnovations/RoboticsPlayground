@@ -95,7 +95,7 @@ title
 : AI Lesson 5: Visual Cues
 
 description
-: 
+: This lesson combines many components and focuses on the concept of image recognition. Both Teachable Machine and AirTable are utilized in order to train the puppy to react to hand gestures and other visual cues. Once trained, the puppy will use API calls to access the current command stored in the AirTable, which was updated by a running HTML file based on the Teachable Machine model. This will result in the puppy reacting to gestures shown to the computer’s webcam.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1oITI6x1ohF9T83yKi5HgDMXaLTAVP6Nl-0M_FvcYn3Y/edit#slide=id.ge45fe0eac1_0_140)
