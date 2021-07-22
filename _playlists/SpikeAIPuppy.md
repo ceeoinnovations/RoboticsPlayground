@@ -90,3 +90,21 @@ gallery
 : <iframe src="https://drive.google.com/file/d/1Yd88vIqh-2qdg7z77tX_542oW6LKrauY/preview" width="640" height="480"></iframe>
 
 ===
+===
+title
+: AI Lesson 5: Visual Cues
+
+description
+: 
+
+placematlinks
+: [Placemat Link](https://docs.google.com/presentation/d/1oITI6x1ohF9T83yKi5HgDMXaLTAVP6Nl-0M_FvcYn3Y/edit#slide=id.ge45fe0eac1_0_140)
+
+placematpic
+: ../web/img/PuppyLesson5Front.png
+
+gallery
+: <iframe src="https://drive.google.com/file/d/16u3LZWTSXxSzWat2p-jrOMmHQ2KN7w_x/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1ONh5z8HS6LQwZZ3VUmJUV_jc95jfDr0k/preview" width="640" height="480"></iframe>
+
+===
