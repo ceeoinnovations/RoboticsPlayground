@@ -81,9 +81,9 @@ placematpic
 : ../web/img/toppm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1scBwSTDjfsnCvfzqoW-VZ-ppcp6v2iMM/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/1ISStpT-E5isGh2V9v8tWxj1IiCA-IXBX/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/1-lI9QSAmMnz_5EHL8YwkC9kVLwZthLrr/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1MIbnnkXpqV7p8sKP2XQl4qL1-RMF6JH7/view?usp=sharing" width="640" height="480"></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/zN4KB2az1zI?si=BSWj5IixzjZEY6zn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/UgtJraJHUDw?si=fSNiaByi1lwGCM0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ===
 ===
