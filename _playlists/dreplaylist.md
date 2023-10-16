@@ -100,8 +100,8 @@ placematpic
 : ../web/img/spiropm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1UwlHMbDQ8Zw-sKRIq-Xs8gfbPpCxauhp/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/1zjN09ss1VaX7TerdWtd1D8KkwQfVxrrE/preview" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/1446gqvH5sV2ldw4KFoxFBfNh8-LsMJd1/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Tc1fN13baO5Bx5CYemEDwyq6lpmdjZsu/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/g5cXVxpey48?si=r-f1FPCzbg3YPDE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/vaAH6kightY?si=4xuFe8neNVGnJQZg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ===
