@@ -43,9 +43,9 @@ placematpic
 : ../web/img/sillypm.png
 
 gallery
-: <iframe width="640" height="480" src="https://www.youtube.com/embed/kxCy1zyQmIo?si=KEDHLbKYBYrLAIcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/kxCy1zyQmIo?si=KEDHLbKYBYrLAIcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 : <iframe src="https://drive.google.com/file/d/1tHcHFPvEP11xrec_gt_6A466YeILDlxq/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe width="640" height="480" src="https://www.youtube.com/embed/AS2oes4FoHI?si=nNl4f1ZWIuAVOxHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/AS2oes4FoHI?si=nNl4f1ZWIuAVOxHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ===
 ===
@@ -62,7 +62,7 @@ placematpic
 : ../web/img/biopm.png
 
 gallery
-: <iframe width="640" height="480" src="https://www.youtube.com/embed/sJnXtfjYkoQ?si=VpPRTYdR1Qoco_rf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe width="560" height="315" src="https://www.youtube.com/embed/sJnXtfjYkoQ?si=VpPRTYdR1Qoco_rf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 : <iframe src="https://drive.google.com/file/d/1Fq3t-7-7bXS4nkcSIuogKJi8aCgPrG_U/preview" width="640" height="480"></iframe>
 : <iframe width="560" height="315" src="https://www.youtube.com/embed/Lg7qILHLKB4?si=Wsc-YJiB7utn-0Sx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ placematpic
 : ../web/img/toppm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1MIbnnkXpqV7p8sKP2XQl4qL1-RMF6JH7/view?usp=sharing" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/1MIbnnkXpqV7p8sKP2XQl4qL1-RMF6JH7/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe width="560" height="315" src="https://www.youtube.com/embed/zN4KB2az1zI?si=BSWj5IixzjZEY6zn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 : <iframe width="560" height="315" src="https://www.youtube.com/embed/UgtJraJHUDw?si=fSNiaByi1lwGCM0X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
