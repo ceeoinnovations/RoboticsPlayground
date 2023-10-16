@@ -24,8 +24,8 @@ placematpic
 : ../web/img/getpm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/154czmLLcsvaLVkrJh7h-kFdHVdS3DzHn/view?usp=sharing" width="640" height="480"></iframe>
-: <iframe src="https://drive.google.com/file/d/13u5MTMpHaTSFtw_A4g-5qAyBUcO6bVfb/preview" width="640" height="480"></iframe>
+: ../web/img/getting1.jpg
+: ../web/img/getting2.jpg
 : ../web/img/get1.jpg
 
 ===
