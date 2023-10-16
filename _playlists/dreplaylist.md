@@ -24,8 +24,8 @@ placematpic
 : ../web/img/getpm.png
 
 gallery
-: ../web/img/getting1.jpg
-: ../web/img/getting2.jpg
+: ../web/img/getting1.png
+: ../web/img/getting2.png
 : ../web/img/get1.jpg
 
 ===
