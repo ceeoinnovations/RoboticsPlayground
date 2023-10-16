@@ -44,7 +44,7 @@ placematpic
 
 gallery
 : <iframe width="640" height="480" src="https://www.youtube.com/embed/kxCy1zyQmIo?si=KEDHLbKYBYrLAIcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-: <iframe src="https://drive.google.com/file/d/1Y14YN8DQBoFBeuBcVdpPRuprkt1_vJe9/preview" width="640" height="480"></iframe>
+: <iframe src="https://drive.google.com/file/d/16vttuWe3E9GXECEcTdtZ8nlGKN62u0ZA/view" width="640" height="480"></iframe>
 : <iframe src="https://drive.google.com/file/d/1UrScM7ap7-PaD0iVt5qWRHaq9Zh_VFlw/preview" width="640" height="480"></iframe>
 
 ===
