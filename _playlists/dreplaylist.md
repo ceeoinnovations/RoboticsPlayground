@@ -143,3 +143,60 @@ gallery
 : <iframe src="https://drive.google.com/file/d/1zOqj_qUo1QVPwizy1YOTMeWZI89Fmbat/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
+===
+title
+: Astronaut Tools
+
+description
+: 
+
+placematlinks
+: [Placemat Link](https://docs.google.com/presentation/d/1u8kO4hRpXdu4NGJOl97s_M8Yr7Y_c8QOm6V3yRnbjdc/edit?usp=share_link)
+
+placematpic
+: ../web/img/astronaut.png
+
+gallery
+: <iframe src="https://drive.google.com/file/d/1grlQ7l1RGIWDsj_yBKaxx3sHRWZSVGlL/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1EhRdBBTy0cesCYle8p7l4r_O8sYVShaw/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1DyGz2nHO9grSLkb4RBFNo_c3U8lU1SmN/preview" width="640" height="480" allow="autoplay"></iframe>
+
+===
+===
+title
+: Robotic Arm
+
+description
+: 
+
+placematlinks
+: [Placemat Link](https://docs.google.com/presentation/d/1U8f67ZDn283DSgBs-L1E7EiYsQXFBLuBOvuwxNWkmgI/edit?usp=share_link)
+
+placematpic
+: ../web/img/arm.png
+
+gallery
+: 
+: 
+: 
+
+===
+===
+title
+: Haunted House
+
+description
+: 
+
+placematlinks
+: [Placemat Link](https://docs.google.com/presentation/d/197b9-kksF3Bz1PDZRP1eSXTm-ntHVfLiGoQMd213Lmg/edit?usp=share_link)
+
+placematpic
+: ../web/img/hauntedhouse.png
+
+gallery
+: 
+: 
+: 
+
+===
