@@ -110,7 +110,7 @@ title
 : Simple Car
 
 description
-: 
+: Build a sturdy car using as few pieces as possible. It should be able to drive forward, backward, and spin.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1CPxhed3M4rS-5Xn46bRIU7_p1Fh8SK8zS7eWZLJ__L8/edit?usp=sharing)
@@ -122,5 +122,24 @@ gallery
 : <iframe src="https://drive.google.com/file/d/1MwaSHC1nrUIB7YUEcOp86H8wJleMy2NA/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1eZa-KMAHN63td6cGLo5JFSTM5GJ-2mES/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1CY58P2SQFqKZiZ4e8XsI84RffGIK5hfA/preview" width="640" height="480" allow="autoplay"></iframe>
+
+===
+===
+title
+: Draw a Square
+
+description
+: Build a robot that holds a pen and program it to draw a perfect square.
+
+placematlinks
+: [Placemat Link](https://docs.google.com/presentation/d/1WgZO6lSVsNNJuaOGKT-cvYBeuNUA2TvyGRqmbOwoO0M/edit?usp=sharing)
+
+placematpic
+: ../web/img/drawsquare.png
+
+gallery
+: <iframe src="https://drive.google.com/file/d/1GmwRILgEps9mgC7FYd5JTDYILNABKd76/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Ei6Oq60qu9EmASMHJbiVFOX86myVKxHR/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1zOqj_qUo1QVPwizy1YOTMeWZI89Fmbat/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
