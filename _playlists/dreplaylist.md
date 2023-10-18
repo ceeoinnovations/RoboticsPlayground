@@ -100,9 +100,9 @@ placematpic
 : ../web/img/spiropm.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1Tc1fN13baO5Bx5CYemEDwyq6lpmdjZsu/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe width="560" height="315" src="https://www.youtube.com/embed/g5cXVxpey48?si=r-f1FPCzbg3YPDE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-: <iframe width="560" height="315" src="https://www.youtube.com/embed/vaAH6kightY?si=4xuFe8neNVGnJQZg&amp;start=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+: <iframe src="https://drive.google.com/file/d/10Tf6kL_4Vwunk3l6ngBLipWEp53QAqzi/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Lm8UDt1CDQ4sXU3WlL4OruGpuPlrhEc9/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1LEkzp43sE9PxP8QxJgk5W1h8dvHlcTg2/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
@@ -119,9 +119,9 @@ placematpic
 : ../web/img/simplecar.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1MwaSHC1nrUIB7YUEcOp86H8wJleMy2NA/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1eZa-KMAHN63td6cGLo5JFSTM5GJ-2mES/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1CY58P2SQFqKZiZ4e8XsI84RffGIK5hfA/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/15BMOZOY_9JmgSRXJa9As8GBsVaiZU2-7/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1kjxrdOEhDpSTuHcVC_nYFuYZGF2OsuRx/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1RFY-V-LZ6wHsHqsnLnyd38JJRdifKG2C/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
