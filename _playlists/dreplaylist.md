@@ -42,10 +42,11 @@ placematlinks
 placematpic
 : ../web/img/sillypm.png
 
-gallery
+: gallery
 : <iframe src="https://drive.google.com/file/d/1pPAqLlC5_khgFFOJfrGN9ZLiSGqSgbij/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1l2TwMdOyVVk78GMde4Wt8U2z3YR6qCal/preview" width="640" height="480" allow="autoplay"></iframe>
 : <iframe src="https://drive.google.com/file/d/1dh1RspX7Rbdlx6Ns7urnuc0AQOK2tKGT/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ===
 ===
 title
