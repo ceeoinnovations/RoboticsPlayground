@@ -18,7 +18,7 @@ description
 : As an introduction to the SPIKE Prime Technic building system, this first activity provides an opportunity for Dr. E to get to know his students while they are introduced to the various (non-robotic) parts within the kit and learn to build structurally stable builds. Students had a few days to work on their designs.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1XSuqxaDD3M4EmyCa4WQ-Lks52S2PsdeeMkwbxwCtHrk/edit#slide=id.g8f75b611d7_0_120)
+: [Placemat Link](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
 placematpic
 : ../web/img/getpm.png
@@ -37,7 +37,7 @@ description
 : As a first robotics (robot controlled movement) activity, this doesn't require any programming and can be done just with the Default Program (Heart Function) on the SPIKE Prime Hub. This was done as an in-class activity over 1/2 hour.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1m1E4wX62KUUyqBc3_EOuGQhzMLTclkuuiMqbhqT87LI/edit#slide=id.g8da13afc02_2_0)
+: [Placemat Link](https://docs.google.com/presentation/d/1y3qOu7dApOQH1Y3jT0YgykPQrBCGQRwlMeJJjPcHcX4/edit?usp=share_link)
 
 placematpic
 : ../web/img/sillypm.png
@@ -56,7 +56,7 @@ description
 : Creating engineering solutions that are inspired by biology requires careful analysis of the structure-function relationships found in nature. Students watched this video (https://www.youtube.com/watch?v=iMtXqTmfta0) to learn about Biomimicry, and then each chose an animal to research. They studied the animal's components that allow it to move, and then thought about how to recreate using the SPIKE Prime system. Replicating the movement with the robot could be done just using the Default Program (Heart Function) or, if students wanted to explore coding, some simple programming control. Students had one week to complete this assignment.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/14LWSoPqSHqylRU4GT2MVu1cFW8yQl_wradtBuZrQ0QA/edit#slide=id.g8da13afc02_2_0)
+: [Placemat Link](https://docs.google.com/presentation/d/1kDlSNoWDmyhFOx8oLlRfoOz-sLmgp_iynnNC4351b5w/edit?usp=share_link)
 
 placematpic
 : ../web/img/biopm.png
@@ -75,7 +75,7 @@ description
 : After an in-class discussion of gears (gearing up, gearing down, and gear trains), students had 1/2 hour to design and implement their own top-spinners. This required a lot of time management to experiment with the gears but also build the top and launcher simultaneously. Some students calculated their gear ratios to understand, for each rotation of the motor, how fast their tops were spinning. An in-class competition determined whose top lasted spinning the longest. The Default Program (Heart Function) was used to control the motor and get the tops spinning.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1VOoz4rjrn22c0DcpMVRLeXItKmLg9KT7CcLQJ6nuDVo/edit#slide=id.g8da13afc02_2_0)
+: [Placemat Link](https://docs.google.com/presentation/d/1WpcO-x-c63qywodpIB5ZGC0Zt8Cx7UcTsA_x4CArGWU/edit?usp=share_link)
 
 placematpic
 : ../web/img/toppm.png
