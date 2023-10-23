@@ -94,7 +94,7 @@ description
 : The goal of this activity was to explore mechanical movement and see what different kinds of geometric designs came out of their robotic systems. This also introduced simple intro to programming for basic motor control, since this (often) requires controlling the motors at different speeds. Students varied aspects of their system (arm length, motor speed, etc) to see how that affected the resulting drawn designs.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1vDslcubg4uuUbeRDz4DWvLfY8nzGJp9MuKBMw1x4R7c/edit#slide=id.g8da13afc02_2_0)
+: [Placemat Link](https://docs.google.com/presentation/d/16KgdJwjBy5EMuMqgNBrKQc1EghIsZCaB4p5jXiGy8Cs/edit?usp=share_link)
 
 placematpic
 : ../web/img/spiropm.png
