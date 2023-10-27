@@ -97,7 +97,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/16KgdJwjBy5EMuMqgNBrKQc1EghIsZCaB4p5jXiGy8Cs/edit?usp=share_link)
 
 placematpic
-: ../web/img/spiropm.png
+: ../web/img/spiropm2.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/10Tf6kL_4Vwunk3l6ngBLipWEp53QAqzi/preview" width="640" height="480" allow="autoplay"></iframe>
