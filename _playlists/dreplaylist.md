@@ -116,7 +116,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1CPxhed3M4rS-5Xn46bRIU7_p1Fh8SK8zS7eWZLJ__L8/edit?usp=sharing)
 
 placematpic
-: ../web/img/simplecar.png
+: ../web/img/car.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/15BMOZOY_9JmgSRXJa9As8GBsVaiZU2-7/preview" width="640" height="480" allow="autoplay"></iframe>
