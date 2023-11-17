@@ -110,7 +110,7 @@ title
 : Simple Car
 
 description
-: Build a sturdy car using as few pieces as possible. It should be able to drive forward, backward, and spin.
+: Up to this point in the class the assignments have been structured to have students create solutions that aren’t cars. But of course wheeled movement is a large part of standard robotic solutions, so it’s important that students develop an understanding of how to navigate with two wheels. This in-class project (over a 1/2 hour) has students quickly build a car (at this point, based on prior building experience, they can quickly assemble a two-motor/two-wheeled car with the SPIKE Prime) and learn how motor inputs (speed and direction) affect output behavior. They are challenged to drive forward and backward (to understand value of motor speed to direction), spin in place, and then move in arcs of various sizes. The latter is designed to help them understand where the “point of rotation” is compared to motor speed.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1CPxhed3M4rS-5Xn46bRIU7_p1Fh8SK8zS7eWZLJ__L8/edit?usp=sharing)
@@ -129,7 +129,7 @@ title
 : Draw a Square
 
 description
-: Build a robot that holds a pen and program it to draw a perfect square.
+: This week-long assignment builds on the Simple Car activity (movement) but adds in precision and repeatability and reliability. I allow my students to “practice as much as you want” but then have them, in class, have “one opportunity” to draw the square. This challenges them to consider how consistent a robot they have created is, and “if they trust” that their solution will perform under pressure. Learning from the Simple Car activity, the design of the robot (specifically the relationship between pen location and motors) is important to get the corners of the square to “look like corners.” Finally, there are often a variety of solutions with respect to code: Do you repeat your code four times or use iteration/a for loop? Do you turn based on time, motor degrees, or use a sensor like the internal IMU (gyroscope) to accurately turn 90-degrees?
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1WgZO6lSVsNNJuaOGKT-cvYBeuNUA2TvyGRqmbOwoO0M/edit?usp=sharing)
@@ -148,7 +148,7 @@ title
 : Astronaut Tools
 
 description
-: 
+: Engineering is often about providing a solution for a client, and at this point in the semester I turn their focus to the field of “Human Factors Engineering” and considering the needs (and requirements and restrictions) of a client when developing an engineering solution.  After introducing the concept of an EVA (extravehicular activity, of “spacewalk”) and looking at some of the constraints that space agencies put in place on the design and development of space tools, the students have to design and test a robotic device to move a nut from one bolt to another. The interaction of the LEGO set with the real world adds another additional challenge: how do you use LEGO parts to grasp (and not drop!) a standard nut? In-class I’ll also run a single-elimination head-to-head bracket competition amongst the students, which emphasizes speed (often students who gear their device do better) while requiring consistency and reliability (to make it through various stages of the bracket one must have a well-working solution).
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1u8kO4hRpXdu4NGJOl97s_M8Yr7Y_c8QOm6V3yRnbjdc/edit?usp=share_link)
@@ -167,7 +167,7 @@ title
 : Robotic Arm
 
 description
-: 
+: Robotic Arms are another subset of robotics that are worth exploring. Instead of using a standard model, this assignment challenges students to be creative in how they design and develop a method of moving a ping-pong ball from one point to another. Often students stay true to the title of the assignment (“Robotic Arm”) and create grasping mechanisms that pinch-and-move the ball, although there are other creative techniques that can similarly solve the challenge without being arm-like in nature. The modular design of the base-setup allows groups to be combined (the finishing location of one stage becomes the starting point of the next) and within a class a “chain reaction” of passing the ball along can happen.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1U8f67ZDn283DSgBs-L1E7EiYsQXFBLuBOvuwxNWkmgI/edit?usp=share_link)
@@ -186,7 +186,7 @@ title
 : Haunted House
 
 description
-: 
+: When this class is run during September and October, the 10th assignment (“Haunted House”) falls during the end of October and aligns with Halloween. This provides the opportunity to create an interactive Haunted House filled with SPIKE Prime based robotic exhibits. This assignment really emphasizes student creativity in terms of the look, feel, and interaction (sensors and motors) of each individual exhibit, as well as the challenge of decorating their robotic creation to “hide the LEGO pieces” and instead embrace the design of a Halloween-themed project.
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/197b9-kksF3Bz1PDZRP1eSXTm-ntHVfLiGoQMd213Lmg/edit?usp=share_link)
