@@ -195,8 +195,8 @@ placematpic
 : ../web/img/hauntedhouse.png
 
 gallery
-: 
-: 
-: 
+: ../web/img/spooky1.png
+: ../web/img/spooky2.png
+: <iframe src="https://drive.google.com/file/d/1h5OPxDd6qoq91YQH4j0Kr1WfXZHUPtaM/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
