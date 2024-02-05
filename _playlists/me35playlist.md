@@ -65,7 +65,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1Q_-iWmDVHY8AtdWjm_n5wdh9oiYp51ldK-_vwDJvtck/edit#slide=id.gddcf87255d_0_0)
 
 placematpic
-: ../web/img/ME35_LineFollower.png
+: ../web/img/LineFollowerPlacemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/18riiRNT3zY6PP4O4VXf67VDuwuYOHrW_/preview" width="640" height="480"></iframe>
@@ -84,7 +84,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1M_Cao4SkI-EoEXMYnomyIfOcAA136bNm4hWKPj4GWlI/edit#slide=id.ge0ad01646c_0_94)
 
 placematpic
-: ../web/img/ME35_LetterC.png
+: ../web/img/LetterCPlacemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1tmNoXLFzQqqNU5_uBDg6-Sohzwws9_bl/preview" width="640" height="480"></iframe>
