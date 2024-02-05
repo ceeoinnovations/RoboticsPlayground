@@ -59,7 +59,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1poc5MihLbhiONdTLpLE_pxW_XUuRPfL9z8RaeCoojC8/edit?usp=sharing)
 
 placematpic
-: ../web/img/PuppetShow.jpg
+: ../web/img/PuppetPlacemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/15bRZ4t997cccTHrl-T0zjAG7aZraZcR2/preview" width="640" height="480"></iframe>
@@ -114,7 +114,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1eqtfP21hUyg6K4sMo93HVZr7ZUFCjPCxfBty2-bbfyQ/edit?usp=sharing)
 
 placematpic
-: ../web/img/PercussionPlaytime.png
+: ../web/img/PercussionPlacemat.png
 
 ===
 ===
@@ -129,7 +129,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1CnOVp7aVnxWVfEzvolB0rfT6JzIp98QXwm2X3TytvYE/edit?usp=sharing)
 
 placematpic
-: ../web/img/SpaceExploration.png
+: ../web/img/SpaceExplorationPlacemat.png
 
 ===
 ===
@@ -144,7 +144,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1o2ExOMA6k9_ayW0DVOeU1GsAK3I-aA69Zan_E2rEV08/edit?usp=sharing)
 
 placematpic
-: ../web/img/Proverbial.png
+: ../web/img/ProverbialPlacemat.png
 
 ===
 ===
@@ -159,7 +159,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1xEuLz5z291yJ3qtf9nU86mB3ZhCFfNXjeX0ZfQ60b2w/edit?usp=sharing)
 
 placematpic
-: ../web/img/CleanSweep.png
+: ../web/img/CleanSweepPlacemat.png
 
 ===
 ===
@@ -174,6 +174,6 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1SIxxfHObESBCUiIP83akeQuwnKPjSLbCUZ0NfRI0glY/edit?usp=sharing)
 
 placematpic
-: ../web/img/BallThrower.png
+: ../web/img/BallThrowerPlacemat.png
 
 ===
