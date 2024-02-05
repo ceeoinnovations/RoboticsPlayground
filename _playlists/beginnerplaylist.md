@@ -79,7 +79,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1vjT52kvJNIoEZSbmvLHnG_-sSjwSGJlM6XPc11EEn6k/edit?usp=sharing)
 
 placematpic
-: ../web/img/Garden.jpg
+: ../web/img/GardenPlacemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1WcGJAkltHgVo4dqGnvu5mwnPbETjET2U/preview" width="640" height="480"></iframe>
