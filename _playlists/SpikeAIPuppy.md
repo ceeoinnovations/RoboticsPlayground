@@ -31,7 +31,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1UR_DQkpuBaJWDXFj7jMlrF5njVUwg9hvgi2SiHq_-gQ/edit#slide=id.gb8126a8c55_0_90)
 
 placematpic
-: ../web/img/PuppyLesson1Front.png
+: ../web/img/AILesson1Placemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/16mJkCcl9dau4a5rHhChoVNXH_QhvDl69/preview" width="640" height="480"></iframe>
