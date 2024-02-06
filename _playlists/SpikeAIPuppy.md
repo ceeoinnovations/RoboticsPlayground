@@ -48,7 +48,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1je-fzaUMyjK8FQvnuY2Yvd0uZLm0-lYTxM7qNJnq5eY/edit#slide=id.ge3d79526d7_0_91)
 
 placematpic
-: ../web/img/PuppyLesson2Front.png
+: ../web/img/AILesson2Placemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1_w9CHn7GQcPjnx6uVbYyffCT0aCLXsxw/preview" width="640" height="480"></iframe>
@@ -66,7 +66,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/17kUr2bXnRiifOLSbBnB5BNrdE5JjLImObAXUMQLmXkg/edit#slide=id.ge4342160e1_0_90)
 
 placematpic
-: ../web/img/PuppyLesson3Front.png
+: ../web/img/AILesson3Placemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/18EOmMYHGeHQbn-Mql_1NuCQG3iw72e24/preview" width="640" height="480"></iframe>
@@ -84,7 +84,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/18e0KlM8rbYiJMf5pchH8Domn1UIcuzo6sTm7Fg4RgSI/edit#slide=id.ge2b5783bb5_0_90)
 
 placematpic
-: ../web/img/PuppyLesson4Front.png
+: ../web/img/AILesson4Placemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1Yd88vIqh-2qdg7z77tX_542oW6LKrauY/preview" width="640" height="480"></iframe>
