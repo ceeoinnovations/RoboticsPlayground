@@ -18,7 +18,7 @@ placematlinks
 
 
 placematpic
-: ../web/img/Placemat.png
+: ../web/img/SillyWalksPlacemat.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1BwOLCLrmR93XUDbxBJ8lLEP9zphuRWzF/preview" width="640" height="480"></iframe>
@@ -39,7 +39,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/1i3jsGQQ0LfIjyeYwMOUaNCr56Njvxjz2ua-VoWUHAdk/edit?usp=sharing)
 
 placematpic
-: ../web/img/Placemat2.png
+: ../web/img/EarthlingPlacemat.jpg
 
 gallery
 : <iframe src="https://drive.google.com/file/d/15bRZ4t997cccTHrl-T0zjAG7aZraZcR2/preview" width="640" height="480"></iframe>
@@ -99,7 +99,7 @@ placematlinks
 : [Python Placemat](https://docs.google.com/presentation/d/15HXdNVRHPsC6LM-Hrfp5X6AP6qPzNj_Ns2dOrNE-lCE/edit?usp=sharing)
 
 placematpic
-: ../web/img/SimpleCar.jpg
+: ../web/img/SimpleCarPlacemat.jpg
 
 ===
 ===
