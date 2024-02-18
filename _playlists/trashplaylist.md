@@ -49,8 +49,8 @@ description
 
 placematlinks
 : [WeDo Placemat](https://docs.google.com/presentation/d/1SJ-ARK7B7kXplKTCGcfO98y8zp6Y6JcC32FHsIFm4-Q/edit?usp=sharing)
-: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1Q8bjrcN1Jv8slf1Ca-GrH2HRFJJfbaKI1dujUjkD0Iw/edit?usp=sharing)
-: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1840g3qMYKXkLu_BhSIh4g9Trx9WP3naJuvRkMDtSzcc/edit?usp=sharing)
+: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1rLrdd8mSvb16NvncScWpGNfycYfiLR_F3Bkx7AhLYXI/edit?usp=sharing)
+: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1iZS194DGqoTgxULABJWQH0vKrtW_AfHI9iXeL3nxDMU/edit?usp=sharing)
 : [EV3 WordBlocks Placemat](https://docs.google.com/presentation/d/1ye48r7cGH1xRC5GtuTdKZPDmMN0t3KB-_eQP0lN7fwg/edit?usp=sharing)
 : [EV3 Python Placemat](https://docs.google.com/presentation/d/1I9p_I6GZcvxK6xVihWcsNbPYY0C96_iIX5opZ1df51E/edit?usp=sharing)
 
@@ -72,8 +72,8 @@ description
 
 placematlinks
 : [WeDo Placemat](https://docs.google.com/presentation/d/1HkD_ieYit0VLhtArk6jZMvUk81fAjO0vaH9qFNW2vAY/edit?usp=sharing)
-: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1HgE_qkhSwZBN8s1k0tCdL_DXufBEsUNEbTim4JzuapE/edit?usp=sharing)
-: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/12hhQF6WERJvlFSNf3Bgy8x7ZDfZMzpexrOkWuceNUxk/edit?usp=sharing)
+: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1LhR24KYbl93DC7Kv1GevZAIraHrR_Z-KzRPXMGYDsiA/edit?usp=sharing)
+: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1Lb6Flrx-I0T06JEfJPYf22NX7h3nt_Svg_wxbfdiB9I/edit?usp=sharing)
 : [EV3 WordBlocks Placemat](https://docs.google.com/presentation/d/1IAInNw6WXyblQN2mxRrjSSEAs61X6uMrxkCGWv6vVQ8/edit?usp=sharing)
 : [EV3 Python Placemat](https://docs.google.com/presentation/d/1DpUOY599Xp_rvKPcuaDKG7pmCmbd_LCWPKECt0C9UCc/edit?usp=sharing)
 
@@ -95,8 +95,8 @@ description
 
 placematlinks
 : [WeDo Placemat](https://docs.google.com/presentation/d/1UC3BMlgcI7fiFZ9r4F70l2ffuR_N_yJNyjhxszq5kBE/edit?usp=sharing)
-: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1IeK9sQFszVd5_dKyNvVpC-ryqg6KYU5-QyxB0xgBBFM/edit?usp=sharing)
-: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1Zhfc-EoU5CjcAGx4nDU_kYDKZOgAia367BkpW9mV-RE/edit?usp=sharing)
+: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1dxxZuG6HvwRHMsDs-WzgPE1Xj_TsAgTygrx_KJyruoY/edit?usp=sharing)
+: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1Ih3a97gzYy92qL3vA_xOWmLBX-qqgmha0tbkYyOqqrE/edit?usp=sharing)
 : [EV3 WordBlocks Placemat](https://docs.google.com/presentation/d/1W8x4FsTdeD3KB7yFXBVQ3Zy3ywS_bU5mzbO7-C1tE_0/edit?usp=sharing)
 : [EV3 Python Placemat](https://docs.google.com/presentation/d/1QR1kTkdJe5H1q1PauvNRVbYAJsyBQt-w67fV79hnQ_8/edit?usp=sharing)
 
@@ -118,8 +118,8 @@ description
 
 placematlinks
 : [WeDo Placemat](https://docs.google.com/presentation/d/1QEgbdl1anofHhEfB2vJ5StJYgi1xMO03Y9jl4QKuInI/edit?usp=sharing)
-: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1tH-GJqseN0S4LOdfbTEC9qjbvmvbvmWPnAAKTXQwQRU/edit?usp=sharing)
-: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1EechGhOqa4LD30uwfHUtjXWWmtJEmpul-2LXD6lX4fM/edit?usp=sharing)
+: [SPIKE Prime WordBlocks Placemat](https://docs.google.com/presentation/d/1PuIOihCtxU6NQNmKsJwZyp2Xm2QV1ovC_Rq75GOnKVc/edit?usp=sharing)
+: [SPIKE Prime Python Placemat](https://docs.google.com/presentation/d/1KoVZweQDZ0DtFamOppk84dQmqXvtFyGzf7uMXRl6uBY/edit?usp=sharing)
 : [EV3 WordBlocks Placemat](https://docs.google.com/presentation/d/1Zgn5tXalGA5DJAZTxypYmG5wR-7OgshAkOGY6chNiAs/edit?usp=sharing)
 : [EV3 Python Placemat](https://docs.google.com/presentation/d/1jcrfJnWWe_z6SBlcUxTBw3taA7N9KUuasOnN50hVlFs/edit?usp=sharing)
 
