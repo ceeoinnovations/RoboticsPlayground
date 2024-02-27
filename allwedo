@@ -1,0 +1,348 @@
+
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <title>CEEO INNOVATIONS</title>
+      <link rel="stylesheet preload"  as="style"href="web/css/allisoncss.css">
+      <!-- Custom fonts for this template -->
+      <link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+      <!-- Custom styles for this template -->
+      <link href="web/css/business-casual.min.css" rel="stylesheet preload" as="style">
+      <!--Allison's helper functions for appending content-->
+      <!-- Custom styles for this template -->
+      <link rel="preload stylesheet" href="web/css/style1.css" as="style">
+      <!-- Theme Style -->
+      <link rel="preload stylesheet" href="web/css/style.css" as="style">
+      <link rel="stylesheet" href="web/css/aos.css">
+      <link rel="stylesheet" href="web/css/home_style.css">
+      <link rel="stylesheet" href="web/css/post.css">
+      <link rel="stylesheet" href="web/css/playground_style.css">
+      <style>
+      .col-center-block {
+          float: none;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+      }
+      .col-md-700{-ms-flex:0 0 56.333333%;flex:0 0 56.333333%;max-width:56.333333%}
+
+      header2{
+      	display:block;
+      	padding:.5rem 0rem;
+      	margin-bottom:0;
+      	font-size:.875rem;
+      	color:#6c757d;
+      	white-space:nowrap}
+
+      .project_description{
+      	text-align: center;
+      	margin-left: 10%;
+      	margin-right:10%;
+      	font-wight: 400;
+      }
+      	/*.project_description h2 {
+          font-weight: 400;
+          font-size: 1.9rem;
+          margin-bottom: 4rem;
+     }*/
+      </style>
+   </head>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0VG6RFT65R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0VG6RFT65R');
+</script>
+   <body style="background-color: #fff">
+      <!------Mobile Novbar---------------------------------------------------------------------->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <!-- Top Navigation Menu-->
+      <div id="mobilenav" class=" clearfix sticky topnav">
+         <a href="index.html" class="active"><img  id="logoimg" class="img-fluid hvr-shrink" src="web/img/Logo_DarkGreen_Inset.png" onError="this.onerror=null;this.src='../web/img/Logo_DarkGreen_Inset.png';" alt="">
+         </a>
+         <div id="myLinks" class = "dropdown navlink">
+            
+            
+            <a class ="navlink nav hvr-shrink" href="index.html" >Robotics Playground</a>
+            
+            
+         </div>
+         <a href="javascript:void(0);" class="icon" style="background-color: #fff; color: #000"onclick="myFunction()">
+         <i class="fa fa-bars"></i>
+         </a>
+      </div>
+      <!-- Navigation links (hidden by default)-->
+      <!-----------NAV BAR-------------------------------------------------------------------->
+      <div id="nav-wrap">
+         <div id="navbar" class="clearfix">
+            <a id="logo" class="navlink" href="https://ceeoinnovations.github.io/"  target="_blank">
+            <img  id="logoimg" class="img-fluid hvr-shrink" src="web/img/Logo_Black.png" onError="this.onerror=null;this.src='web/img/Logo_Pink3.png';" alt="">
+            </a>
+            <div id="navbar-right">
+               <ul>
+                  <li>
+                     
+                     
+                     
+                     
+                  
+                  <li>
+                     <a class ="navlink nav hvr-shrink" href="index.html" >Robotics Playground</a>
+                  </li>
+                  
+                  
+                  <a  id="navtuftsimglink"  class="navlink hvr-shrink" href="https://ceeo.tufts.edu/" >
+                  <img  id="navimg" src="web/img/ceeoblacklogo.png"onError="this.onerror=null;this.src='web/img/ceeopinklogo.png';" alt="">
+                  </a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </div>
+      <div class="moderator">
+         <!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>CEEO INNOVATIONS</title>
+
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
+
+</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0VG6RFT65R"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0VG6RFT65R');
+</script>
+	
+<body style="background-color:#fff;padding-top: 0px">
+
+  <!-- Navigation -->
+  <h1 class="site-heading text-center">
+
+     <div id="titleheader">
+        <div id="headerMPT" class="site-heading-upper headerMPT"></div>
+        <div id="headmypageheader" class="mypageheader my-site-heading-upper subheaderMPT" style="text-transform: none;">Robotics Playground<br>&nbsp;<br>WeDo Placemats</div>
+     </div>
+  </h1>
+
+
+<div class="charcontainer">
+<div class="robosec">
+     <h1 id="myconpageheader" >SPIKE Prime Playlists</h1>
+        <div class="home_playlist_container">
+             <div class="row no-gutters" >
+                
+                
+                
+                
+                <div class="projectsegment col-sm-6 col-md-3 col-lg-2" >
+                   <a class = "work-thumb" href="/RoboticsPlayground/playlists/SpikeAIPuppy.html" >
+                   <div class="work-text">
+                      <h2>SPIKE Prime AI Puppy</h2>
+                      <p >ROBOTICS PLAYGROUNDS</p>
+                      <p class="work-text2"></p>
+                   </div>
+                   <div id="block" style="background-image: url(web/img/PuppyCover.png)" >  </div>
+                    </a>
+                </div>
+                
+                
+                
+                <div class="projectsegment col-sm-6 col-md-3 col-lg-2" >
+                   <a class = "work-thumb" href="/RoboticsPlayground/playlists/beginnerplaylist.html" >
+                   <div class="work-text">
+                      <h2>Getting started with SPIKE Prime</h2>
+                      <p >ROBOTICS PLAYGROUNDS</p>
+                      <p class="work-text2"></p>
+                   </div>
+                   <div id="block" style="background-image: url(web/img/begin1.jpg)" >  </div>
+                    </a>
+                </div>
+                
+                
+                
+                <div class="projectsegment col-sm-6 col-md-3 col-lg-2" >
+                   <a class = "work-thumb" href="/RoboticsPlayground/playlists/dreplaylist.html" >
+                   <div class="work-text">
+                      <h2>Dr. E's SPIKE Prime Class</h2>
+                      <p >ROBOTICS PLAYGROUNDS</p>
+                      <p class="work-text2"></p>
+                   </div>
+                   <div id="block" style="background-image: url(web/img/drecover.JPG)" >  </div>
+                    </a>
+                </div>
+                
+             
+                
+                <div class="projectsegment col-sm-6 col-md-3 col-lg-2" >
+                   <a class = "work-thumb" href="/RoboticsPlayground/playlists/me35playlist.html" >
+                   <div class="work-text">
+                      <h2>Intro to Robotics Class</h2>
+                      <p >ROBOTICS PLAYGROUNDS</p>
+                      <p class="work-text2"></p>
+                   </div>
+                   <div id="block" style="background-image: url(web/img/ME35_Cover.png)" >  </div>
+                    </a>
+                </div>
+                
+                
+                
+                
+             </div>
+        </div>
+</div>
+
+
+<div class="robosec">
+       <h1 id="myconpageheader">Placemat Instructions Library</h1>
+        <div class="home_playlist_container">
+             <div class="iframecontainer">
+	                <iframe referrerpolicy="no-referrer-when-downgrade" height="1000px" width="100%" style="border:none;" src="https://view-awesome-table.com/-Nrb4PdtrMkQSGInYCK4/view?filterS=WeDo"></iframe>
+                 </div>
+           </div>
+</div>
+ </div>
+
+
+
+  <footer class="footer text-faded text-center py-5" >
+    <div class="container" style="border-top-style:solid;border-top-color: rgba(0,0,0,0.3)">
+      <p style="color:black; text-align: center; margin-top:3rem;text-indent: 1px">Copyright &copy; Tufts University Center for Engineering Education and Outreach 2020</p>
+    </div>
+  </footer>
+</body>
+	<footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="PHONECOL col-sm-4 col-md-4 col-lg-4" style="margin-right:15%" >
+			  <img class="img-fluid" src="web/img/Logo_White0.png"  onError="this.onerror=null;this.src='../web/img/Logo_White0.png';">
+			  <a href="https://ceeo.tufts.edu/" target="_blank">
+			  <img class="img-fluid" style = "margin-top: 1.5rem;margin-bottom:1rem" src="../web/img/CEEO_Logo_White.png"  onError="this.onerror=null;this.src='web/img/CEEO_Logo_White.png';"alt="">
+			  </a>
+          </div>
+          <div class="ABOUTCOL col-md-6 col-lg-6 ml-auto" >
+            <div class="row">
+              <div class="col-lg-5" style="margin-right: 25%">
+                <h2 class="footer-heading">About Us</h2>
+				 <p class="mb-5" style="font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, Helvetica, “Apple Color Emoji”, Arial, sans-serif, “Segoe UI Emoji”, “Segoe UI Symbol”; color:rgba(255,255,255,1.00)">We are from the Tufts Center for the Engineering and Education and Outreach<a href="about.html"style="font-weight:bold">Learn More</a> </p>
+
+              </div>
+              <div class="ABOUTCOL col-md-6 col-lg-4">
+                <h2 class="footer-heading" style="">Follow us</h2>
+                <ul class="list-unstyled bs" >
+                  <li><a href="https://www.instructables.com/member/CEEOInnovations/" target="_blank">Instructables</a></li>
+
+                  <li><a href="https://github.com/ceeoinnovations" target="_blank">Github</a></li>
+                </ul>
+
+              </div>
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+	<script>
+		$(function(){
+			$(".footerpage").load("footerpage.html");
+		});
+	</script>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="web/js/jquery.min.js"></script>
+  <script src="web/js/bootstrap.bundle.min.js"></script>
+  <script src="web/js/jquery-3.2.1.min.js"></script>
+  <script src="web/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="web/js/popper.min.js"></script>
+  <script src="web/js/jquery.waypoints.min.js"></script>
+  <script src="web/js/jquery.fancybox.min.js"></script>
+  <script src="web/js/jquery.stellar.min.js"></script>
+  <script src="web/js/main.js"></script>
+
+</html>
+
+      </div>
+      <script src="web/js/aos.js"></script>
+      <script>
+         /* Toggle between showing and hiding the navigation menu links when the user clicks on the hamburger menu / bar icon */
+         function myFunction() {
+         var x = document.getElementById("myLinks");
+         if (x.style.display === "block") {
+          x.style.display = "none";
+         } else {
+          x.style.display = "block";
+         }
+         }
+
+         function mysubFunction() {
+         var x = document.getElementById("sublinks");
+         if (x.style.display === "block") {
+          x.style.display = "none";
+         } else {
+          x.style.display = "block";
+         }
+         }
+      </script>
+      <script>
+         AOS.init();
+              $(function(){
+                   $(".footerpage").load("footerpage.html");
+              });
+      </script>
+      <script>
+         // When the user scrolls down 80px from the top of the document, resize the navbar's padding and the logo's font size
+         window.onscroll = function() {scrollFunction()};
+
+         var header = document.getElementById("nav-wrap");
+         var mobileheader = document.getElementById("mobilenav");
+         var sticky = header.offsetTop;
+
+
+
+         window.onresize = scrollFunction();
+
+         function scrollFunction() {
+
+         if (window.pageYOffset > sticky) {
+                 header.classList.add("sticky");
+            } else {
+                 header.classList.remove("sticky");
+               }
+
+           if (window.pageYOffset > sticky) {
+             document.getElementById("navbar").style.padding = "0px 0px";
+             $("#navbar").css({"padding-left": ".5%", "padding-right": ".5%","padding-top":"0%","background-color":" #fff"});
+         } else  {
+
+              document.getElementById("navbar").style.padding = "10px 3px";
+               $("#navbar").css({"padding-bottom": "2.5%", "padding-top":"2.5%",  "background-color":"#fff"});
+
+
+           }
+         }
+     </script>
+</html>
