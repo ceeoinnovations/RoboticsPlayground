@@ -13,7 +13,7 @@ description
 
 placematlinks
 : [WordBlocks Placemat](https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing)
-: [Python Placemat](https://docs.google.com/presentation/d/1Vq5_KbyfdsMA6-07FTcKP6SjKQmkom8uiUBv4fc2-Kg/edit?usp=sharing)
+: [Python Placemat](https://docs.google.com/presentation/d/15cJ_ngFhIlHOGuc27DBwODvgblbVGndKMGPtoUEp8sE/edit?usp=sharing)
 
 
 
@@ -36,7 +36,7 @@ description
 
 placematlinks
 : [Word Blocks Placemat](https://docs.google.com/presentation/d/1ntnOqbuefef-hmIusLtIOCCYBguNRZT5jE5lXGxztKQ/edit?usp=sharing)
-: [Python Placemat](https://docs.google.com/presentation/d/1i3jsGQQ0LfIjyeYwMOUaNCr56Njvxjz2ua-VoWUHAdk/edit?usp=sharing)
+: [Python Placemat](https://docs.google.com/presentation/d/1FXgqLQ7k_b8jYruIeEh4YjXzbidjBGejytYDmOk6IZE/edit?usp=sharing)
 
 placematpic
 : ../web/img/EarthlingPlacemat.jpg
@@ -96,7 +96,7 @@ description
 
 placematlinks
 : [Word Blocks Placemat](https://docs.google.com/presentation/d/1oWt-748wi9lD_Nh2NKGBzlBW89FGa6OCgKB5ge_Mm3I/edit?usp=sharing)
-: [Python Placemat](https://docs.google.com/presentation/d/15HXdNVRHPsC6LM-Hrfp5X6AP6qPzNj_Ns2dOrNE-lCE/edit?usp=sharing)
+: [Python Placemat](https://docs.google.com/presentation/d/1sgCaeV4690CdAr2Lg20LZRrRe0aRp-dnv5GTRCjKAbk/edit?usp=sharing)
 
 placematpic
 : ../web/img/SimpleCarPlacemat.jpg
