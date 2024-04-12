@@ -12,7 +12,7 @@ description
 : Build a robot that moves forward– without using wheels!
 
 placematlinks
-: [WordBlocks Placemat](https://docs.google.com/presentation/d/1nuMfi0PwQPHSC6zPuATr9L00CtAQ0FYffUNBkfNvoHs/edit?usp=sharing)
+: [WordBlocks Placemat](https://docs.google.com/presentation/d/1Jq3gwuDG-niR-SLqq3s5CrhPpd7slefdiErP2QTabYk/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/15cJ_ngFhIlHOGuc27DBwODvgblbVGndKMGPtoUEp8sE/edit?usp=sharing)
 
 
@@ -35,7 +35,7 @@ description
 : Build a robot that greets people with a wave, a fist bump, a high five, or some other welcoming movement!
 
 placematlinks
-: [Word Blocks Placemat](https://docs.google.com/presentation/d/1ntnOqbuefef-hmIusLtIOCCYBguNRZT5jE5lXGxztKQ/edit?usp=sharing)
+: [Word Blocks Placemat](https://docs.google.com/presentation/d/1Qm_dfFp5Yl1CueiZsUUq5iN4PQyC0GDPH2ReUn9nVfg/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1FXgqLQ7k_b8jYruIeEh4YjXzbidjBGejytYDmOk6IZE/edit?usp=sharing)
 
 placematpic
@@ -95,7 +95,7 @@ description
 : Build a sturdy car using as few pieces as possible. Your robot needs to be able to drive forward for two seconds, backwards for two seconds, spin right for 2 seconds, and spin left for 2 seconds.
 
 placematlinks
-: [Word Blocks Placemat](https://docs.google.com/presentation/d/1oWt-748wi9lD_Nh2NKGBzlBW89FGa6OCgKB5ge_Mm3I/edit?usp=sharing)
+: [Word Blocks Placemat](https://docs.google.com/presentation/d/1Jq3gwuDG-niR-SLqq3s5CrhPpd7slefdiErP2QTabYk/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1sgCaeV4690CdAr2Lg20LZRrRe0aRp-dnv5GTRCjKAbk/edit?usp=sharing)
 
 placematpic
