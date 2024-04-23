@@ -2,7 +2,7 @@
 layout: post
 title: Multilingual Placemat Booklets
 displayimg: web/img/brief.png
-description: LEGO Education has translated some of our favorite placemats for an international audience!
+description: COMING SOON! LEGO Education will be translating some of our favorite placemats for an international audience!
 ---
 <div class="learninggoals" markdown="1">
 # About Placemats
