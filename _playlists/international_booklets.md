@@ -19,7 +19,8 @@ Dr. Willner-Giwerc’s research involved extensive classroom testing and iterati
 <div class="learninggoals" markdown="1">
 # Publications
 
-texts
+Willner-Giwerc, S., Danahy, E., Rogers, C. (2021). Placemat Instructions for Open-Ended Robotics Challenges. In: Lepuschitz, W., Merdan, M., Koppensteiner, G., Balogh, R., Obdržálek, D. (eds) Robotics in Education. RiE 2020. Advances in Intelligent Systems and Computing, vol 1316. Springer, Cham. https://doi.org/10.1007/978-3-030-67411-3_21
+
 </div>
 
 ===
