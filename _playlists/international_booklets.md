@@ -24,6 +24,7 @@ Willner-Giwerc, S., Danahy, E., Rogers, C. (2021). Placemat Instructions for Ope
 Willner-Giwerc, S., Danahy, E., Rogers, C. (2021). Placemat Instructions for Open-Ended Robotics Challenges. In: Lepuschitz, W., Merdan, M., Koppensteiner, G., Balogh, R., Obdržálek, D. (eds) Robotics in Education. RiE 2020. Advances in Intelligent Systems and Computing, vol 1316. Springer, Cham. https://doi.org/10.1007/978-3-030-67411-3_21
 
 Willner-Giwerc, S. (2022). Designing for solution diversity in educational robotics learning experiences (Order No. 28722110). Available from Dissertations & Theses @ Tufts University; ProQuest Dissertations & Theses Global. (2584212835). https://login.ezproxy.library.tufts.edu/login?url=https://www.proquest.com/dissertations-theses/designing-solution-diversity-educational-robotics/docview/2584212835/se-2
+
 </div>
 
 ===
@@ -31,7 +32,7 @@ title
 : Placemat Booklets
 
 description
-:
+: Download your copy today!
 
 placematlinks
 : [عربي (Arabic)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
@@ -61,17 +62,7 @@ placematpic
 : ../web/img/brief.png
 
 ===
-===
-title
-: Placemat Booklets
 
-placemat links
-: [Čeština (Czech)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
-
-placematpic
-: ../web/img/brief.png
-
-===
 
 
 
