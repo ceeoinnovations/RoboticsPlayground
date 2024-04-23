@@ -6,6 +6,7 @@ description: LEGO Education has translated some of our favorite placemats for an
 ---
 <div class="learninggoals" markdown="1">
 # About Placemats
+  
 The placemats were derived from Dr. Sara Willner-Giwerc’s doctoral dissertation research. Dr. Willner-Giwerc designed the placemats format to transform the way robotics is taught, moving away from traditional step-by-step instructions that limit student engagement and often lead students to merely replicate knowledge rather than think independently. The activity placemats were designed to foster a more dynamic and creative learning environment and empower students to explore and innovate on their own terms, reflecting real-world engineering practices.
   
 The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
@@ -15,6 +16,11 @@ Dr. Willner-Giwerc’s research involved extensive classroom testing and iterati
 
 </div>
 
+<div class="learninggoals" markdown="1">
+# Publications
+
+texts
+</div>
 
 ===
 title
