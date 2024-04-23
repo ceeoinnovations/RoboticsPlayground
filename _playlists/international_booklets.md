@@ -10,43 +10,35 @@ The emphasis of this Introduction to Engineering course is around Engineering De
 
 </div>
 
-<div class="learninggoals" markdown="1">
-<p>COMING SOON! LEGO Education will be translating some of our favorite placemats for international distribution.</p>
-<p>
-    <a href="">عربي (Arabic)</a><br>
-    <a href="">Čeština (Czech)</a><br>
-    <a href="">Nederlandse (Dutch)</a><br>
-    <a href="">Deutsche (German)</a><br>
-    <a href="">Española (Spanish)</a><br>                
-    <a href="">Française (French)</a><br>
-    <a href="">日本語 (Japanese)</a><br>
-    <a href="">한국인 (Korean)</a><br>
-    <a href="">Português (Portuguese)</a><br>
-    <a href="">Türkçe (Turkish)</a><br>
-    <a href="">Tiếng Việt (Vietnamese)</a><br>
-</p>
-</div>
 
 ===
 title
-: Placemats
+: Placemat Booklets
 
 
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [عربي (Arabic)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Čeština (Czech)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Nederlandse (Dutch)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Deutsche (German)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Española (Spanish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Française (French)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [日本語 (Japanese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [한국인 (Korean)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Português (Portuguese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Türkçe (Turkish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Tiếng Việt (Vietnamese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
 placematpic
 : ../web/img/getpm.png
