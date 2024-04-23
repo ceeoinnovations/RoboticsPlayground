@@ -29,11 +29,22 @@ The emphasis of this Introduction to Engineering course is around Engineering De
 
 ===
 title
-: Getting to Know You
+: Placemats
 
-description
-: As an introduction to the SPIKE Prime Technic building system, this first activity provides an opportunity for Dr. E to get to know his students while they are introduced to the various (non-robotic) parts within the kit and learn to build structurally stable builds. Students had a few days to work on their designs.
 
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+placematlinks
+: [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [Download](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
