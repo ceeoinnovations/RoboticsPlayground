@@ -26,6 +26,8 @@ texts
 title
 : Placemat Booklets
 
+description
+:
 
 placematlinks
 : [عربي (Arabic)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
