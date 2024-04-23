@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multilingual Placemat Booklets
-displayimg: web/img/drecover.JPG
+displayimg: web/img/brief.png
 description: LEGO Education has translated some of our favorite placemats for an international audience!
 ---
 <div class="learninggoals" markdown="1">
@@ -52,10 +52,20 @@ placematlinks
 : [Tiếng Việt (Vietnamese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
 placematpic
-: ../web/img/getpm.png
+: ../web/img/brief.png
 
 ===
+===
+title
+: Placemat Booklets
 
+placemat links
+: [Čeština (Czech)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+
+placematpic
+: ../web/img/brief.png
+
+===
 
 
 
