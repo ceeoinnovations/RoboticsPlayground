@@ -13,14 +13,6 @@ The placemats are designed as a one-page, double-sided student-facing resource. 
 
 Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
 
-(../web/img/1630620004580.jpeg) (../web/img/placholder_image.png)
-
-placematpic
-: ../web/img/1630620004580.jpeg
-
-gallery
-: ../web/img/1630620004580.jpeg : ../web/img/1630620004580.jpeg : ../web/img/1630620004580.jpeg
-
 </div>
 
 <div class="learninggoals" markdown="1">
