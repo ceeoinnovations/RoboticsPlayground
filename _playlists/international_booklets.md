@@ -38,9 +38,6 @@ Willner-Giwerc, S., Danahy, E., Rogers, C. (2021). [Placemat Instructions for Op
 title
 : Placemat Booklets
 
-description
-: Download your copy today!
-
 placematlinks
 : [عربي (Arabic)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 
