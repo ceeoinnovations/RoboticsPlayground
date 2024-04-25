@@ -2,7 +2,7 @@
 layout: post
 title: Multilingual Placemat Booklets
 displayimg: web/img/brief.png
-description: COMING SOON! LEGO Education will be translating some of our favorite placemats for an international audience!
+description: COMING SOON! Some of our favorite placemats translated into many languages!
 ---
 <div class="learninggoals" markdown="1">
 # About Placemats
@@ -30,7 +30,7 @@ placematlinks
 placematlinks
 : [Deutsche (German)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Española (Spanish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Español (Spanish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [Française (French)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
