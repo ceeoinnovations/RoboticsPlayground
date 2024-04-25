@@ -16,6 +16,10 @@ Dr. Willner-Giwerc’s research involved extensive classroom testing and iterati
 </div>
 
 <div class="learninggoals" markdown="1">
+<img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placeholder_image.png" align="right" width="100%" padding="20">
+</div>
+  
+<div class="learninggoals" markdown="1">
 # Publications
 
 Willner-Giwerc, S., Hsin, R., Mody, S., & Rogers, C. (2023). [Engineering Encounters: Placemat Instructions.](https://doi.org/10.1080/00368148.2023.12291856) Science and Children, 60(3), 54–59. 
