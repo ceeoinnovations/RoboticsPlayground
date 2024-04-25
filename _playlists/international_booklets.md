@@ -11,16 +11,16 @@ description: COMING SOON! LEGO Education will be translating some of our favorit
   
 The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
 
-Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
-
 <img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placeholder_image.png" align="right" width="100%" padding="20">
+
+Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
 
 </div>
 
   
 <div class="learninggoals" markdown="1"> 
 
-  # Publications
+# Publications
 
 Willner-Giwerc, S., Hsin, R., Mody, S., & Rogers, C. (2023). [Engineering Encounters: Placemat Instructions.](https://doi.org/10.1080/00368148.2023.12291856) Science and Children, 60(3), 54–59. 
 
