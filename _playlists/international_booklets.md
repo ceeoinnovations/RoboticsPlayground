@@ -11,7 +11,7 @@ description: COMING SOON! Some of our favorite placemats translated into many la
   
 The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
 
-<center><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="50%" padding="20"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat2.png" width="50%" padding="20"></center>
+<center><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="40%" padding="20"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat2.png" width="40%" padding="20"></center>
 
 
 Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
