@@ -12,7 +12,8 @@ Tufts CEEO is an interdisciplinary center dedicated to creating the next generat
 </div>
 
 <div class="learninggoals" markdown="1">
-#`About Placemats
+
+  # About Placemats
 
 <img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/sarawg.png" align="right" width="300" padding="20">The placemats were derived from Dr. Sara Willner-Giwerc’s doctoral dissertation research. Dr. Willner-Giwerc designed the placemats format to transform the way robotics is taught, moving away from traditional step-by-step instructions that limit student engagement and often lead students to merely replicate knowledge rather than think independently. The activity placemats were designed to foster a more dynamic and creative learning environment and empower students to explore and innovate on their own terms, reflecting real-world engineering practices.
   
