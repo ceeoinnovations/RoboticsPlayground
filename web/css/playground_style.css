@@ -122,7 +122,7 @@
     text-align: center;
     position: relative;
     color: #51d294;
-    line-height: 0.6em;
+    line-height: 1em;
     pointer-events: none;
     flex: 1 100%;
     -webkit-font-smoothing: antialiased;
@@ -163,7 +163,7 @@
     text-align: center;
     position: relative;
     color: #424C55;
-    line-height: 0.6em;
+    line-height: 1em;
     pointer-events: none;
     flex: 1 100%;
     -webkit-font-smoothing: antialiased;
@@ -225,7 +225,7 @@
     z-index: 10;
     text-align: left;
     position: relative;
-    line-height: 0.7em;
+    line-height: 1em;
     margin-bottom: 20px;
     pointer-events: none;
 }
