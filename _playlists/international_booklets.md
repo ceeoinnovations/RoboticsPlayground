@@ -49,11 +49,10 @@ placematlinks
 placematpic
 : ../web/img/brief.png
 
-gallery 
-: ../web/img/placemats03.jpg : ../web/img/placemat01.jpg : ../web/img/placemat03.jpg
-
-
-
+gallery
+: ../web/img/wdpusher.jpg
+: ../web/img/sppusher.jpg
+: ../web/img/evpusher.jpg
 ===
 
 <div class="learninggoals" markdown="1"> 
