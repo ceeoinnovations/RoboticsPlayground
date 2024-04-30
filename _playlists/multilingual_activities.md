@@ -50,7 +50,7 @@ placematpic
 : ../web/img/brief.png
 
 gallery
-: ../web/img/wdpusher.jpg
+: ../web/img/placemat02.jpg
 : ../web/img/sppusher.jpg
 : ../web/img/evpusher.jpg
 ===
