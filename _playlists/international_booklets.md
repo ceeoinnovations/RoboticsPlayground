@@ -50,8 +50,7 @@ placematpic
 : ../web/img/brief.png
 placematpic
 : ../web/img/brief.png
-placematpic
-: ../web/img/brief.png
+
 
 ===
 
