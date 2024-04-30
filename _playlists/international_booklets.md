@@ -56,7 +56,7 @@ gallery
 
 ===
 
-<div class="learninggoals" markdown="2"> 
+<div class="learninggoals" markdown="1"> 
 
 # Publications
 
