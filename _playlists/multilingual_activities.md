@@ -55,8 +55,9 @@ placematpic
 
 gallery
 : ../web/img/placemat03.png
-: ../web/img/sppusher.jpg
-: ../web/img/evpusher.jpg
+: ../web/img/placemat01.png
+: ../web/img/placemat02.png
+
 ===
 
 <div class="learninggoals" markdown="1"> 
