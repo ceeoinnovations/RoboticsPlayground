@@ -50,7 +50,7 @@ placematpic
 : ../web/img/brief.png
 
 gallery 
-: ../web/img/placemat1.png : ../web/img/placemat2.png : ../web/img/placemat3.jpg
+: ../web/img/placemat01.jpg : ../web/img/placemat02.jpg : ../web/img/placemat03.jpg
 
 
 
