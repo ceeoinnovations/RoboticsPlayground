@@ -13,8 +13,7 @@ The placemats are designed as a one-page, double-sided student-facing resource. 
 
 Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
 
-<div><
-       img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="100%" padding="10"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="100%" padding="10">
+<div><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="100%" padding="10"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/placemat1.png" width="100%" padding="10">
 </div>
 
 
@@ -53,6 +52,9 @@ placematlinks
 
 placematpic
 : ../web/img/brief.png
+
+gallery 
+: ../web/img/placemat1.png : ../web/img/placemat2.png : ../web/img/placemat3.jpg
 
 
 
