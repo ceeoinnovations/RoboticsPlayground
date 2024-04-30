@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SPIKE Prime Placemat Booklets
+title: Multilingual SPIKE Prime Placemat Booklets
 displayimg: web/img/brief.png
 description: COMING SOON! Some of our favorite placemats translated into multiple languages!
 ---
@@ -50,7 +50,7 @@ placematpic
 : ../web/img/brief.png
 
 gallery
-: ../web/img/placemat03.jpg
+: ../web/img/placemat03.png
 : ../web/img/sppusher.jpg
 : ../web/img/evpusher.jpg
 ===
