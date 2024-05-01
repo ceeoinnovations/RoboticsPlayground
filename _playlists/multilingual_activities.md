@@ -61,7 +61,7 @@ gallery
 
 ===
 
-<div class="bottomcontent" markdown="1"> 
+<div class="bottomcontent" markdown="1" > 
 
 # Publications
 
