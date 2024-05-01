@@ -23,6 +23,10 @@ function CollectAllDivs(){
      for (var i = 0; i < mylgs.length; i++){
           CreateLearnGoal(mylgs[i]);
      }
+     var mybottom = mycontent.getElementsByClassName("bottomcontent");
+     for (var i = 0; i < mybottom.length; i++){
+          CreateBottomContent(mybottom[i]);
+     }
      return mydls;
 }
 /*CreateLearnGoal
@@ -34,7 +38,16 @@ function CreateLearnGoal(mylg){
      simpleh2.innerHTML = mylg.innerHTML;
      var my_app = document.getElementById("appendlg");
      my_app.append(simpleh2);
-
+}
+/*CreateBottomContent
+ *Collect an Array of all the BottomContent
+*/
+function CreateBottomContent(mybc){
+     let simpleh2 = document.createElement("h2");
+     simpleh2.className = "learninggoals";
+     simpleh2.innerHTML = mybc.innerHTML;
+     var my_app = document.getElementById("appendbc");
+     my_app.append(simpleh2);
 }
 
  /* Create Sections by Div
