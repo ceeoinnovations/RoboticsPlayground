@@ -61,7 +61,7 @@ gallery
 
 ===
 
-<div> 
+<div class="learninggoals" markdown="1"> 
 
 # Publications
 
