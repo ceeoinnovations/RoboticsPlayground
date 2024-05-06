@@ -26,30 +26,32 @@ title
 : Placemat Booklets
 
 placematlinks
-: [عربي (Arabic)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [عربي (Arabic)](https://drive.google.com/file/d/1HBa45VKx09z0_uEwvUSiqzf7H8zGWL7v/view?usp=drive_link)
 
 placematlinks
-: [Čeština (Czech)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Čeština (Czech)](https://drive.google.com/file/d/1HjtBfeDPKy7g1Sou2IDuLhoAoTIYRqhN/view?usp=sharing)
 placematlinks
-: [Deutsch (German)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Deutsch (German)](https://drive.google.com/file/d/1HgVbQIRSyi_izhtq3u_filOczoVazknh/view?usp=sharing)
 placematlinks
-: [English](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [English](https://drive.google.com/file/d/1HMioQE8hBWLPS5LZ3vgYcLe93qeRknOX/view?usp=sharing)
 placematlinks
-: [Español (Spanish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Español (Spanish)](https://drive.google.com/file/d/1HCsTCU3URvNN3Lxu6KPdLF_w3xO_wnhu/view?usp=sharing)
 placematlinks
-: [Français (French)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Français (French)](https://drive.google.com/file/d/1HOpDU9oWlxusEzL5rYWBXko8n0sCbQfx/view?usp=sharing)
 placematlinks
-: [日本語 (Japanese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [日本語 (Japanese)](https://drive.google.com/file/d/1HCOXmcr-8sGz49YgtRbsUnW-kfvPPorj/view?usp=sharing)
 placematlinks
-: [한국인 (Korean)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [한국인 (Korean)](https://drive.google.com/file/d/1HS4tpYZPBD26H_j78sp01etrCOXfw5hq/view?usp=sharing)
 placematlinks
-: [Nederlands (Dutch)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Nederlands (Dutch)](https://drive.google.com/file/d/1INcwR83HqQuzO4ckBSXBQpsIV0Kqy5h8/view?usp=sharing)
 placematlinks
-: [Português (Portuguese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Polski (Polish)](https://drive.google.com/file/d/1HM8sjka_mo1K_veuEGA0553_SeiwcHjH/view?usp=sharing)
 placematlinks
-: [Türkçe (Turkish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Português (Portuguese)](https://drive.google.com/file/d/1HcDINj28lQx0GZyByVQPBRlonYyd8iFL/view?usp=sharing)
 placematlinks
-: [Tiếng Việt (Vietnamese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Türkçe (Turkish)](https://drive.google.com/file/d/1HfTXwhRvpkiAY6fRElLoCONM2jBS2oNd/view?usp=sharing)
+placematlinks
+: [Tiếng Việt (Vietnamese)](https://drive.google.com/file/d/1HC-3Cpt53XDToEF7ksRorEwrAiwB7De8/view?usp=sharing)
 
 placematpic
 : ../web/img/brief.png
