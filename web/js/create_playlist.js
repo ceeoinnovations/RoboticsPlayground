@@ -84,6 +84,7 @@ function CreateBottomContent(mybc){
                   let mynewlink = document.createElement("a");
                   mynewlink.className = "playlist_descrip_link marginbutt myButton";
                   mynewlink.href = foundlink.href;
+                  mynewlink.target = "_blank";
                   mynewlink.innerHTML = foundlink.innerHTML;
                   let mini_append_here = simplediv.getElementsByClassName("special_app")[0];
                   mini_append_here.append(mynewlink);
