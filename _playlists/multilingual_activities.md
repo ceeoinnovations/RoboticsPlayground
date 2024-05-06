@@ -54,14 +54,12 @@ gallery
 
 <div class="bottomcontent" markdown="1">
 
-<p align="center"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/ceeologo.png" align="center" width="50%" padding="20"></p>
+<p align="center"><a href="https://ceeo.tufts.edu"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/ceeologo.png" align="center" width="50%" padding="20"></a></p>
 
 # About Tufts CEEO
 
 
-Tufts CEEO is an interdisciplinary center dedicated to creating the next generation of problem solvers, kindergarten through college, through engineering education. Tufts CEEO began collaborating with LEGO Education in 1998, by developing ROBOLAB for the LEGO Education MINDSTORMS for Schools (RCX) platform. CEEO continued to support the LEGO NXT MINDSTORMS, LEGO EV3 MINDSTORMS, and now the LEGO Education SPIKE platforms. In addition to software development, Tufts CEEO hosted many local LEGO Engineering conferences and symposiums and ran the LEGO Engineering online community at LEGOEngineering.com. Always pushing the envelope, Tufts CEEO continues to develop new connections between LEGO Education’s products, with other tools and technologies while supporting LEGO-based teaching around the world. 
-
-Learn more at <a href="https://ceeo.tufts.edu">ceeo.tufts.edu.
+Tufts CEEO is an interdisciplinary center dedicated to creating the next generation of problem solvers, kindergarten through college, through engineering education. Tufts CEEO began collaborating with LEGO Education in 1998, by developing ROBOLAB for the LEGO Education MINDSTORMS for Schools (RCX) platform. CEEO continued to support the LEGO NXT MINDSTORMS, LEGO EV3 MINDSTORMS, and now the LEGO Education SPIKE platforms. In addition to software development, Tufts CEEO hosted many local LEGO Engineering conferences and symposiums and ran the LEGO Engineering online community at LEGOEngineering.com. Always pushing the envelope, Tufts CEEO continues to develop new connections between LEGO Education’s products, with other tools and technologies while supporting LEGO-based teaching around the world. Learn more at <a href="https://ceeo.tufts.edu">ceeo.tufts.edu.
 
 # About Placemats
 
