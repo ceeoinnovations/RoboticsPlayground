@@ -31,19 +31,19 @@ placematlinks
 placematlinks
 : [Čeština (Czech)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Deutsche (German)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Deutsch (German)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [English](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [Español (Spanish)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Française (French)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Français (French)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [日本語 (Japanese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [한국인 (Korean)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
-: [Nederlandse (Dutch)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Nederlands (Dutch)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
 : [Português (Portuguese)](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
 placematlinks
