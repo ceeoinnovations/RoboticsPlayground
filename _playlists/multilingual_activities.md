@@ -54,7 +54,7 @@ gallery
 
 <div class="bottomcontent" markdown="1">
 
-<p align="center"><a href="https://ceeo.tufts.edu"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/ceeologo.png" align="center" width="50%" padding="20"></a></p>
+<p align="center"><a href="https://ceeo.tufts.edu" target="_blank"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/ceeologo.png" align="center" width="50%" padding="20"></a></p>
 
 # About Tufts CEEO
 
