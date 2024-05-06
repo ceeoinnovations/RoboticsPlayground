@@ -5,9 +5,9 @@ displayimg: web/img/arabic.png
 description: Some of our favorite placemats have been translated in multiple languages! 
 ---
 
-<div class="learning goals" markdown="1">
+<div class="learninggoals" markdown="1">
  
-The translated PDFs below each include of ten activities sutiable for beginners and include snippets of Python code. The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
+The translations each include ten activities sutiable for beginners with snippets of Python code. The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
 </div>
 
 ===
