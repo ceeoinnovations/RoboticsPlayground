@@ -2,24 +2,13 @@
 layout: post
 title: Multilingual SPIKE Prime Placemat Booklets
 displayimg: web/img/brief.png
-description: COMING SOON! Some of our favorite placemats translated into multiple languages!
+description: Some of our favorite placemats have been translated in multiple languages! 
 ---
-<div class="learninggoals" markdown="1">
 
-# About Tufts University Center for Engineering and Outreach (CEEO)
-
-Tufts CEEO is an interdisciplinary center dedicated to creating the next generation of problem solvers, kindergarten through college, through engineering education. Tufts CEEO began collaborating with LEGO Education in 1998, by developing ROBOLAB for the LEGO Education MINDSTORMS for Schools (RCX) platform. CEEO continued to support the LEGO NXT MINDSTORMS, LEGO EV3 MINDSTORMS, and now the LEGO Education SPIKE platforms. In addition to software development, Tufts CEEO hosted many local LEGO Engineering conferences and symposiums and ran the LEGO Engineering online community at LEGOEngineering.com. Always pushing the envelope, Tufts CEEO continues to develop new connections between LEGO Education’s products, with other tools and technologies while supporting LEGO-based teaching around the world.
-
-# About Placemats
-
-<img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/sarawg.png" align="right" width="300" padding="20">The placemats were derived from Dr. Sara Willner-Giwerc’s doctoral dissertation research. Dr. Willner-Giwerc designed the placemats format to transform the way robotics is taught, moving away from traditional step-by-step instructions that limit student engagement and often lead students to merely replicate knowledge rather than think independently. The activity placemats were designed to foster a more dynamic and creative learning environment and empower students to explore and innovate on their own terms, reflecting real-world engineering practices.
-  
-The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
-
-Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
-
+<div class="learning goals" markdown="1">
+ 
+The translated PDFs below each include of ten activities sutiable for beginners and include snippets of Python code. The placemats are designed as a one-page, double-sided student-facing resource. The front provides inspiration and the initial challenge, while the back offers support for building and coding. This format makes the instructions accessible and manageable within classroom constraints like time and resources. Each placemat also emphasizes the practical application and relevance of the skills being developed, bridging classroom activities with real-world engineering.
 </div>
-
 
 ===
 title
@@ -62,6 +51,20 @@ gallery
 : ../web/img/placemat02.png
 
 ===
+
+<div class="bottomcontent" markdown="1">
+
+# About Tufts University Center for Engineering and Outreach (CEEO)
+
+Tufts CEEO is an interdisciplinary center dedicated to creating the next generation of problem solvers, kindergarten through college, through engineering education. Tufts CEEO began collaborating with LEGO Education in 1998, by developing ROBOLAB for the LEGO Education MINDSTORMS for Schools (RCX) platform. CEEO continued to support the LEGO NXT MINDSTORMS, LEGO EV3 MINDSTORMS, and now the LEGO Education SPIKE platforms. In addition to software development, Tufts CEEO hosted many local LEGO Engineering conferences and symposiums and ran the LEGO Engineering online community at LEGOEngineering.com. Always pushing the envelope, Tufts CEEO continues to develop new connections between LEGO Education’s products, with other tools and technologies while supporting LEGO-based teaching around the world.
+
+# About Placemats
+
+<img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/sarawg.png" align="right" width="300" padding="20">The placemats were derived from Dr. Sara Willner-Giwerc’s doctoral dissertation research. Dr. Willner-Giwerc designed the placemats format to transform the way robotics is taught, moving away from traditional step-by-step instructions that limit student engagement and often lead students to merely replicate knowledge rather than think independently. The activity placemats were designed to foster a more dynamic and creative learning environment and empower students to explore and innovate on their own terms, reflecting real-world engineering practices.
+  
+Dr. Willner-Giwerc’s research involved extensive classroom testing and iteration of the placemats over two years. Feedback from these sessions helped refine the placemats, ensuring they effectively support diverse learning styles and teaching needs. In classroom settings, placemats promoted a higher degree of problem-solving, critical thinking, peer collaboration, and solution diversity. Students created a variety of solutions to a single engineering challenge, demonstrating the effectiveness of the format in enhancing creative and analytical skills in engineering contexts.
+
+</div>
 
 <div class="bottomcontent" markdown="1" > 
 
