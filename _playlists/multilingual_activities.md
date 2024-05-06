@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Multilingual SPIKE Prime Placemat Booklets
-displayimg: web/img/brief.png
+displayimg: web/img/arabic.png
 description: Some of our favorite placemats have been translated in multiple languages! 
 ---
 
@@ -43,7 +43,7 @@ placematlinks
 : [Tiếng Việt (Vietnamese)](https://drive.google.com/file/d/1HC-3Cpt53XDToEF7ksRorEwrAiwB7De8/view?usp=sharing)
 
 placematpic
-: ../web/img/brief.png
+: ../web/img/arabic.png
 
 gallery
 : ../web/img/placemat03.png
