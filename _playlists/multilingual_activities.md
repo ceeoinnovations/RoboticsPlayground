@@ -15,32 +15,32 @@ title
 : Placemat Booklets
 
 placematlinks
-: [عربي (Arabic)](https://drive.google.com/file/d/1HBa45VKx09z0_uEwvUSiqzf7H8zGWL7v/view?usp=drive_link)
+: [عربي (Arabic)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20ARSA%20v1.pdf)
 
 placematlinks
-: [Čeština (Czech)](https://drive.google.com/file/d/1HjtBfeDPKy7g1Sou2IDuLhoAoTIYRqhN/view?usp=sharing)
+: [Čeština (Czech)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20CSCZ%20v1.pdf)
 placematlinks
-: [Deutsch (German)](https://drive.google.com/file/d/1HgVbQIRSyi_izhtq3u_filOczoVazknh/view?usp=sharing)
+: [Deutsch (German)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20DEDE%20v1.pdf)
 placematlinks
-: [English](https://drive.google.com/file/d/1HMioQE8hBWLPS5LZ3vgYcLe93qeRknOX/view?usp=sharing)
+: [English](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20ENGB%20v2.pdf)
 placematlinks
-: [Español (Spanish)](https://drive.google.com/file/d/1HCsTCU3URvNN3Lxu6KPdLF_w3xO_wnhu/view?usp=sharing)
+: [Español (Spanish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20ESES%20v1.pdf)
 placematlinks
-: [Français (French)](https://drive.google.com/file/d/1HOpDU9oWlxusEzL5rYWBXko8n0sCbQfx/view?usp=sharing)
+: [Français (French)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20FRFR%20v1.pdf)
 placematlinks
-: [日本語 (Japanese)](https://drive.google.com/file/d/1HCOXmcr-8sGz49YgtRbsUnW-kfvPPorj/view?usp=sharing)
+: [日本語 (Japanese)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20JAJP%20v1.pdf)
 placematlinks
-: [한국인 (Korean)](https://drive.google.com/file/d/1HS4tpYZPBD26H_j78sp01etrCOXfw5hq/view?usp=sharing)
+: [한국인 (Korean)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20KOKR%20v1.pdf)
 placematlinks
-: [Nederlands (Dutch)](https://drive.google.com/file/d/1INcwR83HqQuzO4ckBSXBQpsIV0Kqy5h8/view?usp=sharing)
+: [Nederlands (Dutch)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20NLNL%20v1.pdf)
 placematlinks
-: [Polski (Polish)](https://drive.google.com/file/d/1HM8sjka_mo1K_veuEGA0553_SeiwcHjH/view?usp=sharing)
+: [Polski (Polish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20PLPL%20v1.pdf)
 placematlinks
-: [Português (Portuguese)](https://drive.google.com/file/d/1HcDINj28lQx0GZyByVQPBRlonYyd8iFL/view?usp=sharing)
+: [Português (Portuguese)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20PTBR%20v1.pdf)
 placematlinks
-: [Türkçe (Turkish)](https://drive.google.com/file/d/1HfTXwhRvpkiAY6fRElLoCONM2jBS2oNd/view?usp=sharing)
+: [Türkçe (Turkish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20TRTR%20v1.pdf)
 placematlinks
-: [Tiếng Việt (Vietnamese)](https://drive.google.com/file/d/1HC-3Cpt53XDToEF7ksRorEwrAiwB7De8/view?usp=sharing)
+: [Tiếng Việt (Vietnamese)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
 
 placematpic
 : ../web/img/arabic.png
