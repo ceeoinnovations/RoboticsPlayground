@@ -14,7 +14,7 @@ description
 : This teacher guide gives an overview of machine learning and the three machine learning activities.
 
 placematlinks
-: [Teacher Overview](https://drive.google.com/file/d/1N0C8ynqiioBAK5CMEQh4zjXaLVGVqdxJ/view?usp=sharing)
+: [Teacher Overview](https://drive.google.com/file/d/1SpKBNICgRbts7haol7u7lmcT0z2Js6n1/view?usp=drive_link)
 
 placematpic
 : ../web/img/teacher-guide.png
