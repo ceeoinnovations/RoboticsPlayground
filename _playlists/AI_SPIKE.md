@@ -2,7 +2,7 @@
 layout: post
 title: Intro to Machine Learning with SPIKE Prime
 displayimg: web/img/aicar.JPG
-description: Three progressive SPIKE Prime activities to introduce students to machine learning.
+description: Progressive SPIKE Prime activities to introduce students to machine learning.
 ---
 
 
