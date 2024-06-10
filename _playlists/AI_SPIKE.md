@@ -14,7 +14,7 @@ description
 : This teacher guide gives an overview of machine learning and the machine learning activities.
 
 placematlinks
-: [Teacher Overview](https://drive.google.com/file/d/1f-HvNUu28XwleJUTEpz0Dv8V1tFh2Lny/view?usp=sharing)
+: [Teacher Overview](https://drive.google.com/file/d/1f0wZWlHtJ_la29kbf44Uwfc8VjXEfDdP/view?usp=sharing)
 
 placematpic
 : ../web/img/teacher-guide.png
@@ -29,7 +29,7 @@ description
 : To utilize Machine Learning features, you’ll need to use the LEGO MINDSTORMS Robot Inventor App, which will require installing and setting up the app. This guide will walk you through the steps.
 
 placematlinks
-: [Teacher Guide](https://drive.google.com/file/d/1MtLc5hOhyIYtqHA_B7gCdUFvwH-pphRh/view?usp=drive_link)
+: [Teacher Guide](https://drive.google.com/file/d/1fbQ8o7WWORNjn_c_M_FIypo0sgslooiu/view?usp=sharing)
 
 placematpic
 : ../web/img/hubprep.png
