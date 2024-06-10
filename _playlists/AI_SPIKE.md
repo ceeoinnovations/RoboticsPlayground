@@ -11,7 +11,7 @@ title
 : Teacher Overview
 
 description
-: This teacher guide gives an overview of machine learning and the three machine learning activities.
+: This teacher guide gives an overview of machine learning and the machine learning activities.
 
 placematlinks
 : [Teacher Overview](https://drive.google.com/file/d/1SpKBNICgRbts7haol7u7lmcT0z2Js6n1/view?usp=drive_link)
@@ -73,7 +73,7 @@ title
 : Activity 3: Navigating a Course
 
 description
-: This activity requires students to use what they learned from the previous activities and train a car to respond to sound or images in order to navigate a course. 
+: This activity requires students to use what they learned from the previous two activities and train a car to respond to sound or images in order to navigate a course. 
 
 placematlinks
 : [Teacher Guide](https://drive.google.com/file/d/1ORygVWiu374djR6fOxash_DeBOF52clf/view?usp=drive_link)
