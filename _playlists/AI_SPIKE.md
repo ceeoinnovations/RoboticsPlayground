@@ -14,7 +14,7 @@ description
 : This teacher guide gives an overview of machine learning and the machine learning activities.
 
 placematlinks
-: [Teacher Overview](https://drive.google.com/file/d/1f0wZWlHtJ_la29kbf44Uwfc8VjXEfDdP/view?usp=sharing)
+: [Teacher Overview](https://drive.google.com/file/d/1fzRib2Wdiccu81SxyCrDJBaFcY5yrtGZ/view?usp=drive_link)
 
 placematpic
 : ../web/img/teacher-guide.png
@@ -29,7 +29,7 @@ description
 : To utilize Machine Learning features, you’ll need to use the LEGO MINDSTORMS Robot Inventor App, which will require installing and setting up the app. This guide will walk you through the steps.
 
 placematlinks
-: [Teacher Guide](https://drive.google.com/file/d/1fbQ8o7WWORNjn_c_M_FIypo0sgslooiu/view?usp=sharing)
+: [Teacher Guide](https://drive.google.com/file/d/1g5xBlVw3b_b4kh6biNXjCUnL3MvrgnOS/view?usp=drive_link)
 
 placematpic
 : ../web/img/hubprep.png
@@ -44,7 +44,7 @@ description
 : This teacher guide and student-facing placemat will guide you to train a SPIKE robot to repond to visual cues. 
 
 placematlinks
-: [Teacher Guide](https://drive.google.com/file/d/1O8NfezgQICaGQlA2zXQOy7bm4F8n7Fqi/view?usp=drive_link)
+: [Teacher Guide](https://drive.google.com/file/d/1gFBsV8QNhS-CX0UIgi4EYauWT8vbQFTT/view?usp=drive_link)
 : [Placemat Link](https://docs.google.com/presentation/d/1mURr7naOYZnNTmIaSY2UlRQH8V5mc5msE7M4G907KxE/edit?usp=drive_link)
 
 placematpic
@@ -76,7 +76,7 @@ description
 : This activity requires students to use what they learned from the previous two activities and train a car to respond to sound or images in order to navigate a course. 
 
 placematlinks
-: [Teacher Guide](https://drive.google.com/file/d/1ORygVWiu374djR6fOxash_DeBOF52clf/view?usp=drive_link)
+: [Teacher Guide](https://drive.google.com/file/d/1SuIZrYyXvOganQOoLgmPWh5VkHRgHQxw/view?usp=drive_link)
 : [Placemat Link](https://docs.google.com/presentation/d/1l2MKS9_L8oSexranBUQWpFuYJx9rhqEG37qdC6sydcQ/edit?usp=drive_link)
 
 placematpic
