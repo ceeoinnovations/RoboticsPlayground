@@ -44,7 +44,7 @@ description
 : This teacher guide and student-facing placemat will guide you to train a SPIKE robot to repond to visual cues. 
 
 placematlinks
-: [Teacher Guide](https://drive.google.com/file/d/1hCP8_aLRI3pKY2OdOFt9x3FTeM5u4PNs/view?usp=drive_link)
+: [Teacher Guide](https://drive.google.com/file/d/1i1T2DQzxwKaaXzKx19HLNiFYmN7WPEji/view?usp=sharing)
 : [Placemat Link](https://docs.google.com/presentation/d/1mURr7naOYZnNTmIaSY2UlRQH8V5mc5msE7M4G907KxE/edit?usp=drive_link)
 
 placematpic
