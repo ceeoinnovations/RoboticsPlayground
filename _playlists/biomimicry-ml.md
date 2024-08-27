@@ -72,10 +72,10 @@ title
 : Activity 4: Biomimicry Food Collection
 
 description
-: Build a mechanism for your animal robot to pick up and transport food using Machine Learning to identify food and avoid poison.
+: Create a bio-inspired robot that mimics an animal and train it to collect food and avoid poison.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/10ZnVz5BU-u22ssLBNm4ac_PXMflua2WsEjpZKoE6fkU/edit?usp=sharing)
+: [Placemat Link](https://docs.google.com/presentation/d/1N2BvEdvkvcq2VDd_Uy32xy59xLo4v3myqv_lnzBHYk4/edit?usp=sharing)
 
 placematpic
 : ../web/img/biomimic4.png
