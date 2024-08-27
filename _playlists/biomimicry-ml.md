@@ -72,7 +72,7 @@ title
 : Activity 4: Biomimicry Collection Challenge
 
 description
-: How much food can your bio-inspired robot bring home?
+: How much food can your bio-inspired robot bring collect in five minutes?
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1N2BvEdvkvcq2VDd_Uy32xy59xLo4v3myqv_lnzBHYk4/edit?usp=sharing)
