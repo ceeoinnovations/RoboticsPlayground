@@ -69,10 +69,10 @@ placematpic
 
 ===
 title
-: Activity 4: Biomimicry Food Collection
+: Activity 4: Biomimicry Collection Challenge
 
 description
-: Create a bio-inspired robot that mimics an animal and train it to collect food and avoid poison.
+: How much food can your bio-inspired robot bring home?
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1N2BvEdvkvcq2VDd_Uy32xy59xLo4v3myqv_lnzBHYk4/edit?usp=sharing)
