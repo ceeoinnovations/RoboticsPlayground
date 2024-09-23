@@ -22,7 +22,7 @@ placematlinks
 placematlinks
 : [Deutsch (German)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20DEDE%20v1.pdf)
 placematlinks
-: [Dansk (Danish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20DEDE%20v1.pdf)
+: [Dansk (Danish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
 placematlinks
 : [English](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20ENGB%20v2.pdf)
 placematlinks
@@ -58,9 +58,9 @@ title
 : Danish Placemats
 
 placematlinks
-: [Getting Started with SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
+: [Getting Started with SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
 : [Wordless Placemats](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf) 
-: [Forces and Motions](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Forces and Motion_DA.pdf)
+: [Forces and Motions](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Wordless_DA.pdf)
 : [Dr. E's SPIKE Prime Class](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Dr.%E's%Spike%Prime%Class_DA.pdf)
 
 
