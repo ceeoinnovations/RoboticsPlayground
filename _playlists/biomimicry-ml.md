@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning Biomimicry Challenge
-displaying: web/img/frog.png
+displaying: web/img/biomimic.png
 description: Challenge to build a robot that mimics an animal and train it to recognize and collect food while avoiding poison.
 ---
 
