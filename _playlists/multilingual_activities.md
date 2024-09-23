@@ -12,7 +12,7 @@ The translations each include ten activities sutiable for beginners with snippet
 
 ===
 title
-: Placemat Booklets
+: Getting Started with SPIKE Prime Placemats
 
 placematlinks
 : [عربي (Arabic)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20ARSA%20v1.pdf)
@@ -21,6 +21,8 @@ placematlinks
 : [Čeština (Czech)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20CSCZ%20v1.pdf)
 placematlinks
 : [Deutsch (German)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20DEDE%20v1.pdf)
+placematlinks
+: [Dansk (Danish)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20DEDE%20v1.pdf)
 placematlinks
 : [English](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20ENGB%20v2.pdf)
 placematlinks
@@ -51,7 +53,25 @@ gallery
 : ../web/img/placemat02.png
 
 ===
+===
+title
+: Danish Placemats
+placematlinks
+: [Getting Started with SPIKE Prime)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
+: [Wordless Placemats)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf) 
+: [Forces and Motions)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
+: [Dr. E's SPIKE Prime Class)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
 
+
+
+placematpic
+: ../web/img/arabic.png
+
+gallery
+: ../web/img/placemat03.png
+: ../web/img/placemat01.png
+: ../web/img/placemat02.png
+===
 <div class="bottomcontent" markdown="1">
 
 <p align="center"><a href="https://ceeo.tufts.edu" target="_blank"><img src="https://www.ceeoinnovations.org/RoboticsPlayground/web/img/ceeologo.png" align="center" width="50%" padding="20"></a></p>
