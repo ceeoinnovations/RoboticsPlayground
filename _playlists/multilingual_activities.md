@@ -66,12 +66,9 @@ placematlinks
 
 
 placematpic
-: ../web/img/arabic.png
+: ../web/img/danish.png
 
-gallery
-: ../web/img/placemat03.png
-: ../web/img/placemat01.png
-: ../web/img/placemat02.png
+
 ===
 <div class="bottomcontent" markdown="1">
 
