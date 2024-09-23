@@ -57,11 +57,11 @@ gallery
 title
 : Danish Placemats
 
-placematlinks
-: [Getting Started with SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
-: [Wordless Placemats](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Wordless_DA.pdf) 
-: [Forces and Motions](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Forces%20and%20Motion_DA.pdf)
-: [Dr. E's SPIKE Prime Class](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Dr.%20E's%20SPIKE%20Prime%20Class_DA.pdf)
+placemat links
+: [Kom godt i gang med SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
+: [Ordfrie Dækkeservietter](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Wordless_DA.pdf) 
+: [Krafter og Bevægelse](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Forces%20and%20Motion_DA.pdf)
+: [Dr. E's SPIKE Prime Kursus](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Dr.%20E's%20SPIKE%20Prime%20Class_DA.pdf)
 
 
 
