@@ -58,10 +58,10 @@ title
 : Danish Placemats
 
 placematlinks
-: [Getting Started with SPIKE Prime)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
-: [Wordless Placemats)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf) 
-: [Forces and Motions)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
-: [Dr. E's SPIKE Prime Class)](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/_playlists/multilingual/Placemats_Dr. E's Spike Prime Class_DA.pdf)
+: [Getting Started with SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
+: [Wordless Placemats](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf) 
+: [Forces and Motions](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats%20book%20VIVN%20v1.pdf)
+: [Dr. E's SPIKE Prime Class](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Dr.%E's%Spike%Prime%Class_DA.pdf)
 
 
 
