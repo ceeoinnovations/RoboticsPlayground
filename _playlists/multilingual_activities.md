@@ -58,8 +58,7 @@ title
 : Danish Placemats
 
 placematlinks
-: [Kom godt i gang med SPIKE Prime]
-(https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
+: [Kom godt i gang med SPIKE Prime](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
 placematlinks
 : [Ordfrie Dækkeservietter](https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Wordless_DA.pdf) 
 placematlinks
