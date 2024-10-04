@@ -57,7 +57,7 @@ gallery
 title
 : Danish Placemats
 
-placemat links
+placematlinks
 : [Kom godt i gang med SPIKE Prime]
 (https://www.ceeoinnovations.org/RoboticsPlayground/playlists/multilingual/Placemats_Getting Started_DA.pdf)
 placematlinks
@@ -72,7 +72,7 @@ placematlinks
 placematpic
 : ../web/img/danish.png
 
-
+===
 ===
 <div class="bottomcontent" markdown="1">
 
