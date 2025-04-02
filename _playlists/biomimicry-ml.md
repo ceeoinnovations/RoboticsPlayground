@@ -14,7 +14,7 @@ description
 : This teacher guide gives an overview of machine learning and the machine learning activities, including instructions to prepare the hub to work with the MINDSTORMS App.
 
 placematlinks
-: [Teacher Overview](https://drive.google.com/file/d/1upSx8TMDlMuVSofedxhu5K8AlB58zw9t/view?usp=sharing)
+: [Teacher Overview](https://drive.google.com/file/d/1v9lQQ6yY0fWbWqgJj4RTF5C0lnQ2HuhT/view?usp=sharing)
 
 placematpic
 : ../web/img/biomimic.png
