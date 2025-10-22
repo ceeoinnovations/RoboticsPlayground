@@ -75,7 +75,7 @@ description
 : How does your garden grow? Show us what's in your garden– a blooming blossom, a vigorous vegetable, a robotic rake?
 
 placematlinks
-: [Word Blocks Placemat](https://docs.google.com/presentation/d/1poc5MihLbhiONdTLpLE_pxW_XUuRPfL9z8RaeCoojC8/edit?usp=sharing)
+: [Word Blocks Placemat](https://docs.google.com/presentation/d/1-IFYtEpmg9Uj5tHzLqmGh3N2sojf0ITkEA1Ly7mVETE/edit?usp=sharing)
 : [Python Placemat](https://docs.google.com/presentation/d/1vjT52kvJNIoEZSbmvLHnG_-sSjwSGJlM6XPc11EEn6k/edit?usp=sharing)
 
 placematpic
