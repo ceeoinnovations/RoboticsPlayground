@@ -19,7 +19,6 @@ description
 
 placematpic
 : ../web/img/JazzShadeCover.png
-: ../web/img/ShadeCover.png
 
 gallery
 : <iframe src="https://www.youtube.com/watch?v=iMtXqTmfta0" width="640" height="480" allow="autoplay"></iframe>
@@ -103,6 +102,26 @@ placematlinks
 placematpic
 : ../web/img/JazzTShirt.png
 : ../web/img/Flinging.png
+
+gallery
+: <iframe src="https://drive.google.com/file/d/1z5R_jR9R8nL7MRRc9Rze7YCOmuRZx1nV/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/141tK-YTb9vpa0fcto7qPehyxlXRlMhU0/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/114kaSttuA8lOMdZSZH2o2_fr1ps_KgKk/preview" width="640" height="480" allow="autoplay"></iframe>
+
+===
+===
+title
+: Extra Resources
+
+description
+: Printable or online natural organisms resources
+
+placematlinks
+: [Printable Resources Cards](https://docs.google.com/document/d/1r-rDCu4m1jLe7eX4chGc0Wus3Nf-0I_cj2C1SqDY50E/edit?usp=sharing)
+: [Online Resources](https://padlet.com/TuftsCEEO/biomimicry-resources-ssz6njwdkhu3f3dw)
+
+placematpic
+: ../web/img/JazzTShirt.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1z5R_jR9R8nL7MRRc9Rze7YCOmuRZx1nV/preview" width="640" height="480" allow="autoplay"></iframe>
