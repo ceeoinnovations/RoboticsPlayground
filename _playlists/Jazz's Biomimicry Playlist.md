@@ -17,11 +17,11 @@ title
 description
 : “Interdisciplinary cooperation of biology and technology or other fields of innovation with the goal of solving practical problems through the function analysis of biological systems, their abstraction into models, and the transfer into and application of these models to the solution.” (International Organization for Standardization, 2015)
 
-placematpic
-: ../web/img/JazzShadeCover.png
+placematlinks
+: [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
 
-gallery
-: <iframe src="https://www.youtube.com/watch?v=iMtXqTmfta0" width="640" height="480" allow="autoplay"></iframe>
+placematpic
+: ../web/img/IntroBiomimicry.png
 
 ===
 ===
