@@ -121,11 +121,11 @@ placematlinks
 : [Online Resources](https://padlet.com/TuftsCEEO/biomimicry-resources-ssz6njwdkhu3f3dw)
 
 placematpic
-: ../web/img/JazzTShirt.png
+: ../web/img/Padlet.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1z5R_jR9R8nL7MRRc9Rze7YCOmuRZx1nV/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/141tK-YTb9vpa0fcto7qPehyxlXRlMhU0/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/114kaSttuA8lOMdZSZH2o2_fr1ps_KgKk/preview" width="640" height="480" allow="autoplay"></iframe>
+: ../web/img/Final1.png
+: ../web/img/Final2.png
+: ../web/img/Final3.jpg
 
 ===
