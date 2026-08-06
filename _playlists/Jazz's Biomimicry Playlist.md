@@ -2,7 +2,7 @@
 layout: post
 title: Biomimicry Design Challenges with LEGO Science Kits
 displayimg: web/img/JazzCover.png
-description: Prof. Ethan Danahy (Dr. E) teaches a section of "Introduction to Engineering," a course for first-year university engineering students at Tufts University. This playlist of placemat instructions for SPIKE Prime showcases his sequence of activities during the fall 2023 semester and highlights some of his students' solutions for each project.
+description: Geling (Jazz) Xu developed this biomimicry design challenges playlist for the middle school STEM class. Biomimicry is an interdisciplinary field combining biology and engineering, inspired by natural organisms, and builds engineering solutions for real-world problems. It aligns with NGSS cross-cutting concepts. This playlist of placemat instructions for LEGO Science Kits showcases the sequence of biomimicry activities and highlights some example solutions for each project. 
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
