@@ -63,12 +63,12 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1n8BS-N2DvqR9jC2gmez0WSI-avt2YHATc3SYFf81oj4/edit?usp=sharing)
 
 placematpic
-: ../web/img/biopm.png
+: ../web/img/JazzFruitHarvest.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1PxQYHnQWZd0AhEGY_dO8xFoXnXvjPVlD/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1HWLHxX91iULq4cuSsVVhpl4MTVZRkVQ-/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1uslgV8pniiPR0HvXk6Q4OGqcrVDm--lM/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1UjgHc1thAfkZyW_OJnU0N84GvDGtSuDE/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1X6aDMMRT83wLXTvqcEyPukTyBdZhNt_U/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1p5EZZh43ofhUCXjVNBI16nh07lSF5Pqi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
@@ -83,11 +83,11 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1vD_FmZ0NNperqFHXFpo6uSsvh_aknkZ_yqbJEYU8CuA/edit?usp=sharing)
 
 placematpic
-: ../web/img/toppm.png
+: ../web/img/JazzTShirt.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1G2HF2n_Su_LJbhyCwGDNm1tBfyb7SnlK/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1oEAIV5liqZLvXeeoJXoMesp7j9ZdY4eQ/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1aRtUCrDnrICZGywvc5yeMaZexY6cd33n/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1z5R_jR9R8nL7MRRc9Rze7YCOmuRZx1nV/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/141tK-YTb9vpa0fcto7qPehyxlXRlMhU0/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/114kaSttuA8lOMdZSZH2o2_fr1ps_KgKk/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
