@@ -6,7 +6,7 @@ description: Geling (Jazz) Xu developed this biomimicry design challenges playli
 ---
 <div class="learninggoals" markdown="1">
 # Learning Goals
-The emphasis of this Introduction to Engineering course is around Engineering Design, highlighting creativity in engineering and celebrating solution diversity amongst students for solving engineering challenges.
+The emphasis of this biomimicry design challenges playlist is around Engineering Design and interdisciplinary STEM challenges, highlighting bio-inspiration solutions in engineering and real-world contexts. Students will use the NGSS crosscutting concept of Structure and Function to analyze how natural orgnisms achieving a certain function; Use LEGO Science Kits to construct a physical prototype with moving parts; Implement a biomimetic design process; and investigate the strengths and weaknesses of different nature-inspired design ideas. 
 
 </div>
 
