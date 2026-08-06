@@ -23,12 +23,12 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
 
 placematpic
-: ../web/img/getpm.png
+: ../web/img/JazzShadeCover.png
 
 gallery
-: ../web/img/getting1.png
-: ../web/img/getting2.png
-: ../web/img/get1.jpg
+: <iframe src="https://drive.google.com/file/d/1DgmOfjPHLWV_9T3Eg5rhNTVtfIcz7qW_/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Jpd9a7GH3VNa0q7wbOzc6CNh6NuD4Iz7/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1w5tRThruW3z_jKHOHTpV5CWVXWNWHjU2/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
