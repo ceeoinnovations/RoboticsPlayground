@@ -12,6 +12,21 @@ The emphasis of this biomimicry design challenges playlist is around Engineering
 
 ===
 title
+: Introduction of Biomimicry
+
+description
+: “Interdisciplinary cooperation of biology and technology or other fields of innovation with the goal of solving practical problems through the function analysis of biological systems, their abstraction into models, and the transfer into and application of these models to the solution.” (International Organization for Standardization, 2015)
+
+placematpic
+: ../web/img/JazzShadeCover.png
+: ../web/img/ShadeCover.png
+
+gallery
+: <iframe src="https://www.youtube.com/watch?v=iMtXqTmfta0" width="640" height="480" allow="autoplay"></iframe>
+
+===
+===
+title
 : Retractable Shade Cover
 
 description
