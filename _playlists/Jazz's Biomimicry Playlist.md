@@ -24,6 +24,7 @@ placematlinks
 
 placematpic
 : ../web/img/JazzShadeCover.png
+: ../web/img/ShadeCover.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1DgmOfjPHLWV_9T3Eg5rhNTVtfIcz7qW_/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -44,6 +45,7 @@ placematlinks
 
 placematpic
 : ../web/img/JazzTreasureExplore.png
+: ../web/img/Digging.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1rJi2lNvlMuXiM0SDDuOuwqBsgwuD2Jkf/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -64,6 +66,7 @@ placematlinks
 
 placematpic
 : ../web/img/JazzFruitHarvest.png
+: ../web/img/Grasping.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1UjgHc1thAfkZyW_OJnU0N84GvDGtSuDE/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -84,6 +87,7 @@ placematlinks
 
 placematpic
 : ../web/img/JazzTShirt.png
+: ../web/img/Flinging.png
 
 gallery
 : <iframe src="https://drive.google.com/file/d/1z5R_jR9R8nL7MRRc9Rze7YCOmuRZx1nV/preview" width="640" height="480" allow="autoplay"></iframe>
