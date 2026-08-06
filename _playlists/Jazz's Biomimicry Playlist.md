@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. E's SPIKE Prime Class
+title: Biomimicry
 displayimg: web/img/drecover.JPG
 description: Prof. Ethan Danahy (Dr. E) teaches a section of "Introduction to Engineering," a course for first-year university engineering students at Tufts University. This playlist of placemat instructions for SPIKE Prime showcases his sequence of activities during the fall 2023 semester and highlights some of his students' solutions for each project.
 ---
