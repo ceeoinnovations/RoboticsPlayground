@@ -59,7 +59,8 @@ description
 : In this hands-on design challenge, students take inspiration from plants and animals to design and build a fruit-harvesting tool. To begin the challenge, students are guided through structure/function analysis of three organisms that are well-adapted to the task of grasping: birds of prey, Venus fly traps, and trap jaw ants. After deepening their understanding of nature’s grasping mechanisms, students then take inspiration from one or more of these plants and animals to construct, test, and revise a device that can harvest fruits without damaging them. They use LEGO Science kits to build their prototypes and wiffle balls or ping-pong balls to test how well they work.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1kDlSNoWDmyhFOx8oLlRfoOz-sLmgp_iynnNC4351b5w/edit?usp=share_link)
+: [Placemat Link](https://docs.google.com/presentation/d/1ledtV_DeklilWM5E7kEYjhZ8WxkCaOJaRf9THr5u1sc/edit?usp=sharing)
+: [Teacher Guide Link](https://docs.google.com/presentation/d/1n8BS-N2DvqR9jC2gmez0WSI-avt2YHATc3SYFf81oj4/edit?usp=sharing)
 
 placematpic
 : ../web/img/biopm.png
