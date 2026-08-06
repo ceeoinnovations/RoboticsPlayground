@@ -19,7 +19,11 @@ description
 
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1OxNKdZKLeSQn_TNCIgdR_5oHtmdA9hP4BtXW5i8uo7I/edit?usp=share_link)
+: [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
+: [Teacher Guide Links](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
+
+teacherguidelinks
+: [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
 
 placematpic
 : ../web/img/getpm.png
