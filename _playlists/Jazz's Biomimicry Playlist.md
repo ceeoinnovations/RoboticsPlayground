@@ -79,7 +79,8 @@ description
 : In this hands-on design challenge, students take inspiration from plants and animals to design and build a T-shirt launching tool. To begin the challenge, students are guided through structure/function analysis of three organisms that are well-adapted to the task of flinging: springtail fleas, click beetles, and the seed pods of violet and impatiens flowers. After deepening their understanding of nature’s flinging mechanisms, students then take inspiration from one or more of these plants and animals to model, test, and revise a physical prototype of a device that can launch a T-shirt into the upper seats at a sports stadium.
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1WpcO-x-c63qywodpIB5ZGC0Zt8Cx7UcTsA_x4CArGWU/edit?usp=share_link)
+: [Placemat Link](https://docs.google.com/presentation/d/1QdOWYaX3mdau2yExS-e8zYp-odSX3mr9PJawzwSMnTA/edit?usp=sharing)
+: [Teacher Guide Link](https://docs.google.com/presentation/d/1vD_FmZ0NNperqFHXFpo6uSsvh_aknkZ_yqbJEYU8CuA/edit?usp=sharing)
 
 placematpic
 : ../web/img/toppm.png
