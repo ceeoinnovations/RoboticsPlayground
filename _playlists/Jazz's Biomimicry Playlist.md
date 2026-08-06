@@ -26,9 +26,9 @@ placematpic
 : ../web/img/JazzShadeCover.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1DgmOfjPHLWV_9T3Eg5rhNTVtfIcz7qW_/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1Jpd9a7GH3VNa0q7wbOzc6CNh6NuD4Iz7/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1w5tRThruW3z_jKHOHTpV5CWVXWNWHjU2/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1DgmOfjPHLWV_9T3Eg5rhNTVtfIcz7qW_/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1Jpd9a7GH3VNa0q7wbOzc6CNh6NuD4Iz7/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1w5tRThruW3z_jKHOHTpV5CWVXWNWHjU2/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
@@ -43,12 +43,12 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1yZnb3jGRcQbAS19A9b_RHvA-lqv4ulhCE2Bh0-LktrY/edit?usp=sharing)
 
 placematpic
-: ../web/img/sillypm.png
+: ../web/img/JazzTreasureExplore.png
 
 gallery
-: <iframe src="https://drive.google.com/file/d/1pPAqLlC5_khgFFOJfrGN9ZLiSGqSgbij/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1l2TwMdOyVVk78GMde4Wt8U2z3YR6qCal/preview" width="640" height="480" allow="autoplay"></iframe>
-: <iframe src="https://drive.google.com/file/d/1dh1RspX7Rbdlx6Ns7urnuc0AQOK2tKGT/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1rJi2lNvlMuXiM0SDDuOuwqBsgwuD2Jkf/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1wawe_avIme3ScYupPY1zDGI3ZApUDWY2/preview" width="640" height="480" allow="autoplay"></iframe>
+: <iframe src="https://drive.google.com/file/d/1VQ_xbV5cs5EwbPNeYYrSLKrAaCiRqN1G/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ===
 ===
