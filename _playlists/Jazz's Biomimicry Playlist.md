@@ -20,9 +20,6 @@ description
 
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
-: [Teacher Guide Links](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
-
-teacherguidelinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
 
 placematpic
@@ -42,7 +39,8 @@ description
 : In this hands-on design challenge, students take inspiration from plants and animals to design and build a digging tool. To begin the challenge, students are guided through structure/function analysis of four organisms that are well-adapted to the task of digging: moles, pocket gophers, pangolins, and naked mole rats. After deepening their understanding of nature’s digging mechanisms, students then take inspiration from one or more of these animals to construct, test, and revise a device that can dig through a pile of material. They use LEGO Science Kits to build their prototypes, and pom-poms, rice, or shredded paper to test how well they work. 
 
 placematlinks
-: [Placemat Link](https://docs.google.com/presentation/d/1y3qOu7dApOQH1Y3jT0YgykPQrBCGQRwlMeJJjPcHcX4/edit?usp=share_link)
+: [Placemat Link](https://docs.google.com/presentation/d/1yd8MiwwP9QL-IBNxm1OA5svCYmv779Jrcvjhh7wZGog/edit?usp=sharing)
+: [Teacher Guide Link](https://docs.google.com/presentation/d/1yZnb3jGRcQbAS19A9b_RHvA-lqv4ulhCE2Bh0-LktrY/edit?usp=sharing)
 
 placematpic
 : ../web/img/sillypm.png
