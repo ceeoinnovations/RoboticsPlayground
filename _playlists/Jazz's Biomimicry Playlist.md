@@ -126,6 +126,6 @@ placematpic
 gallery
 : ../web/img/Final1.png
 : ../web/img/Final2.png
-: ../web/img/Final3.jpg
+: ../web/img/Final3.png
 
 ===
