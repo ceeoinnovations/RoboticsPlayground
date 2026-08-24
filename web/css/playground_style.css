@@ -1026,3 +1026,91 @@ body {
      margin-left: auto;
      margin-right: auto;
 }
+
+/* ================================================================
+   PATCH 11 — nav height, description box styling, merge title
+   into the white placemat box, footer cleanup, homepage header
+   alignment, full-bleed dark section, shorter embed.
+================================================================ */
+
+/* ---- Smaller nav bar ---- */
+#logo img {
+     width: 130px;
+}
+#navbar #navtuftsimglink {
+     width: 150px;
+     padding-top: 0;
+}
+#navbar {
+     padding-top: 8px;
+     padding-bottom: 8px;
+}
+
+/* ---- Description callout box: smaller text, sentence case ---- */
+.playgroundsubheader {
+     font-size: 0.95rem;
+     text-transform: none;
+     font-weight: 400;
+}
+
+/* ---- Merge each placemat's title into the white box below it,
+   instead of a heading floating outside the box ---- */
+.black_backdrop {
+     max-width: 70%;
+     margin: 0 auto 3rem;
+     background-color: #fff;
+     border-radius: 10px;
+     padding: 1.5rem 2rem 2rem;
+}
+.black_backdrop .playlist_container {
+     max-width: none;
+     margin: 0;
+     background-color: transparent;
+     padding: 0;
+}
+
+/* ---- Footer: drop the grey divider, merge the copyright line
+   into the green footer band instead of a separate section ---- */
+footer.footer.text-faded {
+     background-color: var(--brand-green);
+     margin-top: 0;
+     padding-top: 0;
+}
+footer.footer.text-faded .container {
+     border-top-style: none !important;
+}
+footer.footer.text-faded p {
+     color: #fff !important;
+}
+
+/* ---- Homepage: align section headers with the 70% card grid
+   below them, instead of the wider dark-box padding ---- */
+#myconpageheader {
+     max-width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+/* ---- Dark Playlists section: true edge-to-edge, no side margin ---- */
+.robosec {
+     margin-left: 0;
+     margin-right: 0;
+}
+
+/* ---- Shorter embed, less empty space below it ---- */
+.iframecontainer iframe {
+     height: 1200px;
+}
+
+/* ================================================================
+   PATCH 12 — bugfix: the logo image itself is transparent, but
+   #logoimg has background-color:#fff from the original CSS
+   (allisoncss.css), which was never overridden and got saved into
+   any handed-off file. White text on a white box = invisible.
+   This is the actual fix (verified against a black test background
+   in the browser before writing this).
+================================================================ */
+#logo img,
+#logoimg {
+     background-color: transparent !important;
+}
