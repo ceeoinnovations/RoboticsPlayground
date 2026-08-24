@@ -1114,3 +1114,493 @@ footer.footer.text-faded p {
 #logoimg {
      background-color: transparent !important;
 }
+
+/* ================================================================
+   PATCH 13 — nav hover legibility, footer spacing, library/embed
+   width, consistent placemat box widths, left-aligned intro text.
+================================================================ */
+
+/* ---- Nav hover: the original CSS added a light grey background
+   on hover, which is nearly invisible against white nav text on a
+   green bar. Enlarge slightly instead of adding a box. ---- */
+#nav-wrap li a:hover,
+.dropdown:hover .dropbtn {
+     background-color: transparent;
+     transform: scale(1.08);
+}
+
+/* ---- Footer: the copyright line was inheriting large generic
+   padding (.container's site-wide padding-top:5rem, plus
+   Bootstrap's .py-5), which is where all the empty space came
+   from. Tighten it down to a small margin. ---- */
+footer.footer.text-faded {
+     padding-top: 0;
+     padding-bottom: 0;
+}
+footer.footer.text-faded .container {
+     padding: 20px 0;
+     margin: 0;
+}
+footer.footer.text-faded p {
+     margin: 0;
+}
+
+/* ---- Library/embed section: match the site's 70% column,
+   and a shorter fixed height so there's less blank space below
+   the embedded table (still an estimate, this is a cross-origin
+   embed so it can't truly auto-size to its content) ---- */
+.iframecontainer {
+     max-width: 70%;
+     margin: 0 auto;
+}
+.iframecontainer iframe {
+     height: 900px;
+}
+
+/* ---- Playlist detail pages: force each placemat's white box to
+   the same width instead of shrinking to its own content ---- */
+.black_backdrop {
+     width: 100%;
+}
+
+/* ---- Intro/description box: left-aligned text instead of centered ---- */
+.playgroundsubheader {
+     text-align: left;
+}
+
+/* ================================================================
+   PATCH 14 — bugfix: the 70% column width looks right for the
+   card grid, but the embedded placemat table is a third-party
+   page with its own responsive column layout. Narrowing its
+   container made IT drop to fewer columns too, wasting space
+   both around and inside it. Give the embed its full width back;
+   only the card grid above it stays at 70%.
+================================================================ */
+.robosec + .robosec .home_playlist_container {
+     max-width: 100%;
+}
+.iframecontainer {
+     max-width: 100%;
+     margin: 0;
+}
+
+/* ================================================================
+   PATCH 15 — bugfix: the footer still had ~48px padding on all
+   sides plus a 48px top margin on the copyright text, because
+   Bootstrap's .py-5 utility class (already on that element in the
+   page's own HTML) uses !important, so the padding override in
+   Patch 13 was silently losing. Confirmed via computed styles
+   before writing this — actual measured gap, not a guess.
+================================================================ */
+footer.footer.text-faded {
+     padding-top: 20px !important;
+     padding-bottom: 20px !important;
+}
+footer.footer.text-faded p {
+     margin-top: 0 !important;
+     margin-bottom: 0 !important;
+}
+
+/* ================================================================
+   PATCH 16 — revert Patch 14. Match the embed's width to the card
+   gallery above it (70%), as explicitly requested, overriding the
+   100%-width fix from Patch 14.
+================================================================ */
+.robosec + .robosec .home_playlist_container {
+     max-width: 70%;
+}
+.iframecontainer {
+     max-width: 100%;
+     margin: 0;
+}
+
+/* ================================================================
+   PATCH 17 — bugfix: the real source of the huge footer gap was
+   a generic site-wide ".container { padding-top: 5rem }" rule
+   (80px) also applying inside .site-footer, stacked on top of
+   .site-footer's own padding (58px). Measured at 178px total
+   before this fix. Scoped override below only touches .container
+   inside the footer, not the site-wide class used elsewhere.
+================================================================ */
+.site-footer .container {
+     padding-top: 0 !important;
+     padding-bottom: 0 !important;
+}
+.site-footer {
+     padding-top: 10px;
+     padding-bottom: 20px;
+}
+footer.footer.text-faded {
+     padding-bottom: 10px !important;
+}
+footer.footer.text-faded p {
+     font-size: 0.85rem;
+}
+
+/* ================================================================
+   PATCH 18 — bugfix: nav items were vertically positioned by
+   individual padding values (not a flex layout), so shrinking the
+   Tufts logo's own padding in an earlier patch knocked it out of
+   alignment with the other two items (measured 17px off-center).
+   Making the nav row an actual flex container fixes alignment
+   regardless of each item's own size/padding. Also enlarging the
+   Tufts logo, which reads too small at its current width given
+   its two-line lockup.
+================================================================ */
+#navbar {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+#navbar-right ul {
+     display: flex;
+     align-items: center;
+}
+#navtuftsimglink {
+     padding-top: 0 !important;
+}
+#navbar #navtuftsimglink {
+     width: 200px;
+}
+#logo {
+     padding-top: 0;
+     padding-bottom: 0;
+}
+
+/* ================================================================
+   PATCH 19 — true 3-zone nav layout (logo left / title dead-center
+   / Tufts logo right, independent of each other), bigger title
+   text, and center the Tufts logo in the footer column.
+================================================================ */
+
+/* Nav: logo pinned left, Tufts logo pushed to the far right */
+#navbar {
+     position: relative;
+}
+#logo {
+     margin-right: auto;
+}
+
+/* "Robotics Playground" text — pulled out of the flex flow and
+   centered on the navbar itself, so it stays dead-center no matter
+   how wide the logo or Tufts lockup are */
+#navbar-right .navlink:not(#navtuftsimglink) {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+     font-size: 1.5rem;
+}
+
+/* Footer: center the Tufts logo in its column. Note: my first
+   attempt at this selector targeted the wrong element entirely
+   (guessed at a link href that doesn't exist in the actual markup)
+   and did nothing; it only looked right by coincidence at this
+   viewport width. This is the actual element, confirmed by walking
+   the real DOM. */
+.site-footer .col-lg-5 {
+     text-align: center;
+}
+
+/* ================================================================
+   PATCH 20 — the embed's fixed height (900px) was taller than
+   this page's actual content, leaving a large blank gap between
+   the cards and the footer. Shortened further. Still an estimate:
+   a cross-origin iframe can't report its own content height to
+   us, so some result pages may need to scroll and others may
+   still have a little blank space, this can't be made pixel-
+   perfect without the embed provider's cooperation.
+================================================================ */
+.iframecontainer iframe {
+     height: 650px;
+}
+
+/* ================================================================
+   PATCH 22 — replacing the absolute-position hack from Patch 21.
+   That hack centered the Tufts logo on the page correctly by the
+   numbers, but it took the element out of the normal layout flow,
+   so the "Follow us" column (a sibling in the same nested row)
+   no longer had space reserved for it and the two overlapped.
+   Rebuilding this as a proper 3-zone flex layout instead: CEEO
+   logo, Tufts logo, and Follow Us each get an equal-width column,
+   so the Tufts logo sits centered in the middle third without
+   colliding with anything.
+================================================================ */
+.site-footer {
+     position: static;
+}
+.site-footer .ABOUTCOL {
+     position: static;
+}
+.site-footer .col-lg-5 {
+     position: static;
+     transform: none;
+     text-align: center;
+}
+.site-footer .container > .row {
+     display: flex;
+     align-items: center;
+}
+.site-footer .PHONECOL {
+     flex: 1;
+     margin-right: 0 !important;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto {
+     flex: 2;
+     margin-left: 0 !important;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row {
+     display: flex;
+     width: 100%;
+     align-items: center;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row > .col-lg-5,
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row > .col-lg-4 {
+     flex: 1;
+}
+
+/* ================================================================
+   PATCH 23 — bugfix: "Follow us" had ~302px of empty flex space to
+   its right vs. only 17px on the CEEO logo's left (measured).
+   Shrink it to its actual content width and push it flush against
+   the same 17px edge margin as the CEEO logo.
+================================================================ */
+.site-footer .container > .row {
+     padding-left: 17px;
+     padding-right: 17px;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row > .col-lg-4 {
+     flex: none;
+     margin-left: auto;
+}
+
+/* ================================================================
+   PATCH 24 — bugfix: Patch 23's margin-left:auto had no free space
+   to consume, because the Tufts column's flex:1 (from Patch 22)
+   was already absorbing all of it. Using display:contents to
+   flatten the nested Bootstrap wrapper divs, so CEEO logo, Tufts
+   logo, and Follow Us become three real siblings in one flex row:
+   fixed-width sides, flexible centered middle. This makes the
+   17px-both-sides margin and true centering both work together
+   instead of fighting each other.
+================================================================ */
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto {
+     display: contents;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row {
+     display: contents;
+}
+.site-footer .container > .row {
+     display: flex;
+     align-items: center;
+     padding-left: 17px;
+     padding-right: 17px;
+}
+.site-footer .PHONECOL {
+     flex: none;
+     margin-right: 0 !important;
+}
+.site-footer .col-lg-5 {
+     flex: 1;
+     text-align: center;
+     margin: 0;
+}
+.site-footer .col-lg-4 {
+     flex: none;
+     margin-left: 0 !important;
+}
+
+/* ================================================================
+   PATCH 26 — bugfix: setting the Tufts logo's own width did
+   nothing (even with !important), and neither did giving its
+   column flex-grow — confirmed live that flex-grow wasn't finding
+   any free space to distribute in this particular layout (a known
+   quirk with display:contents, used in Patch 24 to flatten the
+   Bootstrap wrapper divs). An explicit fixed width on the column
+   works reliably where flex-grow didn't, confirmed before writing
+   this.
+================================================================ */
+.site-footer .col-lg-5 {
+     flex: 0 0 240px;
+     max-width: none;
+}
+.site-footer .col-lg-5 img {
+     width: 220px;
+     max-width: 100%;
+     height: auto;
+}
+
+/* ================================================================
+   PATCH 27 — rebuild the footer row as an actual 3-column CSS
+   grid at 100% width, replacing the flex-based approach from
+   Patches 22-26 (which kept fighting Bootstrap's column classes).
+   Column 1: CEEO logo. Column 2: Tufts logo, centered in its cell.
+   Column 3: Follow Us, right-aligned in its cell.
+================================================================ */
+.site-footer .container > .row {
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     align-items: center;
+     width: 100%;
+}
+.site-footer .PHONECOL {
+     flex: none;
+}
+.site-footer .col-lg-5 {
+     flex: none;
+     max-width: none;
+     text-align: center;
+}
+.site-footer .col-lg-5 img {
+     width: 220px;
+     max-width: 100%;
+     height: auto;
+}
+.site-footer .col-lg-4 {
+     flex: none;
+     max-width: none;
+     width: 100%;
+     margin-left: 0;
+     text-align: right;
+     padding-left: 0;
+}
+.site-footer .col-lg-4 ul {
+     padding-left: 0;
+}
+
+/* ================================================================
+   PATCH 28 — bugfix: the page's own scroll script sets inline
+   padding of "0% 0.5% 0px" on #navbar once scrolled (confirmed by
+   triggering scroll and reading the resulting inline style), which
+   collapses the nav to almost no vertical padding. Only !important
+   in a stylesheet can beat a JS-set inline style, same reason the
+   background-color fix in Patch 4 needed !important.
+================================================================ */
+#navbar {
+     padding: 10px !important;
+}
+
+/* ================================================================
+   PATCH 29 — rebuild the footer row using the same pattern that
+   already works cleanly in the nav bar (Patch 19): a simple flex
+   row with the left item pushing everything else right via
+   margin-right:auto, and the middle item absolutely centered on
+   the page independent of the flex flow. Replaces the grid
+   attempt from Patch 27.
+================================================================ */
+/* ================================================================
+   PATCH 29 — rebuild the footer row using nested flex, matching
+   the nav bar's approach but WITHOUT display:contents. Testing
+   live revealed display:contents (used in Patch 24/27 to flatten
+   the wrapper divs) breaks margin:auto/flex-grow space
+   distribution in this browser — confirmed twice now (Patch 23
+   and this one). Replacing it with normal nesting: outer row has
+   CEEO logo + a flexible wrapper; that wrapper has its own inner
+   row with the Tufts logo centered and Follow Us pushed right.
+================================================================ */
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto {
+     display: block;
+     flex: 1;
+     margin-left: 0 !important;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row {
+     display: flex;
+     align-items: center;
+     position: relative;
+     width: 100%;
+}
+.site-footer .container > .row {
+     display: flex;
+     align-items: center;
+}
+.site-footer .PHONECOL {
+     flex: none;
+     margin-right: 0 !important;
+}
+.site-footer .col-lg-5 {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+}
+.site-footer .col-lg-4 {
+     width: auto;
+     margin-left: auto !important;
+}
+
+/* Tighter spacing between the Follow Us links */
+.site-footer .col-lg-4 li {
+     margin-bottom: 4px;
+}
+
+/* ================================================================
+   PATCH 30 — abandoning flex/auto-margin for this footer row after
+   repeated failures (Patches 23, 29 both hit cases where
+   margin:auto found no free space to consume in this nested
+   Bootstrap structure). Positioning all three items directly
+   against .site-footer instead — the same reliable technique
+   already used for centering the Tufts logo — sidesteps the flex
+   quirks entirely since each item is now independently placed.
+
+   BUGFIX found while verifying: PHONECOL (the CEEO logo column)
+   and the Follow Us column both happen to carry Bootstrap's
+   "col-lg-4" class (PHONECOL is "PHONECOL col-sm-4 col-md-4
+   col-lg-4"; Follow Us is "ABOUTCOL col-md-6 col-lg-4") — a plain
+   ".col-lg-4" selector matches both and was styling the CEEO logo
+   as if it were the Follow Us block. Scoped to ".ABOUTCOL.col-lg-4"
+   so only Follow Us is targeted.
+================================================================ */
+.site-footer {
+     position: relative;
+     min-height: 120px;
+}
+.site-footer .container > .row {
+     display: block;
+}
+.site-footer .PHONECOL {
+     position: absolute;
+     left: 24px;
+     top: 50%;
+     transform: translateY(-50%);
+     margin: 0 !important;
+     text-align: left;
+     max-width: none;
+     width: auto;
+}
+.site-footer .col-lg-5 {
+     position: absolute;
+     left: 50%;
+     top: 50%;
+     transform: translate(-50%, -50%);
+     text-align: center;
+     margin: 0 !important;
+}
+.site-footer .ABOUTCOL.col-md-6.col-lg-6.ml-auto > .row {
+     position: static;
+}
+.site-footer .ABOUTCOL.col-lg-4 {
+     position: absolute !important;
+     right: 24px;
+     top: 50%;
+     transform: translateY(-50%);
+     text-align: right;
+     margin: 0 !important;
+     width: auto;
+     max-width: none;
+}
+
+/* ================================================================
+   PATCH 31 — bugfix found while verifying: Patch 22's
+   ".site-footer .ABOUTCOL{position:static}" rule is what makes the
+   Tufts logo center correctly (without it, its offsetParent is the
+   ABOUTCOL wrapper — the right half of the footer — not the full
+   footer, throwing centering off by 297px, confirmed live). But
+   that same generic ".ABOUTCOL" selector also matches Follow Us
+   (which is "ABOUTCOL col-lg-4"), so it needs !important on both
+   sides: static on the generic rule, and absolute (already above)
+   on the Follow-Us-specific one, so the more specific selector
+   wins despite both having !important.
+================================================================ */
+.site-footer .ABOUTCOL {
+     position: static !important;
+}
