@@ -19,7 +19,6 @@ description
 
 placematlinks
 : [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
-: [TEST](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
 
 placematpic
 : ../web/img/IntroBiomimicry.png
