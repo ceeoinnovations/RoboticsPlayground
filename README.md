@@ -20,7 +20,7 @@ Placemats are stored on the Robotics Playground shared Google Drive. The placema
 2. Download the first page of your placemat as a JPG or PNG. Use the Download command in the Google Slides menu. Do not take a screenshot. Upload the image to the [CEEO shared Box account](https://tufts.box.com/s/3nsgrfawutp7anr2jbigaagx7eylm1qa). Contact lynne.ramsey@tufts.edu for access.
 
 3. Create a shared link for your image. **THIS MUST LINK TO AN IMAGE FILE (eg. .png or .jpg), not a Box link. There are two steps:
-Click on Share and toggle on Shared Link.
+Click on Share and toggle on Shared Link.<br>
 
 <img width="510" height="428" alt="Screenshot 2026-08-24 at 1 53 10 PM" src="https://github.com/user-attachments/assets/b1b94f35-f8f4-411b-926d-4c1c09f82375" />
 
