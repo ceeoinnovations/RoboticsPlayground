@@ -13,13 +13,14 @@ The site is built with [Jekyll](https://jekyllrb.com/) and hosted on GitHub Page
 
 ## Adding a placemat to the library
 
-Placemats are stored on the Robotics Playground shared Google Drive. The placemats are displayed in an [Awesome Table](https://app.awesome-table.com/-ME0YM1NkC8JwlHj2VS9/view), which is a Google Extension. They table is populated from the [REAL ROBOTICS PLAYGROUND Google Sheet](https://docs.google.com/spreadsheets/d/1pCT-nGqTpvs494EhFhReZzWjYg9PRH34G4emRQT8bPg/edit?usp=drive_link). Contact lynne.ramsey@tufts.edu for access. You will need to use your tuftsceeo.org Google account.
+Placemats are stored on the Robotics Playground shared Google Drive. The placemats are displayed in an [Awesome Table](https://app.awesome-table.com/-ME0YM1NkC8JwlHj2VS9/view), which is a Google Extension. The table is populated from the [REAL ROBOTICS PLAYGROUND Google Sheet](https://docs.google.com/spreadsheets/d/1pCT-nGqTpvs494EhFhReZzWjYg9PRH34G4emRQT8bPg/edit?usp=drive_link). Contact lynne.ramsey@tufts.edu for access. You will need to use your tuftsceeo.org Google account.
 
 1. Go to the [Placemats folder](https://drive.google.com/drive/folders/1l64jGsMP18SlPqkLTCK_ZcHTwIkhYyU4?usp=drive_link) in the **Robotics Playground** shared Google Drive. Add your placemat file(s) to the folder.
-2. Download the first page of your placemat as a JPG or PNG. Used the Download command in the Google Slides menu. Do not take a screenshot. Upload the image to the [CEEO shared Box account](https://tufts.box.com/s/3nsgrfawutp7anr2jbigaagx7eylm1qa). Contact lynne.ramsey@tufts.edu for access.
-3. Create a shared link for your image. **THIS MUST LINK TO AN IMAGE FILE (eg. .png or .jpg), not a Box link. There are two steps: Click on Share and toggle on Shared Link and then click on Link Settings. Use that URL.<img width="510" height="428" alt="Screenshot 2026-08-24 at 1 53 10 PM" src="https://github.com/user-attachments/assets/b1b94f35-f8f4-411b-926d-4c1c09f82375" />
-<img width="522" height="497" alt="Screenshot 2026-08-24 at 1 53 21 PM" src="https://github.com/user-attachments/assets/faa6d0ad-3c79-49ed-9b31-c1e896f437cb" />
-4. Open the [REAL ROBOTICS PLAYGROUND Google Sheet](https://docs.google.com/spreadsheets/d/1pCT-nGqTpvs494EhFhReZzWjYg9PRH34G4emRQT8bPg/edit?usp=drive_link) and fill out one row per placemat (even if it's also part of a playlist, it still needs its own row here):
+2. Download the first page of your placemat as a JPG or PNG. Use the Download command in the Google Slides menu. Do not take a screenshot. Upload the image to the [CEEO shared Box account](https://tufts.box.com/s/3nsgrfawutp7anr2jbigaagx7eylm1qa). Contact lynne.ramsey@tufts.edu for access.
+3. Create a shared link for your image. **THIS MUST LINK TO AN IMAGE FILE (eg. .png or .jpg), not a Box link. There are two steps:
+Click on Share and toggle on Shared Link.<img width="510" height="428" alt="Screenshot 2026-08-24 at 1 53 10 PM" src="https://github.com/user-attachments/assets/b1b94f35-f8f4-411b-926d-4c1c09f82375" />
+Then click on Link Settings. Use that URL<img width="522" height="497" alt="Screenshot 2026-08-24 at 1 53 21 PM" src="https://github.com/user-attachments/assets/faa6d0ad-3c79-49ed-9b31-c1e896f437cb" />
+5. Open the [REAL ROBOTICS PLAYGROUND Google Sheet](https://docs.google.com/spreadsheets/d/1pCT-nGqTpvs494EhFhReZzWjYg9PRH34G4emRQT8bPg/edit?usp=drive_link) and fill out one row per placemat (even if it's also part of a playlist, it still needs its own row here):
    - **Name** — the placemat title
    - **Details** — the prompt
    - **Descriptions** — leave blank, it's a formula and fills itself in (drag it down from the row above if it doesn't)
