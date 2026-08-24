@@ -715,3 +715,93 @@ body {
 .work-thumb .work-text > p:not(.work-text2) {
      display: none;
 }
+
+/* ================================================================
+   PATCH 2 — green grid hero band, bigger cards, logo sizing,
+   centered/bigger playlist titles.
+================================================================ */
+
+/* ---- Green grid hero band (title banner), matching the main
+   CEEO Innovations site's green-grid header ---- */
+.site-heading,
+.headplaygroundsubheader {
+     background-color: var(--brand-green);
+     background-image:
+          linear-gradient(rgba(255, 255, 255, .35) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(255, 255, 255, .35) 1px, transparent 1px);
+     background-size: 40px 40px;
+}
+.site-heading {
+     width: 100%;
+     max-width: none;
+     margin: 0;
+     padding: 3.5rem 1.5rem 2.5rem;
+     text-align: center;
+}
+.headplaygroundsubheader {
+     padding: 0 1.5rem 3.5rem;
+     margin: 0;
+     text-align: center;
+}
+#titleheader {
+     width: 100%;
+     text-align: center;
+}
+#headmypageheader,
+#mypageheader,
+.myprojectheader {
+     display: block;
+     width: 100%;
+     text-align: center;
+     color: #fff;
+}
+/* .myprojectheader has an inline color style in the page markup,
+   so it needs !important to win against that inline style */
+.myprojectheader {
+     color: #fff !important;
+     font-weight: 600;
+     letter-spacing: .04em;
+}
+#headmypageheader,
+#mypageheader {
+     font-size: clamp(1.8rem, 4vw, 3rem);
+     font-weight: 600;
+     text-shadow: none;
+}
+.headplaygroundsubheader {
+     color: #fff;
+}
+
+/* Description callout box on individual playlist pages — a white
+   card floating on the green grid, instead of green-on-green */
+.playgroundsubheader {
+     background-color: #fff;
+     color: var(--ink);
+     max-width: 640px;
+     margin: 1.5rem auto 0;
+}
+
+/* ---- Bigger playlist cards on the homepage ---- */
+.home_playlist_container .row {
+     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+#block {
+     height: 150px;
+}
+.work-thumb .work-text h2 {
+     font-size: 1.05rem;
+}
+.work-thumb .work-text {
+     padding: 12px 14px 14px;
+}
+
+/* ---- Logo sizing ---- */
+#navbar #navtuftsimglink {
+     width: 150px;
+     padding-top: 10px;
+}
+.site-footer .PHONECOL img {
+     max-width: 170px;
+     width: 100%;
+     height: auto;
+}
