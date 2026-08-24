@@ -19,8 +19,6 @@ description
 
 placematlinks
 : [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
-: [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
-: [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
 
 placematpic
 : ../web/img/IntroBiomimicry.png
@@ -37,6 +35,7 @@ description
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
+: [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
 
 placematpic
 : ../web/img/JazzShadeCover.png
