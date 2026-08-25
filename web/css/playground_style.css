@@ -1699,3 +1699,55 @@ footer.footer.text-faded p {
 .site-footer .footer-heading {
      color: var(--ink) !important;
 }
+
+/* ================================================================
+   PATCH 34 — bugfix: Patch 32 set align-items:start on the grid to
+   satisfy "image top aligned with text top". That also stops the
+   image from stretching to fill its 2-row span, so when the text
+   (heading+description) is shorter than the image, the row track
+   still grows to fit the image's natural height, but the image
+   itself (aligned to start, not stretched) sits at the top with a
+   large gap below it — the bug in the screenshot. Switching to
+   stretch (grid's actual default) fixes this: the image still
+   starts at the same top edge either way (that part isn't
+   affected), but now fills the full row height instead of
+   floating in it. Also making sure the video row and the text
+   column both truly span their full width.
+================================================================ */
+.black_backdrop {
+     align-items: stretch;
+}
+.black_backdrop .row > div:first-child img {
+     width: 100%;
+     height: 100%;
+     object-fit: contain;
+     display: block;
+}
+.black_backdrop #myconpageheader,
+.black_backdrop .description_and_links {
+     width: 100%;
+     max-width: none;
+}
+.black_backdrop > .accordion,
+.black_backdrop > .panel {
+     width: 100%;
+}
+.black_backdrop > .panel .row {
+     width: 100%;
+     margin-left: 0;
+     margin-right: 0;
+}
+
+/* ================================================================
+   PATCH 35 — bugfix: the title sat 15px further left than the
+   paragraph below it (measured exactly: heading left edge 851.5px,
+   paragraph left edge 866.5px). Cause: .description_and_links
+   still carries Bootstrap's old column gutter padding-left:15px,
+   which the heading doesn't have. Not needed now that this is a
+   CSS Grid with its own gap — removing it aligns both to the same
+   left edge.
+================================================================ */
+.black_backdrop .description_and_links {
+     padding-left: 0;
+     padding-right: 0;
+}
