@@ -1604,3 +1604,98 @@ footer.footer.text-faded p {
 .site-footer .ABOUTCOL {
      position: static !important;
 }
+
+/* ================================================================
+   PATCH 32 — "Learning Goals" box matched to the same 70% column
+   as the placemat boxes below it (measured 1337px vs 1170px
+   before this fix), and the per-placemat title moved to sit above
+   the description text in the right-hand cell (since the image on
+   the left already has its own title baked into the graphic),
+   with the image's top edge aligned to the title's top edge.
+================================================================ */
+
+/* "Learning Goals" box: match the black_backdrop boxes below it */
+.learninggoals {
+     max-width: 70%;
+     margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 3rem;
+}
+
+/* Rebuild each placemat block as a 2-column grid so the title can
+   sit in the right column above the description text, instead of
+   spanning full-width above the image. Flattening the wrapper divs
+   with display:contents so the image/description columns can be
+   placed directly, same technique used for the nav bar earlier. */
+.black_backdrop {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     align-items: start;
+     column-gap: 2rem;
+}
+.black_backdrop > .playlist_container,
+.black_backdrop > .playlist_container > .def_block,
+.black_backdrop > .playlist_container > .def_block > .row {
+     display: contents;
+}
+.black_backdrop #myconpageheader {
+     grid-column: 2;
+     grid-row: 1;
+     text-align: left;
+     margin: 0 0 0.75rem 0;
+     font-size: 1.75rem;
+     font-weight: 700;
+}
+.black_backdrop .row > div:first-child {
+     grid-column: 1;
+     grid-row: 1 / span 2;
+}
+.black_backdrop .description_and_links {
+     grid-column: 2;
+     grid-row: 2;
+}
+.black_backdrop > .accordion,
+.black_backdrop > .panel {
+     grid-column: 1 / -1;
+}
+
+/* ================================================================
+   PATCH 33 — contrast fix: white text on the green background
+   fails contrast checks. Switching text to black, and swapping
+   all four logo instances (nav CEEO, nav Tufts, footer CEEO,
+   footer Tufts) from the white external versions to the black
+   versions already in this repo (web/img/Logo_Black.png and
+   web/img/ceeoblacklogo.png — these are what the site used before
+   the nav/footer were made green). Paths are relative to this CSS
+   file's own location (web/css/), not to each page, which is more
+   reliable than matching each page's own relative depth.
+================================================================ */
+
+/* ---- Logos: black instead of white, on both nav and footer ---- */
+#logo img,
+#logoimg {
+     content: url("../img/Logo_Black.png");
+     background-color: transparent !important;
+}
+#navtuftsimglink img {
+     content: url("../img/ceeoblacklogo.png");
+}
+.site-footer .PHONECOL img {
+     content: url("../img/Logo_Black.png");
+}
+.site-footer .col-lg-5 img {
+     content: url("../img/ceeoblacklogo.png");
+}
+
+/* ---- Text: black instead of white, wherever it sits on green ---- */
+#navbar-right .navlink {
+     color: var(--ink) !important;
+}
+footer.footer.text-faded p {
+     color: var(--ink) !important;
+}
+.site-footer .ABOUTCOL.col-lg-4,
+.site-footer .ABOUTCOL.col-lg-4 a,
+.site-footer .footer-heading {
+     color: var(--ink) !important;
+}
