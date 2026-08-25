@@ -1812,12 +1812,24 @@ footer.footer.text-faded p {
 .media_element {
      aspect-ratio: 4 / 3;
      overflow: hidden;
+     padding-left: 0;
+     padding-right: 0;
 }
+/* bugfix found via measurement: .media_element items 2 and 3 in a
+   row of 3 carried leftover Bootstrap gutter padding (~9.16px each
+   side) that item 1 didn't, making their content render 18px
+   narrower even though the containers themselves were equal width
+   — the same recurring pattern as the earlier column-width bugs.
+   The iframe rule below also needed !important — a separate,
+   not-fully-traced rule was still winning against a plain
+   width:100% for iframes specifically; forcing it resolves it
+   reliably. */
 .media_element img,
-.media_element video {
-     width: 100%;
-     height: 100%;
+.media_element video,
+.media_element iframe {
+     width: 100% !important;
+     height: 100% !important;
      object-fit: cover;
-     margin-left: 0;
-     margin-right: 0;
+     margin-left: 0 !important;
+     margin-right: 0 !important;
 }
