@@ -1716,6 +1716,7 @@ footer.footer.text-faded p {
 ================================================================ */
 .black_backdrop {
      align-items: stretch;
+     grid-template-rows: min-content 1fr;
 }
 .black_backdrop .row > div:first-child img {
      width: 100%;
@@ -1791,6 +1792,32 @@ footer.footer.text-faded p {
 }
 .black_backdrop .panel .row {
      width: 100%;
+     margin-left: 0;
+     margin-right: 0;
+}
+
+/* ================================================================
+   PATCH 37 — tighter title-to-text spacing, and uniform height
+   for the photo/video thumbnail row (measured: they were 278px,
+   262px, and 260px tall, and inconsistent widths too — not
+   locked to a shared box at all before this).
+================================================================ */
+.black_backdrop #myconpageheader {
+     margin-bottom: 0.25rem;
+     align-self: start;
+}
+.black_backdrop .description_and_links {
+     align-self: start;
+}
+.media_element {
+     aspect-ratio: 4 / 3;
+     overflow: hidden;
+}
+.media_element img,
+.media_element video {
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
      margin-left: 0;
      margin-right: 0;
 }
