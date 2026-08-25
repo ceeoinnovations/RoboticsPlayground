@@ -1751,3 +1751,45 @@ footer.footer.text-faded p {
      padding-left: 0;
      padding-right: 0;
 }
+.black_backdrop .row > div:first-child {
+     padding-left: 0;
+     padding-right: 0;
+}
+
+/* ================================================================
+   PATCH 36 — two real bugs found and confirmed via the actual DOM:
+
+   1. The image was forced to height:100% + object-fit:contain
+      (Patch 34) to fill its 2-row span. That works for tall/
+      portrait placemat graphics, but for a wide/landscape one
+      (like "Retractable Shade Cover"), contain shrinks the whole
+      image down to fit the available height, making it tiny
+      instead of filling the width. Switching to width:100%,
+      height:auto (natural aspect ratio) guarantees full width
+      always, which is what was actually asked for; a landscape
+      image may leave some space below it in a tall cell, which is
+      a normal tradeoff, not a bug.
+
+   2. The video-thumbnail row never spanned the full card. Cause:
+      Patch 32/34 used a CHILD combinator (.black_backdrop > .panel),
+      but .panel's real DOM parent is .def_block, three levels
+      down (.black_backdrop > .playlist_container > .def_block >
+      .panel) — confirmed by walking the actual DOM. The child
+      combinator never matched, so grid-column:1/-1 never applied.
+      Fixed to a descendant combinator so it actually reaches it.
+================================================================ */
+.black_backdrop .row > div:first-child img {
+     width: 100%;
+     height: auto;
+     object-fit: unset;
+}
+.black_backdrop .accordion,
+.black_backdrop .panel {
+     grid-column: 1 / -1;
+     width: 100%;
+}
+.black_backdrop .panel .row {
+     width: 100%;
+     margin-left: 0;
+     margin-right: 0;
+}
