@@ -38,6 +38,7 @@ placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
 : [Resources Card (Print)](https://docs.google.com/document/d/1NSJ62Q0KYViP9W2k1J1SY8SLCQIiilRSZP2bBr-c-Q0/edit?usp=sharing)
+: [Students' projects](https://docs.google.com/presentation/d/1fxLP9vHhGYAO3zGNbLrqFVRRJEHQIBmWBicJsQG5H3E/edit?usp=sharing)
 
 placematpic
 : ../web/img/JazzShadeCover.png
@@ -61,6 +62,7 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1yZnb3jGRcQbAS19A9b_RHvA-lqv4ulhCE2Bh0-LktrY/edit?usp=sharing)
 : [Resources Card (Print)](https://docs.google.com/document/d/1SXfFz9oleMBTrGbtNzm1a0T5jcNxdjSbmnvzI5iE9BU/edit?usp=sharing)
 : [Pedlet Resources](https://padlet.com/TuftsCEEO/digging-370winala6hbvhm2)
+: [Students' projects](https://docs.google.com/presentation/d/10yExT8ojK4qr2E1mmUKKp_x7nNpN4SvIDgWAlBKuxYg/edit?usp=sharing)
 
 placematpic
 : ../web/img/JazzTreasureExplore.png
@@ -84,6 +86,8 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1n8BS-N2DvqR9jC2gmez0WSI-avt2YHATc3SYFf81oj4/edit?usp=sharing)
 : [Resources Cards (Print)](https://docs.google.com/document/d/1r8LMsBfBSTgV2242tHBLPRgh9ZRf0Z0GbI76TnIifaQ/edit?usp=sharing)
 : [Pedlet Resources](https://padlet.com/TuftsCEEO/grasping-8aqcinra3exqb8tm)
+: [Students' projects](https://docs.google.com/presentation/d/175VgZw-GRUgujgjnhRZ3r_ZKJp3u8pK1KVxBMTKImEU/edit?usp=sharing)
+
 
 placematpic
 : ../web/img/JazzFruitHarvest.png
@@ -107,6 +111,7 @@ placematlinks
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1vD_FmZ0NNperqFHXFpo6uSsvh_aknkZ_yqbJEYU8CuA/edit?usp=sharing)
 : [Resources Cards (Print)](https://docs.google.com/document/d/1TEceps-s7XbzcIJnGNXaTegpk1Yo1gDuhUU9ltIVxZs/edit?usp=sharing)
 : [Pedlet Resources](https://padlet.com/TuftsCEEO/flinging-lca9qyr08c6j74bm)
+: [Students' projects](https://docs.google.com/presentation/d/1tdCnOblNFmNBJUVRSNAkN8Q970d2c0YoBX6m8uqDv4k/edit?usp=sharing)
 
 placematpic
 : ../web/img/JazzTShirt.png
