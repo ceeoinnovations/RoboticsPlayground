@@ -82,6 +82,8 @@ description
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1ledtV_DeklilWM5E7kEYjhZ8WxkCaOJaRf9THr5u1sc/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1n8BS-N2DvqR9jC2gmez0WSI-avt2YHATc3SYFf81oj4/edit?usp=sharing)
+: [Resources Cards (Print)](https://docs.google.com/document/d/1r8LMsBfBSTgV2242tHBLPRgh9ZRf0Z0GbI76TnIifaQ/edit?usp=sharing)
+: [Pedlet Resources](https://padlet.com/TuftsCEEO/grasping-8aqcinra3exqb8tm)
 
 placematpic
 : ../web/img/JazzFruitHarvest.png
@@ -103,6 +105,8 @@ description
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1QdOWYaX3mdau2yExS-e8zYp-odSX3mr9PJawzwSMnTA/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1vD_FmZ0NNperqFHXFpo6uSsvh_aknkZ_yqbJEYU8CuA/edit?usp=sharing)
+: [Resources Cards (Print)](https://docs.google.com/document/d/1TEceps-s7XbzcIJnGNXaTegpk1Yo1gDuhUU9ltIVxZs/edit?usp=sharing)
+: [Pedlet Resources](https://padlet.com/TuftsCEEO/flinging-lca9qyr08c6j74bm)
 
 placematpic
 : ../web/img/JazzTShirt.png
