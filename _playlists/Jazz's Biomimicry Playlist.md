@@ -37,7 +37,7 @@ description
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1fqJr9UDsm_ji17I09MEScvJjdM5vd8yJh_LKPWecE0Y/edit?usp=sharing)
-: [Placemat Link](https://docs.google.com/presentation/d/1F1P7JSemsLgjBK6GJGtM8Xh93RirxEbKvwdwsgV3bJg/edit?usp=sharing)
+: [Resources Card (Print)](https://docs.google.com/document/d/1NSJ62Q0KYViP9W2k1J1SY8SLCQIiilRSZP2bBr-c-Q0/edit?usp=sharing)
 
 placematpic
 : ../web/img/JazzShadeCover.png
@@ -59,6 +59,8 @@ description
 placematlinks
 : [Placemat Link](https://docs.google.com/presentation/d/1yd8MiwwP9QL-IBNxm1OA5svCYmv779Jrcvjhh7wZGog/edit?usp=sharing)
 : [Teacher Guide Link](https://docs.google.com/presentation/d/1yZnb3jGRcQbAS19A9b_RHvA-lqv4ulhCE2Bh0-LktrY/edit?usp=sharing)
+: [Resources Card (Print)](https://docs.google.com/document/d/1SXfFz9oleMBTrGbtNzm1a0T5jcNxdjSbmnvzI5iE9BU/edit?usp=sharing)
+: [Pedlet Resources](https://padlet.com/TuftsCEEO/digging-370winala6hbvhm2)
 
 placematpic
 : ../web/img/JazzTreasureExplore.png
