@@ -19,6 +19,8 @@ description
 
 placematlinks
 : [Video Link](https://docs.google.com/presentation/d/14H1ZzKrXLRGhs-Rbe7DpYgTeSUTJ44VHkkmChZP_zj4/edit?usp=sharing)
+: [Teacher Guide Link](https://docs.google.com/presentation/d/1Cby-G3LASSv5uuyrnFfA45eImYPuHmuaMfTV62_Pnqg/edit?usp=sharing)
+: [Natural Organisms](https://padlet.com/TuftsCEEO/biomimicry-resources-ssz6njwdkhu3f3dw)
 
 placematpic
 : ../web/img/IntroBiomimicry.png
